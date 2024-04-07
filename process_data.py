@@ -54,10 +54,10 @@ def processBrowserHistory(csvpath: str):
     counts = counts[counts['Count'] > 1]
     counts = counts.sort_values(by='Count', ascending=False)
     # print(counts.head(11))
-    counts.to_csv('MalcolmsonTopDomains.csv', index=False)
+    counts.to_csv('OliviaData/MalcolmsonTopDomains.csv', index=False)
 
 def main():
-    processBrowserHistory("MalcolmsonBrowserHistory.csv")
+    processBrowserHistory("OliviaData/MalcolmsonBrowserHistory.csv")
     # tldsDF = tldToDF('tlds.txt') # can't remember why i thought I was going to use this
     # processURL('https://www.youtube.com/watch?v=sQcQEIkd2tw') #for testing
 
