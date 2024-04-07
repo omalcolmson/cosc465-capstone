@@ -1,0 +1,14 @@
+traceroute to gmail.com (142.251.40.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.060ms    0.054ms    0.047ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.798ms    0.796ms    0.800ms  
+ 3  10.9.52.10 (10.9.52.10)  0.853ms    0.861ms    1.525ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.994ms    1.657ms    1.655ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.830ms    3.838ms    3.855ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.636ms    6.641ms    6.646ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.054ms    7.059ms    7.064ms  
+ 8  199.109.114.18 (199.109.114.18)  8.231ms    8.232ms    26.265ms  
+ 9  * * *
+10  142.251.65.92 (142.251.65.92)  8.227ms    8.230ms    8.248ms  
+11  108.170.236.89 (108.170.236.89)  6.811ms    6.813ms    6.820ms  
+12  lga34s39-in-f5.1e100.net (142.251.40.229)  6.961ms    6.962ms    6.968ms  
+

@@ -1,0 +1,16 @@
+traceroute to buff163.com (69.16.230.226), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.715ms    0.714ms    0.717ms  
+ 3  10.9.52.10 (10.9.52.10)  0.864ms    0.872ms    1.546ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.138ms    1.826ms    1.825ms  
+ 5  * * *
+ 6  be2091.rcr71.syr01.atlas.cogentco.com (154.24.3.165)  2.233ms    2.243ms    3.109ms  
+ 7  be2933.ccr22.alb02.atlas.cogentco.com (154.54.87.237)  7.559ms    7.561ms    8.401ms  
+ 8  be4077.ccr42.jfk02.atlas.cogentco.com (154.54.90.101)  7.635ms    7.649ms    7.665ms  
+ 9  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  12.900ms    12.904ms    12.912ms  
+10  be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  13.802ms    13.806ms    13.812ms  
+11  38.88.214.15 (38.88.214.15)  14.033ms    14.032ms    201.863ms  
+12  lw-dc3-core1.rtr.liquidweb.com (209.59.157.16)  37.655ms    37.656ms    76.079ms  
+13  lw-dc3-dist14-nexus.rtr.liquidweb.com (209.59.157.243)  36.719ms    36.720ms    48.268ms  
+14  lb05.parklogic.com (69.16.230.226)  36.728ms    36.731ms    36.775ms  
+

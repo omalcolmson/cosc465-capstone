@@ -1,0 +1,12 @@
+traceroute to pandas.pydata.org (104.26.0.204), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.075ms    0.064ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.790ms    0.789ms    0.794ms  
+ 3  10.9.52.10 (10.9.52.10)  0.942ms    0.941ms    0.947ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.069ms    1.873ms    1.877ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.470ms    1.471ms    1.474ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.847ms    1.848ms    2.757ms  
+ 7  199.109.107.70 (199.109.107.70)  8.906ms    8.909ms    9.832ms  
+ 8  nyiix.as13335.net (198.32.160.195)  13.182ms    13.187ms    13.192ms  
+ 9  172.70.228.2 (172.70.228.2)  11.328ms    11.327ms    11.333ms  
+10  104.26.0.204 (104.26.0.204)  9.927ms    9.927ms    9.932ms  
+

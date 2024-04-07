@@ -1,0 +1,15 @@
+traceroute to x.com (104.244.42.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.073ms    0.066ms    0.087ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.795ms    0.793ms    0.798ms  
+ 3  10.9.52.10 (10.9.52.10)  0.847ms    0.855ms    1.562ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.085ms    1.824ms    1.824ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.071ms    7.086ms    7.094ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.263ms    7.264ms    8.094ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.136ms    7.137ms    39.581ms  
+ 8  * * *
+ 9  TenGE0-0-0-0.br04.ash01.as3491.net (63.223.40.2)  13.852ms    13.850ms    595.440ms  
+10  TenGE0-0-0-0.br04.ash01.as3491.net (63.223.40.2)  13.344ms    13.342ms    13.395ms  
+11  Twitter.BE5.br04.ash01.as3491.net (63.218.94.250)  13.275ms    13.286ms    13.294ms  
+12  * * *
+13  104.244.42.1 (104.244.42.1)  33.112ms    33.110ms    33.117ms  
+

@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 # script to run paris-traceroute in a Docker image (copied from COSC465-L, lab 6)
 if [ $# -ne 1 ]; then
     echo "Usage: ./docker_traceroute.sh DESTINATION"

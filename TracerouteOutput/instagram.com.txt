@@ -1,0 +1,16 @@
+traceroute to instagram.com (31.13.71.174), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.757ms    0.761ms    0.769ms  
+ 3  10.9.52.10 (10.9.52.10)  0.897ms    0.900ms    0.910ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.168ms    1.866ms    1.866ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.415ms    2.425ms    3.211ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.992ms    1.996ms    2.003ms  
+ 7  199.109.107.70 (199.109.107.70)  9.091ms    9.098ms    9.105ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  9.376ms    9.402ms    9.408ms  
+ 9  po203.asw01.lga1.tfbnw.net (157.240.103.116)  8.892ms    8.895ms    8.902ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.916ms    8.916ms    8.922ms  
+11  msw1ac.01.lga3.tfbnw.net (129.134.89.139)  8.890ms    8.892ms    8.900ms  
+12  * * *
+13  * * *
+14  * * *
+
