@@ -1,0 +1,34 @@
+CDN domains found in gmail.com.txt: 
+cdn.nysernet.net
+CDN domains found in linkedin.com.txt: 
+cdn.nysernet.net
+CDN domains found in docs.google.com.txt: 
+cdn.nysernet.net
+CDN domains found in github.com.txt: 
+cdn.nysernet.net
+CDN domains found in moodle.colgate.edu.txt: 
+cdn.nysernet.net
+CDN domains found in drive.google.com.txt: 
+cdn.nysernet.net
+CDN domains found in dineoncampus.com.txt: 
+cdn.nysernet.net
+CDN domains found in youtube.com.txt: 
+cdn.nysernet.net
+CDN domains found in chat.openai.com.txt: 
+cdn.nysernet.net
+CDN domains found in netflix.com.txt: 
+cdn.nysernet.net
+CDN domains found in instagram.com.txt: 
+cdn.nysernet.net
+CDN domains found in amazon.com.txt: 
+cdn.nysernet.net
+CDN domains found in open.spotify.com.txt: 
+cdn.nysernet.net
+CDN domains found in pandas.pydata.org.txt: 
+cdn.nysernet.net
+CDN domains found in di.se.txt: 
+cdn.nysernet.net
+CDN domains found in google.com.txt: 
+cdn.nysernet.net
+CDN domains found in www.notion.so.txt: 
+cdn.nysernet.net
