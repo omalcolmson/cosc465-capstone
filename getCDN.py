@@ -1,7 +1,7 @@
 import os
 import re
 
-# Function to extract CDN domains from traceroute files
+# extract CDN domains from traceroute files
 def extract_cdn_domains(trace_route_folder):
     cdn_domains = set()
 
@@ -16,7 +16,7 @@ def extract_cdn_domains(trace_route_folder):
                             cdn_domains.add(domain)
     return cdn_domains
 
-# Example usage:
+# print
 trace_route_folder = 'TracerouteOutput'  
 cdn_domains = extract_cdn_domains(trace_route_folder)
 
