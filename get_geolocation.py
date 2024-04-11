@@ -2,10 +2,10 @@ import os
 import re
 import requests
 
-# Define the patterns for IP extraction
+# regex pattern for ip 
 ip_pattern = re.compile(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b')
 
-# Function to extract IP addresses from a traceroute file
+# extract IP addresses from a traceroute file
 def extract_ips(filename):
     ips = []
     with open(filename, 'r') as file:
@@ -15,7 +15,7 @@ def extract_ips(filename):
                 ips.append(ip_match.group())
     return ips
 
-# Function to get geolocation of an IP using ipinfo.io
+# get geolocation of an IP using ipinfo.io
 def get_geolocation(ip):
     try:
         response = requests.get(f"http://ipinfo.io/{ip}/json?token=c9c103e4f334e4")
@@ -28,7 +28,6 @@ def get_geolocation(ip):
         print(f"Error fetching geolocation for IP {ip}: {e}")
         return None
 
-# Main function
 def main():
     folder_path = "TracerouteOutput"
     output_file = "geolocations.txt"
@@ -42,9 +41,9 @@ def main():
                     for ip in ips:
                         geolocation = get_geolocation(ip)
                         if geolocation:
-                            output.write(f"Filename: {filename}, IP: {ip}, Location: {geolocation}\n")
+                            output.write(f"Domain: {filename}, IP: {ip}, Location: {geolocation}\n")
                         else:
-                            output.write(f"Filename: {filename}, IP: {ip}, Location: Not found\n")
+                            output.write(f"Domain: {filename}, IP: {ip}, Location: Not found\n")
 
 if __name__ == "__main__":
     main()
