@@ -139,7 +139,7 @@ def getASNames(path) -> list:
     ASNames = []
     for pair in path:
         if pair[1] not in ASNames:
-            ASNames.append(pair[1])
+            ASNames.append(pair)
     return ASNames
 
 
