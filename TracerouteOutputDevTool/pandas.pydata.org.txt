@@ -1,0 +1,66 @@
+traceroute to pandas.pydata.org (104.26.0.204), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.074ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.885ms    0.886ms    0.892ms  
+ 3  10.9.52.10 (10.9.52.10)  0.929ms    0.929ms    0.935ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.097ms    1.106ms    1.951ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.569ms    1.574ms    1.579ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.755ms    1.766ms    2.658ms  
+ 7  199.109.107.70 (199.109.107.70)  9.033ms    9.036ms    9.040ms  
+ 8  nyiix.as13335.net (198.32.160.195)  10.236ms   * *
+ 9  172.70.228.2 (172.70.228.2)  10.058ms    10.060ms    10.066ms  
+10  104.26.0.204 (104.26.0.204)  9.916ms    9.920ms    9.926ms  
+
+traceroute to pandas.pydata.org (104.26.1.204), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.056ms    0.045ms    0.038ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.747ms    0.741ms    0.744ms  
+ 3  10.9.52.10 (10.9.52.10)  0.862ms    0.862ms    0.867ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.182ms    1.880ms    1.878ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.553ms    1.560ms    1.567ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.693ms    1.693ms    2.402ms  
+ 7  199.109.107.70 (199.109.107.70)  8.825ms    8.825ms    9.634ms  
+ 8  nyiix.as13335.net (198.32.160.195)  23.054ms    23.053ms   *
+ 9  172.70.108.2 (172.70.108.2)  16.487ms    16.493ms    16.500ms  
+10  104.26.1.204 (104.26.1.204)  9.599ms    9.603ms    9.610ms  
+
+traceroute to pandas.pydata.org (172.67.71.236), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.038ms    0.032ms    0.027ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.751ms    0.754ms    0.758ms  
+ 3  10.9.52.10 (10.9.52.10)  0.801ms    0.807ms    1.420ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.092ms    1.760ms    1.760ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.418ms    2.023ms    2.022ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.161ms    2.166ms    2.865ms  
+ 7  199.109.107.70 (199.109.107.70)  9.096ms    9.103ms    9.111ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.753ms   * *
+ 9  172.70.108.2 (172.70.108.2)  12.275ms    12.276ms    12.280ms  
+10  172.67.71.236 (172.67.71.236)  9.434ms    9.441ms    9.449ms  
+
+traceroute to pandas.pydata.org (104.26.1.204), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.084ms    0.074ms    0.064ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.717ms    0.715ms    0.720ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.103ms    1.864ms    1.872ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.550ms    1.583ms    1.590ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.835ms    1.838ms    2.607ms  
+ 7  199.109.107.70 (199.109.107.70)  8.830ms    8.833ms    9.636ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.972ms   * *
+ 9  172.70.108.2 (172.70.108.2)  9.948ms    9.948ms    9.948ms  
+10  104.26.1.204 (104.26.1.204)  9.614ms    9.621ms    9.628ms  
+
+traceroute to signaler-pa.clients6.google.com (142.250.80.42), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.809ms    0.810ms    0.812ms  
+ 3  10.9.52.10 (10.9.52.10)  0.882ms    0.884ms    0.887ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.100ms    1.812ms    1.814ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  3.423ms    3.426ms    3.435ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.094ms    2.085ms    2.870ms  
+ 7  199.109.107.70 (199.109.107.70)  8.936ms    8.945ms    8.988ms  
+ 8  * * *
+ 9  * * *
+10  108.170.235.132 (108.170.235.132)  9.770ms    9.772ms    9.777ms  
+11  192.178.107.42 (192.178.107.42)  10.283ms    10.286ms    10.292ms  
+12  216.239.58.121 (216.239.58.121)  9.729ms   * *
+13  209.85.255.37 (209.85.255.37)  9.791ms    9.798ms    9.808ms  
+14  192.178.106.163 (192.178.106.163)  10.220ms    10.219ms    43.730ms  
+15  142.251.65.97 (142.251.65.97)  9.405ms    9.408ms    9.411ms  
+16  lga34s34-in-f10.1e100.net (142.250.80.42)  9.400ms    9.400ms    9.404ms  
+

@@ -1,0 +1,80 @@
+traceroute to instagram.com (31.13.71.174), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.065ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.786ms    0.791ms    0.798ms  
+ 3  10.9.52.10 (10.9.52.10)  0.939ms    0.942ms    0.948ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.218ms    1.188ms    2.039ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.500ms    1.500ms    1.504ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.883ms    1.896ms    2.721ms  
+ 7  199.109.107.70 (199.109.107.70)  8.814ms    8.816ms    9.681ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  9.407ms    9.408ms    9.415ms  
+ 9  po203.asw01.lga1.tfbnw.net (157.240.103.116)  8.631ms    8.641ms    8.652ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.870ms    8.873ms    8.878ms  
+11  msw1ac.01.lga3.tfbnw.net (129.134.89.139)  8.915ms    8.916ms    8.923ms  
+12  * * *
+13  * * *
+14  * * *
+
+traceroute to static.cdninstagram.com (31.13.71.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.088ms    0.076ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.738ms    0.730ms    0.726ms  
+ 3  10.9.52.10 (10.9.52.10)  0.850ms    0.858ms    1.564ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.405ms    1.400ms    2.192ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.546ms    1.543ms    2.284ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.027ms    2.030ms    2.842ms  
+ 7  199.109.107.70 (199.109.107.70)  8.835ms    9.630ms    9.631ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  26.683ms    26.699ms    27.476ms  
+ 9  po203.asw03.lga1.tfbnw.net (157.240.103.120)  8.654ms    8.670ms    30.780ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.967ms    8.967ms    8.969ms  
+11  msw1ap.01.lga3.tfbnw.net (129.134.95.210)  8.949ms    8.956ms    8.961ms  
+12  * * *
+13  * * *
+14  * * *
+
+traceroute to static.cdninstagram.com (31.13.71.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.746ms    0.745ms    0.746ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.151ms    1.159ms    1.906ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.524ms    1.528ms    1.535ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.698ms    1.703ms    2.491ms  
+ 7  199.109.107.70 (199.109.107.70)  8.826ms    9.734ms    9.736ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  8.857ms    8.863ms    8.868ms  
+ 9  po203.asw03.lga1.tfbnw.net (157.240.103.120)  8.615ms    8.618ms    8.625ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.947ms    8.950ms    8.957ms  
+11  msw1ap.01.lga3.tfbnw.net (129.134.95.210)  8.930ms    8.934ms    8.941ms  
+12  * * *
+13  * * *
+14  * * *
+
+traceroute to static.cdninstagram.com (31.13.71.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.030ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.708ms    0.709ms    0.711ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.193ms    1.200ms    1.954ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.554ms    1.561ms    1.567ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.912ms    1.914ms    2.735ms  
+ 7  199.109.107.70 (199.109.107.70)  8.814ms    8.826ms    9.684ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  8.861ms    8.867ms    8.872ms  
+ 9  po203.asw03.lga1.tfbnw.net (157.240.103.120)  8.560ms    9.339ms    9.340ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.927ms    8.933ms    8.949ms  
+11  msw1ap.01.lga3.tfbnw.net (129.134.95.210)  8.890ms    8.896ms    8.904ms  
+12  * * *
+13  * * *
+14  * * *
+
+traceroute to graph.instagram.com (31.13.71.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.055ms    0.051ms    0.043ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.744ms    0.746ms    0.753ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.454ms    3.739ms    3.745ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.552ms    1.556ms    1.561ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.720ms    2.512ms    2.511ms  
+ 7  199.109.107.70 (199.109.107.70)  8.846ms    9.701ms    9.702ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  9.005ms    9.011ms    9.018ms  
+ 9  po203.asw03.lga1.tfbnw.net (157.240.103.120)  8.638ms    8.642ms    8.648ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.990ms    8.994ms    9.001ms  
+11  msw1ap.01.lga3.tfbnw.net (129.134.95.210)  8.936ms    8.941ms    8.947ms  
+12  * * *
+13  * * *
+14  * * *
+

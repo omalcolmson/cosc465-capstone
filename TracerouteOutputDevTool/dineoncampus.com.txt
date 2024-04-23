@@ -1,0 +1,66 @@
+traceroute to dineoncampus.com (104.26.9.15), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.056ms    0.046ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.707ms    0.706ms    0.710ms  
+ 3  10.9.52.10 (10.9.52.10)  0.862ms    0.869ms    1.614ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.902ms    1.564ms    3.406ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.798ms    3.801ms    3.809ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.722ms    6.726ms    6.733ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.107ms    7.111ms    7.118ms  
+ 8  de-cix-new-york.as13335.net (206.82.104.31)  8.608ms    8.611ms    8.617ms  
+ 9  162.158.152.3 (162.158.152.3)  7.639ms    7.644ms    7.651ms  
+10  104.26.9.15 (104.26.9.15)  7.733ms    7.729ms    7.733ms  
+
+traceroute to dineoncampus.com (104.26.8.15), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.027ms    0.023ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.804ms    0.803ms    0.804ms  
+ 3  10.9.52.10 (10.9.52.10)  0.792ms    1.394ms    1.393ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.076ms    1.685ms    1.684ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.771ms    3.775ms    3.776ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.649ms    6.654ms    6.658ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.939ms    6.947ms    6.954ms  
+ 8  de-cix-new-york.as13335.net (206.82.104.31)  13.146ms    13.151ms    13.947ms  
+ 9  172.70.108.2 (172.70.108.2)  8.326ms    8.330ms    8.346ms  
+10  104.26.8.15 (104.26.8.15)  7.448ms    7.448ms    7.452ms  
+
+traceroute to dineoncampus.com (104.26.9.15), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.048ms   * *
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.806ms    0.807ms    0.807ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.960ms    1.777ms    1.778ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.795ms    3.801ms    3.808ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.792ms    6.797ms    6.804ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.102ms    7.101ms    7.108ms  
+ 8  de-cix-new-york.as13335.net (206.82.104.31)  7.887ms    8.728ms    8.730ms  
+ 9  162.158.152.3 (162.158.152.3)  7.605ms    7.602ms    7.608ms  
+10  104.26.9.15 (104.26.9.15)  7.673ms    7.677ms    7.680ms  
+
+traceroute to dineoncampus.com (172.67.69.131), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.094ms    0.069ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.887ms    0.879ms    0.878ms  
+ 3  10.9.52.10 (10.9.52.10)  0.908ms    0.909ms    0.908ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.036ms    1.702ms    1.696ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.786ms    3.784ms    3.786ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.644ms    6.643ms    6.645ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.736ms    6.736ms    7.533ms  
+ 8  de-cix-new-york.as13335.net (206.82.104.31)  7.927ms    8.718ms    8.719ms  
+ 9  172.70.228.2 (172.70.228.2)  43.753ms    43.756ms   *
+10  172.67.69.131 (172.67.69.131)  7.692ms    7.690ms    7.693ms  
+
+traceroute to google.com (142.250.176.206), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.743ms    0.741ms    0.744ms  
+ 3  10.9.52.10 (10.9.52.10)  0.854ms    0.864ms    1.566ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.169ms    1.852ms    1.850ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.832ms    1.839ms    1.855ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.877ms    2.583ms    2.581ms  
+ 7  199.109.107.70 (199.109.107.70)  8.779ms    8.791ms    9.622ms  
+ 8  72.14.202.166 (72.14.202.166)  10.907ms    10.909ms    28.065ms  
+ 9  * * *
+10  142.251.60.180 (142.251.60.180)  9.512ms    9.514ms    9.532ms  
+11  192.178.107.52 (192.178.107.52)  9.627ms    9.629ms    9.635ms  
+12  209.85.254.239 (209.85.254.239)  10.745ms    10.744ms    27.552ms  
+13  209.85.255.26 (209.85.255.26)  9.602ms    9.604ms    9.610ms  
+14  192.178.106.21 (192.178.106.21)  9.497ms    9.499ms    9.505ms  
+15  142.251.65.111 (142.251.65.111)  9.344ms    9.347ms    9.354ms  
+16  lga34s37-in-f14.1e100.net (142.250.176.206)  9.402ms    9.404ms    9.411ms  
+

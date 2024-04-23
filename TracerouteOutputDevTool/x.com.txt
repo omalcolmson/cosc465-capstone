@@ -1,0 +1,60 @@
+traceroute to abs.twimg.com (152.199.24.185), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.072ms    0.065ms    0.055ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.849ms    0.850ms    0.854ms  
+ 3  10.9.52.10 (10.9.52.10)  1.040ms    1.041ms    1.047ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.154ms    1.157ms    1.163ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.144ms    7.144ms    7.150ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.244ms    8.177ms    8.182ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.541ms    7.532ms    7.545ms  
+ 8  38.140.106.226 (38.140.106.226)  7.602ms    8.465ms    8.469ms  
+ 9  ae-68.core1.nyd.edgecastcdn.net (152.195.69.135)  7.945ms    7.943ms    8.780ms  
+10  152.199.24.185 (152.199.24.185)  7.091ms    7.092ms    7.097ms  
+
+traceroute to abs.twimg.com (152.199.24.185), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.804ms    0.806ms    0.813ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.164ms    1.161ms    2.100ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.159ms    7.164ms    7.171ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.238ms    7.237ms    8.107ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.406ms    7.422ms    8.346ms  
+ 8  38.140.106.226 (38.140.106.226)  7.647ms    7.646ms    8.503ms  
+ 9  ae-68.core1.nyd.edgecastcdn.net (152.195.69.135)  7.805ms    8.674ms    8.680ms  
+10  152.199.24.185 (152.199.24.185)  7.069ms    7.072ms    7.087ms  
+
+traceroute to abs.twimg.com (152.199.24.185), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.058ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.786ms    0.785ms    0.789ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.103ms    1.110ms    1.925ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.189ms    7.987ms    7.988ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.274ms    7.276ms    8.068ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.470ms    7.475ms    7.481ms  
+ 8  38.140.106.226 (38.140.106.226)  7.529ms    8.319ms    8.320ms  
+ 9  ae-68.core1.nyd.edgecastcdn.net (152.195.69.135)  7.712ms    8.497ms    8.500ms  
+10  152.199.24.185 (152.199.24.185)  7.018ms    7.023ms    7.039ms  
+
+traceroute to abs.twimg.com (152.199.24.185), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.061ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.793ms    0.796ms    0.803ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.006ms    1.010ms    1.016ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.129ms    7.132ms    7.137ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.225ms    8.003ms    8.005ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.266ms    8.038ms    8.042ms  
+ 8  38.140.106.226 (38.140.106.226)  16.518ms    16.519ms    17.333ms  
+ 9  ae-68.core1.nyd.edgecastcdn.net (152.195.69.135)  7.650ms    7.652ms    8.395ms  
+10  152.199.24.185 (152.199.24.185)  7.049ms    7.052ms    7.058ms  
+
+traceroute to abs.twimg.com (152.199.24.185), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.049ms    0.046ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.822ms    0.833ms    0.846ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.070ms    1.987ms    1.995ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.083ms    7.081ms    7.866ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.423ms    8.200ms    8.201ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.441ms    8.233ms    8.235ms  
+ 8  38.140.106.226 (38.140.106.226)  10.138ms    10.143ms    10.149ms  
+ 9  ae-68.core1.nyd.edgecastcdn.net (152.195.69.135)  7.602ms    8.356ms    8.358ms  
+10  152.199.24.185 (152.199.24.185)  7.007ms    7.010ms    7.026ms  
+

@@ -1,0 +1,63 @@
+traceroute to assets.nflxext.com (45.57.91.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.043ms    0.030ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.765ms    0.765ms    0.767ms  
+ 3  10.9.52.10 (10.9.52.10)  0.877ms    0.877ms    0.881ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.971ms    1.592ms    1.592ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  10.523ms    10.542ms    10.553ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.672ms    6.679ms    6.685ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.894ms    6.899ms    6.905ms  
+ 8  de-cix1.nyc.netflix.com (206.82.104.122)  6.703ms    6.707ms    6.673ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to cdn.cookielaw.org (104.19.177.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.044ms    0.040ms    0.035ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.859ms    0.858ms    0.860ms  
+ 3  10.9.52.10 (10.9.52.10)  0.825ms    1.470ms    1.468ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.259ms    1.262ms    2.036ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.604ms    1.606ms    1.613ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.954ms    2.700ms    2.699ms  
+ 7  199.109.107.70 (199.109.107.70)  8.991ms    8.994ms    9.840ms  
+ 8  * * *
+ 9  199.27.132.36 (199.27.132.36)  9.449ms    10.440ms    10.466ms  
+10  104.19.177.52 (104.19.177.52)  9.484ms    9.498ms    10.375ms  
+
+traceroute to assets.nflxext.com (45.57.91.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.023ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.724ms    0.725ms    0.727ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.059ms    1.926ms    1.923ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.800ms    3.805ms    3.812ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.791ms    6.790ms    6.788ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.956ms    6.952ms    6.952ms  
+ 8  de-cix1.nyc.netflix.com (206.82.104.122)  6.598ms    7.461ms    7.456ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to assets.nflxext.com (45.57.90.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.032ms    0.026ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.819ms    0.807ms    0.805ms  
+ 3  10.9.52.10 (10.9.52.10)  0.829ms    0.840ms    1.548ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.056ms    1.757ms    1.757ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.837ms    3.852ms    3.861ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.743ms    6.746ms    6.753ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.825ms    6.831ms    6.837ms  
+ 8  de-cix.nyc.netflix.com (206.82.104.81)  6.705ms    6.709ms    6.714ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to cdn.cookielaw.org (104.19.177.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.071ms    0.064ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.793ms    0.786ms    0.784ms  
+ 3  10.9.52.10 (10.9.52.10)  0.854ms    0.857ms    1.570ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.213ms    1.879ms    1.884ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.511ms    1.521ms    1.523ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.820ms    2.509ms    2.502ms  
+ 7  199.109.107.70 (199.109.107.70)  9.019ms    9.009ms    9.833ms  
+ 8  nyiix.as13335.net (198.32.160.195)  30.922ms   * *
+ 9  199.27.132.36 (199.27.132.36)  9.549ms    10.262ms    10.261ms  
+10  104.19.177.52 (104.19.177.52)  9.505ms    9.509ms    9.513ms  
+

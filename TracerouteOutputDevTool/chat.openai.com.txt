@@ -1,0 +1,60 @@
+traceroute to cdn.oaistatic.com (104.18.41.158), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.063ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.759ms    0.751ms    0.755ms  
+ 3  10.9.52.10 (10.9.52.10)  0.849ms    1.595ms    1.594ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.114ms    1.908ms    1.907ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.593ms    1.606ms    1.614ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.943ms    1.944ms    2.787ms  
+ 7  199.109.107.70 (199.109.107.70)  8.856ms    8.853ms    9.678ms  
+ 8  nyiix.as13335.net (198.32.160.195)  11.242ms    11.243ms   *
+ 9  172.70.228.2 (172.70.228.2)  10.111ms    10.107ms    10.107ms  
+10  104.18.41.158 (104.18.41.158)  10.045ms    10.051ms    10.057ms  
+
+traceroute to cdn.oaistatic.com (172.64.146.98), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.026ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.740ms    0.739ms    0.739ms  
+ 3  10.9.52.10 (10.9.52.10)  0.810ms    1.411ms    1.410ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.036ms    1.640ms    1.641ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.479ms    1.490ms    1.494ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.787ms    2.450ms    2.450ms  
+ 7  199.109.107.70 (199.109.107.70)  8.847ms    8.855ms    8.870ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.701ms    9.706ms   *
+ 9  172.70.112.2 (172.70.112.2)  12.350ms    12.356ms    12.364ms  
+10  172.64.146.98 (172.64.146.98)  9.888ms    9.888ms    9.887ms  
+
+traceroute to cdn.oaistatic.com (104.18.41.158), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.032ms    0.030ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.851ms    0.850ms    0.852ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.157ms    1.162ms    1.983ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.461ms    1.467ms    1.473ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.875ms    1.880ms    1.886ms  
+ 7  199.109.107.70 (199.109.107.70)  8.936ms    8.940ms    8.947ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.996ms    10.856ms    10.856ms  
+ 9  172.70.228.2 (172.70.228.2)  10.501ms    10.517ms    10.523ms  
+10  104.18.41.158 (104.18.41.158)  9.973ms    9.975ms    9.981ms  
+
+traceroute to cdn.oaistatic.com (172.64.146.98), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.090ms    0.086ms    0.073ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.779ms    0.780ms    0.784ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.082ms    1.104ms    1.897ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.497ms    1.502ms    1.509ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.770ms    2.474ms    2.474ms  
+ 7  199.109.107.70 (199.109.107.70)  8.873ms    8.877ms    8.883ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.869ms    9.872ms    9.879ms  
+ 9  172.70.112.2 (172.70.112.2)  10.223ms    10.227ms    10.234ms  
+10  172.64.146.98 (172.64.146.98)  9.979ms    9.984ms    9.989ms  
+
+traceroute to cdn.oaistatic.com (172.64.146.98), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.772ms    0.772ms    0.777ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.040ms    1.037ms    3.420ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.478ms    1.481ms    1.487ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.097ms    2.106ms    2.797ms  
+ 7  199.109.107.70 (199.109.107.70)  8.931ms    8.936ms    8.943ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.929ms    10.712ms    10.713ms  
+ 9  172.70.112.2 (172.70.112.2)  14.820ms    14.841ms    14.847ms  
+10  172.64.146.98 (172.64.146.98)  9.988ms    9.990ms    9.997ms  
+

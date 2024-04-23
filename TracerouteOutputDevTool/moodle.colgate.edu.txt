@@ -1,0 +1,66 @@
+traceroute to moodle.colgate.edu (54.90.110.254), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.873ms    0.875ms    0.880ms  
+ 3  10.9.52.10 (10.9.52.10)  0.944ms    0.950ms    0.944ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.188ms    2.050ms    2.069ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.526ms    1.523ms    1.539ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.945ms    1.941ms    2.787ms  
+ 7  199.109.107.70 (199.109.107.70)  8.976ms    8.976ms    9.777ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  12.690ms    12.687ms    12.693ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to ajax.googleapis.com (142.251.32.106), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.089ms    0.065ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.770ms    0.772ms    0.777ms  
+ 3  10.9.52.10 (10.9.52.10)  0.907ms    0.906ms    0.912ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.129ms    1.835ms    1.833ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.482ms    1.482ms    1.492ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.857ms    1.858ms    1.864ms  
+ 7  199.109.107.70 (199.109.107.70)  8.913ms    8.910ms    8.916ms  
+ 8  72.14.202.166 (72.14.202.166)  10.249ms    10.246ms    27.650ms  
+ 9  * * *
+10  142.251.60.224 (142.251.60.224)  10.101ms    10.105ms    10.132ms  
+11  142.251.60.179 (142.251.60.179)  9.272ms    9.275ms    9.280ms  
+12  lga25s77-in-f10.1e100.net (142.251.32.106)  9.434ms    9.437ms    9.442ms  
+
+traceroute to moodle.colgate.edu (18.214.20.206), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.028ms    0.026ms    0.023ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.791ms    0.790ms    0.793ms  
+ 3  10.9.52.10 (10.9.52.10)  0.810ms    1.425ms    1.424ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.129ms    1.710ms    1.710ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.509ms    2.099ms    2.113ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.919ms    2.523ms    2.522ms  
+ 7  199.109.107.70 (199.109.107.70)  8.784ms    9.387ms    9.403ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  9.761ms    9.761ms    9.764ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to moodle.colgate.edu (54.90.110.254), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.030ms    0.027ms    0.024ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.873ms    0.874ms    0.875ms  
+ 3  10.9.52.10 (10.9.52.10)  0.807ms    1.431ms    1.431ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.150ms    1.784ms    1.783ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.607ms    1.607ms    1.614ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.706ms    1.708ms    2.384ms  
+ 7  199.109.107.70 (199.109.107.70)  8.801ms    8.807ms    9.559ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  8.930ms    8.939ms    8.948ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to moodle.colgate.edu (54.90.110.254), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.800ms    0.801ms    0.802ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.124ms    1.873ms    1.873ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.552ms    1.559ms    1.566ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.155ms    2.160ms    2.167ms  
+ 7  199.109.107.70 (199.109.107.70)  8.870ms    8.876ms    8.884ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  8.974ms    8.979ms    8.985ms  
+ 9  * * *
+10  * * *
+11  * * *
+

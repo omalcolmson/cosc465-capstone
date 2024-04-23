@@ -1,0 +1,67 @@
+traceroute to di.se (34.117.105.189), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.065ms    0.063ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.816ms    0.815ms    0.814ms  
+ 3  10.9.52.10 (10.9.52.10)  0.898ms    0.899ms    0.905ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.089ms    1.083ms    1.977ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.797ms    3.789ms    3.785ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  8.191ms    8.184ms    8.182ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.041ms    7.041ms    7.039ms  
+ 8  199.109.114.18 (199.109.114.18)  7.793ms    7.792ms    8.636ms  
+ 9  142.250.63.91 (142.250.63.91)  7.950ms    7.950ms    41.698ms  
+10  142.250.224.245 (142.250.224.245)  7.944ms    7.943ms    42.251ms  
+11  189.105.117.34.bc.googleusercontent.com (34.117.105.189)  7.085ms    7.084ms    58.108ms  
+
+traceroute to di.se (34.117.105.189), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.058ms    0.050ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.767ms    0.767ms    0.770ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.086ms    1.922ms    1.923ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.815ms    3.822ms    3.827ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.717ms    6.718ms    6.724ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.828ms    6.831ms    6.837ms  
+ 8  199.109.114.18 (199.109.114.18)  7.949ms    7.952ms    7.959ms  
+ 9  142.250.63.91 (142.250.63.91)  7.922ms    7.922ms    8.721ms  
+10  142.250.224.245 (142.250.224.245)  7.763ms    7.768ms    7.773ms  
+11  189.105.117.34.bc.googleusercontent.com (34.117.105.189)  7.145ms    7.158ms    7.174ms  
+
+traceroute to di.se (34.117.105.189), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.024ms    0.023ms    0.019ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.813ms    0.816ms    0.821ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.854ms    1.734ms    1.743ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.710ms    3.713ms    3.720ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.763ms    6.767ms    6.772ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.914ms    6.919ms    6.926ms  
+ 8  199.109.114.18 (199.109.114.18)  7.645ms    7.648ms    8.512ms  
+ 9  142.250.63.91 (142.250.63.91)  8.006ms    8.008ms    8.847ms  
+10  142.250.224.245 (142.250.224.245)  7.926ms    8.749ms    8.751ms  
+11  189.105.117.34.bc.googleusercontent.com (34.117.105.189)  7.114ms    7.121ms    7.128ms  
+
+traceroute to di.se (34.117.105.189), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.742ms    0.742ms    0.745ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.047ms    1.051ms    1.873ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.739ms    3.745ms    3.752ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.855ms    6.859ms    6.864ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.006ms    7.010ms    7.014ms  
+ 8  199.109.114.18 (199.109.114.18)  7.794ms    8.763ms    8.763ms  
+ 9  142.250.63.91 (142.250.63.91)  7.993ms    7.996ms    8.789ms  
+10  142.250.224.245 (142.250.224.245)  7.950ms    7.954ms    7.959ms  
+11  189.105.117.34.bc.googleusercontent.com (34.117.105.189)  7.125ms    7.126ms    7.132ms  
+
+traceroute to sdk.privacy-center.org (18.164.96.127), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.078ms    0.063ms    0.048ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.909ms    0.904ms    0.908ms  
+ 3  10.9.52.10 (10.9.52.10)  0.905ms    0.908ms    0.913ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.080ms    1.876ms    1.846ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.819ms    3.821ms    3.828ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.781ms    6.781ms    6.787ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.970ms    6.971ms    6.977ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  37.511ms    37.510ms    37.517ms  
+ 9  52.93.51.41 (52.93.51.41)  12.972ms    12.973ms    12.979ms  
+10  52.93.1.24 (52.93.1.24)  7.581ms    7.578ms    26.084ms  
+11  * * *
+12  * * *
+13  * * *
+
