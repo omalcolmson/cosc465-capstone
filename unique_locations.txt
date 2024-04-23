@@ -1,0 +1,35 @@
+All Unique Locations and Their Counts:
+Location: Unknown: 66
+Location: New York City: 57
+Location: Hamilton: 25
+Location: Rock Hall: 17
+Location: Syracuse: 12
+Location: San Francisco: 11
+Location: Secaucus: 8
+Location: Ashburn: 8
+Location: Bayonne: 4
+Location: Lansing: 4
+Location: San Jose: 4
+Location: Newark: 3
+Location: Hoboken: 3
+Location: Linden: 2
+Location: Elizabeth: 2
+Location: Chelsea: 2
+Location: North Syracuse: 2
+Location: Albany: 2
+Location: Jersey City: 2
+Location: Kansas City: 2
+Location: Sterling: 1
+Location: Rahway: 1
+Location: Rio de Janeiro: 1
+Location: Piscataway: 1
+Location: Astoria: 1
+Location: South Riding: 1
+Location: Washington: 1
+Location: Redmond: 1
+Location: Bloomfield: 1
+Location: Boardman: 1
+Location: Brook Park: 1
+Location: Chicago: 1
+Location: Denver: 1
+Location: Salt Lake City: 1
