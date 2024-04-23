@@ -1,0 +1,1183 @@
+Domain: dineoncampus.com.txt, IP: 104.26.9.15, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: dineoncampus.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 206.82.104.31, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 162.158.152.3, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 104.26.9.15, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 104.26.8.15, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: dineoncampus.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 206.82.104.31, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 172.70.108.2, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 104.26.8.15, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 104.26.9.15, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: dineoncampus.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 206.82.104.31, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 162.158.152.3, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 104.26.9.15, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 172.67.69.131, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: dineoncampus.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 206.82.104.31, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 172.70.228.2, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 172.67.69.131, Location: San Francisco, California, US
+Domain: dineoncampus.com.txt, IP: 142.250.176.206, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: dineoncampus.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: dineoncampus.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: dineoncampus.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 142.251.60.180, Location: Mariners Harbor, New York, US
+Domain: dineoncampus.com.txt, IP: 192.178.107.52, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 209.85.254.239, Location: Chelsea, New York, US
+Domain: dineoncampus.com.txt, IP: 209.85.255.26, Location: Bayonne, New Jersey, US
+Domain: dineoncampus.com.txt, IP: 192.178.106.21, Location: New York City, New York, US
+Domain: dineoncampus.com.txt, IP: 142.251.65.111, Location: Bayonne, New Jersey, US
+Domain: dineoncampus.com.txt, IP: 142.250.176.206, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 104.26.0.204, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: pandas.pydata.org.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.70.228.2, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 104.26.0.204, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 104.26.1.204, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: pandas.pydata.org.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.70.108.2, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 104.26.1.204, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 172.67.71.236, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: pandas.pydata.org.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.70.108.2, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.67.71.236, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 104.26.1.204, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.70.108.2, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 104.26.1.204, Location: San Francisco, California, US
+Domain: pandas.pydata.org.txt, IP: 142.250.80.42, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: pandas.pydata.org.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: pandas.pydata.org.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: pandas.pydata.org.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: pandas.pydata.org.txt, IP: 108.170.235.132, Location: Bayonne, New Jersey, US
+Domain: pandas.pydata.org.txt, IP: 192.178.107.42, Location: Jersey City, New Jersey, US
+Domain: pandas.pydata.org.txt, IP: 216.239.58.121, Location: North Arlington, New Jersey, US
+Domain: pandas.pydata.org.txt, IP: 209.85.255.37, Location: Bloomfield, New York, US
+Domain: pandas.pydata.org.txt, IP: 192.178.106.163, Location: Kearny, New Jersey, US
+Domain: pandas.pydata.org.txt, IP: 142.251.65.97, Location: Bayonne, New Jersey, US
+Domain: pandas.pydata.org.txt, IP: 142.250.80.42, Location: New York City, New York, US
+Domain: colgate.edu.txt, IP: 10.250.4.198, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 10.9.52.20, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.129.3, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 10.9.52.20, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 10.9.53.203, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.129.1, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 10.9.52.20, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.129.1, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 10.250.4.198, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: colgate.edu.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: colgate.edu.txt, IP: 10.9.52.20, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 45.57.91.1, Location: Wilmington, Delaware, US
+Domain: netflix.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: netflix.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: netflix.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 206.82.104.122, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 104.19.177.52, Location: San Francisco, California, US
+Domain: netflix.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: netflix.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: netflix.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: netflix.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 199.27.132.36, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 104.19.177.52, Location: San Francisco, California, US
+Domain: netflix.com.txt, IP: 45.57.91.1, Location: Wilmington, Delaware, US
+Domain: netflix.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: netflix.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: netflix.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 206.82.104.122, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 45.57.90.1, Location: Wilmington, Delaware, US
+Domain: netflix.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: netflix.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: netflix.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 206.82.104.81, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 104.19.177.52, Location: San Francisco, California, US
+Domain: netflix.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: netflix.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: netflix.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: netflix.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: netflix.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 199.27.132.36, Location: New York City, New York, US
+Domain: netflix.com.txt, IP: 104.19.177.52, Location: San Francisco, California, US
+Domain: github.com.txt, IP: 185.199.109.154, Location: San Francisco, California, US
+Domain: github.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: github.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: github.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: github.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: github.com.txt, IP: 185.199.110.154, Location: San Francisco, California, US
+Domain: github.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: github.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: github.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: github.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: github.com.txt, IP: 185.199.109.154, Location: San Francisco, California, US
+Domain: github.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: github.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: github.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: github.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: github.com.txt, IP: 185.199.110.154, Location: San Francisco, California, US
+Domain: github.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: github.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: github.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: github.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: github.com.txt, IP: 185.199.111.154, Location: San Francisco, California, US
+Domain: github.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: github.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: github.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: github.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: github.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: drive.google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: drive.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: drive.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.251.65.94, Location: Linden, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.65.99, Location: Elizabeth, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.250.80.110, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: drive.google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: drive.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: drive.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 216.239.49.64, Location: Chelsea, New York, US
+Domain: drive.google.com.txt, IP: 192.178.107.52, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.251.68.251, Location: Newark, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.69.0, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 192.178.106.19, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.65.115, Location: Newark, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.250.80.110, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.250.80.110, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: drive.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: drive.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: drive.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 216.239.49.64, Location: Chelsea, New York, US
+Domain: drive.google.com.txt, IP: 192.178.107.52, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.251.68.251, Location: Newark, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.69.0, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 192.178.106.19, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.65.115, Location: Newark, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.250.80.110, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.250.80.110, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: drive.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: drive.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: drive.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 216.239.49.64, Location: Chelsea, New York, US
+Domain: drive.google.com.txt, IP: 192.178.107.52, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.251.68.251, Location: Newark, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.69.0, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 192.178.106.19, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.65.115, Location: Newark, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.250.80.110, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.250.65.206, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: drive.google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: drive.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: drive.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: drive.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: drive.google.com.txt, IP: 142.251.64.4, Location: Bayonne, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.251.60.237, Location: Kearny, New Jersey, US
+Domain: drive.google.com.txt, IP: 142.250.65.206, Location: New York City, New York, US
+Domain: di.se.txt, IP: 34.117.105.189, Location: Kansas City, Missouri, US
+Domain: di.se.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: di.se.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: di.se.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.114.18, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.63.91, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.224.245, Location: Secaucus, New Jersey, US
+Domain: di.se.txt, IP: 189.105.117.34, Location: Rio de Janeiro, Rio de Janeiro, BR
+Domain: di.se.txt, IP: 34.117.105.189, Location: Kansas City, Missouri, US
+Domain: di.se.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: di.se.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: di.se.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.114.18, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.63.91, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.224.245, Location: Secaucus, New Jersey, US
+Domain: di.se.txt, IP: 189.105.117.34, Location: Rio de Janeiro, Rio de Janeiro, BR
+Domain: di.se.txt, IP: 34.117.105.189, Location: Kansas City, Missouri, US
+Domain: di.se.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: di.se.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: di.se.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.114.18, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.63.91, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.224.245, Location: Secaucus, New Jersey, US
+Domain: di.se.txt, IP: 189.105.117.34, Location: Rio de Janeiro, Rio de Janeiro, BR
+Domain: di.se.txt, IP: 34.117.105.189, Location: Kansas City, Missouri, US
+Domain: di.se.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: di.se.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: di.se.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.114.18, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.63.91, Location: New York City, New York, US
+Domain: di.se.txt, IP: 142.250.224.245, Location: Secaucus, New Jersey, US
+Domain: di.se.txt, IP: 189.105.117.34, Location: Rio de Janeiro, Rio de Janeiro, BR
+Domain: di.se.txt, IP: 18.164.96.127, Location: New York City, New York, US
+Domain: di.se.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: di.se.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: di.se.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: di.se.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: di.se.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: di.se.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: di.se.txt, IP: 52.93.51.41, Location: New York City, New York, US
+Domain: di.se.txt, IP: 52.93.1.24, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 31.13.71.174, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: instagram.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: instagram.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: instagram.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.69.222, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.103.116, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 129.134.62.112, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.89.139, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 31.13.71.52, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: instagram.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: instagram.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: instagram.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.69.222, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.103.120, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.62.112, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.95.210, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 31.13.71.52, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: instagram.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: instagram.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: instagram.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.69.222, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.103.120, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.62.112, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.95.210, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 31.13.71.52, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: instagram.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: instagram.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: instagram.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.69.222, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.103.120, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.62.112, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.95.210, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 31.13.71.52, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: instagram.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: instagram.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: instagram.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: instagram.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.69.222, Location: New York City, New York, US
+Domain: instagram.com.txt, IP: 157.240.103.120, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.62.112, Location: Secaucus, New Jersey, US
+Domain: instagram.com.txt, IP: 129.134.95.210, Location: Secaucus, New Jersey, US
+Domain: gradescope.com.txt, IP: 142.250.80.68, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gradescope.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: gradescope.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: gradescope.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 142.251.64.4, Location: Bayonne, New Jersey, US
+Domain: gradescope.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 108.170.227.151, Location: Jersey City, New Jersey, US
+Domain: gradescope.com.txt, IP: 209.85.255.53, Location: Mariners Harbor, New York, US
+Domain: gradescope.com.txt, IP: 192.178.106.21, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 142.251.65.103, Location: Newark, New Jersey, US
+Domain: gradescope.com.txt, IP: 142.250.80.68, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 13.226.34.115, Location: Newark, New Jersey, US
+Domain: gradescope.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: gradescope.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: gradescope.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: gradescope.com.txt, IP: 52.93.51.39, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 52.93.1.38, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 13.226.34.92, Location: Newark, New Jersey, US
+Domain: gradescope.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: gradescope.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: gradescope.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: gradescope.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 198.32.160.64, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 13.226.34.108, Location: Newark, New Jersey, US
+Domain: gradescope.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gradescope.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: gradescope.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: gradescope.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 198.32.160.64, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 13.226.34.3, Location: Newark, New Jersey, US
+Domain: gradescope.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gradescope.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: gradescope.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: gradescope.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: gradescope.com.txt, IP: 52.93.51.45, Location: New York City, New York, US
+Domain: gradescope.com.txt, IP: 52.93.1.60, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 23.44.129.44, Location: Piscataway, New Jersey, US
+Domain: linkedin.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: linkedin.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: linkedin.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: linkedin.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 23.44.129.46, Location: Piscataway, New Jersey, US
+Domain: linkedin.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: linkedin.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: linkedin.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: linkedin.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 23.44.129.44, Location: Piscataway, New Jersey, US
+Domain: linkedin.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: linkedin.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: linkedin.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: linkedin.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 23.44.129.44, Location: Piscataway, New Jersey, US
+Domain: linkedin.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: linkedin.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: linkedin.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: linkedin.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 23.44.129.46, Location: Piscataway, New Jersey, US
+Domain: linkedin.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: linkedin.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: linkedin.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: linkedin.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: linkedin.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: linkedin.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 199.232.38.251, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: open.spotify.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: open.spotify.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 142.250.80.78, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: open.spotify.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: open.spotify.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: open.spotify.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 142.251.53.148, Location: Bayonne, New Jersey, US
+Domain: open.spotify.com.txt, IP: 142.251.65.101, Location: Newark, New Jersey, US
+Domain: open.spotify.com.txt, IP: 142.250.80.78, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 199.232.38.251, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: open.spotify.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: open.spotify.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 23.44.131.138, Location: Piscataway, New Jersey, US
+Domain: open.spotify.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: open.spotify.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: open.spotify.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: open.spotify.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 23.44.131.138, Location: Piscataway, New Jersey, US
+Domain: open.spotify.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: open.spotify.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: open.spotify.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: open.spotify.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: open.spotify.com.txt, IP: 199.109.107.206, Location: New York City, New York, US
+Domain: open.spotify.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 104.18.41.158, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: chat.openai.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: chat.openai.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: chat.openai.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.70.228.2, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 104.18.41.158, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.64.146.98, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: chat.openai.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: chat.openai.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: chat.openai.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.64.146.98, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 104.18.41.158, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: chat.openai.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: chat.openai.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: chat.openai.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.70.228.2, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 104.18.41.158, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.64.146.98, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: chat.openai.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: chat.openai.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: chat.openai.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.64.146.98, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.64.146.98, Location: San Francisco, California, US
+Domain: chat.openai.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: chat.openai.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: chat.openai.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: chat.openai.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: chat.openai.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: chat.openai.com.txt, IP: 172.64.146.98, Location: San Francisco, California, US
+Domain: gmail.com.txt, IP: 142.250.176.195, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gmail.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: gmail.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 199.109.114.18, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.60.236, Location: Jersey City, New Jersey, US
+Domain: gmail.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 108.170.227.151, Location: Jersey City, New Jersey, US
+Domain: gmail.com.txt, IP: 209.85.255.53, Location: Mariners Harbor, New York, US
+Domain: gmail.com.txt, IP: 192.178.106.21, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.65.111, Location: Bayonne, New Jersey, US
+Domain: gmail.com.txt, IP: 142.250.176.195, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.163.84, Location: Centreville, Virginia, US
+Domain: gmail.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gmail.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: gmail.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: gmail.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.60.232, Location: Chelsea, New York, US
+Domain: gmail.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 216.239.56.17, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 209.85.143.156, Location: Ashburn, Virginia, US
+Domain: gmail.com.txt, IP: 142.251.244.134, Location: Ashburn, Virginia, US
+Domain: gmail.com.txt, IP: 142.250.238.5, Location: Ashburn, Virginia, US
+Domain: gmail.com.txt, IP: 142.251.40.99, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: gmail.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: gmail.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 199.109.114.18, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.40.99, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.163.84, Location: Centreville, Virginia, US
+Domain: gmail.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gmail.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: gmail.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: gmail.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.60.232, Location: Chelsea, New York, US
+Domain: gmail.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 216.239.56.17, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 142.251.244.134, Location: Ashburn, Virginia, US
+Domain: gmail.com.txt, IP: 142.250.238.5, Location: Ashburn, Virginia, US
+Domain: gmail.com.txt, IP: 142.250.81.238, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: gmail.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: gmail.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: gmail.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: gmail.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: gmail.com.txt, IP: 216.239.43.62, Location: Elizabeth, New Jersey, US
+Domain: gmail.com.txt, IP: 142.251.60.235, Location: Mariners Harbor, New York, US
+Domain: gmail.com.txt, IP: 142.250.81.238, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 52.10.244.182, Location: Boardman, Oregon, US
+Domain: buff.163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: buff.163.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 154.24.3.165, Location: North Syracuse, New York, US
+Domain: buff.163.com.txt, IP: 154.54.87.237, Location: Albany, New York, US
+Domain: buff.163.com.txt, IP: 154.54.29.173, Location: Brook Park, Ohio, US
+Domain: buff.163.com.txt, IP: 154.54.7.129, Location: Chicago, Illinois, US
+Domain: buff.163.com.txt, IP: 154.54.44.169, Location: Kansas City, Missouri, US
+Domain: buff.163.com.txt, IP: 154.54.31.89, Location: Denver, Colorado, US
+Domain: buff.163.com.txt, IP: 154.54.42.97, Location: Salt Lake City, Utah, US
+Domain: buff.163.com.txt, IP: 154.54.44.141, Location: San Francisco, California, US
+Domain: buff.163.com.txt, IP: 154.54.43.14, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 38.88.224.186, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 52.93.47.135, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 54.240.242.75, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 44.239.175.199, Location: Boardman, Oregon, US
+Domain: buff.163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: buff.163.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: buff.163.com.txt, IP: 154.54.162.169, Location: Columbus, Ohio, US
+Domain: buff.163.com.txt, IP: 154.54.7.129, Location: Chicago, Illinois, US
+Domain: buff.163.com.txt, IP: 154.54.44.169, Location: Kansas City, Missouri, US
+Domain: buff.163.com.txt, IP: 154.54.31.89, Location: Denver, Colorado, US
+Domain: buff.163.com.txt, IP: 154.54.42.97, Location: Salt Lake City, Utah, US
+Domain: buff.163.com.txt, IP: 154.54.44.141, Location: San Francisco, California, US
+Domain: buff.163.com.txt, IP: 154.54.43.14, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 38.142.246.122, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 15.230.28.9, Location: Fremont, California, US
+Domain: buff.163.com.txt, IP: 54.240.242.21, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 44.239.175.199, Location: Boardman, Oregon, US
+Domain: buff.163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: buff.163.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: buff.163.com.txt, IP: 154.54.162.169, Location: Columbus, Ohio, US
+Domain: buff.163.com.txt, IP: 154.54.7.129, Location: Chicago, Illinois, US
+Domain: buff.163.com.txt, IP: 154.54.44.169, Location: Kansas City, Missouri, US
+Domain: buff.163.com.txt, IP: 154.54.31.89, Location: Denver, Colorado, US
+Domain: buff.163.com.txt, IP: 154.54.42.97, Location: Salt Lake City, Utah, US
+Domain: buff.163.com.txt, IP: 154.54.44.141, Location: San Francisco, California, US
+Domain: buff.163.com.txt, IP: 154.54.43.14, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 38.142.246.122, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 15.230.28.9, Location: Fremont, California, US
+Domain: buff.163.com.txt, IP: 54.240.242.21, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 44.239.175.199, Location: Boardman, Oregon, US
+Domain: buff.163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: buff.163.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: buff.163.com.txt, IP: 154.54.162.169, Location: Columbus, Ohio, US
+Domain: buff.163.com.txt, IP: 154.54.7.129, Location: Chicago, Illinois, US
+Domain: buff.163.com.txt, IP: 154.54.44.169, Location: Kansas City, Missouri, US
+Domain: buff.163.com.txt, IP: 154.54.31.89, Location: Denver, Colorado, US
+Domain: buff.163.com.txt, IP: 154.54.42.97, Location: Salt Lake City, Utah, US
+Domain: buff.163.com.txt, IP: 154.54.44.141, Location: San Francisco, California, US
+Domain: buff.163.com.txt, IP: 154.54.43.14, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 38.142.246.122, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 15.230.28.9, Location: Fremont, California, US
+Domain: buff.163.com.txt, IP: 54.240.242.21, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 23.205.20.151, Location: Piscataway, New Jersey, US
+Domain: buff.163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: buff.163.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: buff.163.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 206.82.104.62, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 108.139.54.203, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: amazon.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: amazon.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: amazon.com.txt, IP: 52.93.51.41, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.93.1.40, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 108.139.54.203, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: amazon.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: amazon.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: amazon.com.txt, IP: 52.93.51.41, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.93.1.40, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.94.232.195, Location: Ashburn, Virginia, US
+Domain: amazon.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: amazon.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: amazon.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: amazon.com.txt, IP: 52.93.51.47, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.93.1.187, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.93.1.42, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 108.139.54.203, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: amazon.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: amazon.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: amazon.com.txt, IP: 52.93.51.41, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.93.1.40, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 108.139.54.203, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: amazon.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: amazon.com.txt, IP: 199.109.108.41, Location: Rock Hall, Maryland, US
+Domain: amazon.com.txt, IP: 199.109.107.101, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 199.109.107.202, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 206.82.104.99, Location: Hoboken, New Jersey, US
+Domain: amazon.com.txt, IP: 52.93.51.41, Location: New York City, New York, US
+Domain: amazon.com.txt, IP: 52.93.1.40, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: docs.google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: docs.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: docs.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.65.94, Location: Linden, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.251.65.99, Location: Elizabeth, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: docs.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: docs.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: docs.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.65.94, Location: Linden, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.251.65.99, Location: Elizabeth, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: docs.google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: docs.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: docs.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 216.239.43.154, Location: Elizabeth, New Jersey, US
+Domain: docs.google.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.69.59, Location: Bayonne, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.251.69.67, Location: Edison, New Jersey, US
+Domain: docs.google.com.txt, IP: 192.178.106.157, Location: Colonia, New Jersey, US
+Domain: docs.google.com.txt, IP: 108.170.236.89, Location: Newark, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: docs.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: docs.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: docs.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 216.239.43.154, Location: Elizabeth, New Jersey, US
+Domain: docs.google.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.69.67, Location: Edison, New Jersey, US
+Domain: docs.google.com.txt, IP: 192.178.106.157, Location: Colonia, New Jersey, US
+Domain: docs.google.com.txt, IP: 108.170.236.89, Location: Newark, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: docs.google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: docs.google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: docs.google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: docs.google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: docs.google.com.txt, IP: 142.251.65.94, Location: Linden, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.251.65.99, Location: Elizabeth, New Jersey, US
+Domain: docs.google.com.txt, IP: 142.250.80.46, Location: New York City, New York, US
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 10.9.52.20, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: portal.colgate.edu.txt, IP: 10.9.53.103, Location: Unknown, Unknown, Unknown
+Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US
+Domain: moodle.colgate.edu.txt, IP: 54.90.110.254, Location: Ashburn, Virginia, US
+Domain: moodle.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: moodle.colgate.edu.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 198.32.160.64, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 142.251.32.106, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: moodle.colgate.edu.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 142.251.60.224, Location: Bloomfield, New York, US
+Domain: moodle.colgate.edu.txt, IP: 142.251.60.179, Location: Jersey City, New Jersey, US
+Domain: moodle.colgate.edu.txt, IP: 142.251.32.106, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 18.214.20.206, Location: Ashburn, Virginia, US
+Domain: moodle.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: moodle.colgate.edu.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 198.32.160.64, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 54.90.110.254, Location: Ashburn, Virginia, US
+Domain: moodle.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: moodle.colgate.edu.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 198.32.160.64, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 54.90.110.254, Location: Ashburn, Virginia, US
+Domain: moodle.colgate.edu.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: moodle.colgate.edu.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: moodle.colgate.edu.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: moodle.colgate.edu.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: moodle.colgate.edu.txt, IP: 198.32.160.64, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.250.81.238, Location: New York City, New York, US
+Domain: google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: google.com.txt, IP: 216.239.43.62, Location: Elizabeth, New Jersey, US
+Domain: google.com.txt, IP: 142.251.60.235, Location: Mariners Harbor, New York, US
+Domain: google.com.txt, IP: 142.250.81.238, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.250.65.206, Location: New York City, New York, US
+Domain: google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.64.4, Location: Bayonne, New Jersey, US
+Domain: google.com.txt, IP: 142.251.60.237, Location: Kearny, New Jersey, US
+Domain: google.com.txt, IP: 142.250.65.206, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.250.176.206, Location: New York City, New York, US
+Domain: google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.60.180, Location: Mariners Harbor, New York, US
+Domain: google.com.txt, IP: 192.178.107.52, Location: New York City, New York, US
+Domain: google.com.txt, IP: 209.85.254.239, Location: Chelsea, New York, US
+Domain: google.com.txt, IP: 209.85.255.26, Location: Bayonne, New Jersey, US
+Domain: google.com.txt, IP: 192.178.106.21, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.65.111, Location: Bayonne, New Jersey, US
+Domain: google.com.txt, IP: 142.250.176.206, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: google.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: google.com.txt, IP: 216.239.43.154, Location: Elizabeth, New Jersey, US
+Domain: google.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.69.67, Location: Edison, New Jersey, US
+Domain: google.com.txt, IP: 192.178.106.157, Location: Colonia, New Jersey, US
+Domain: google.com.txt, IP: 108.170.236.89, Location: Newark, New Jersey, US
+Domain: google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: google.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: google.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: google.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: google.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: google.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: google.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: google.com.txt, IP: 216.239.43.154, Location: Elizabeth, New Jersey, US
+Domain: google.com.txt, IP: 192.178.108.18, Location: New York City, New York, US
+Domain: google.com.txt, IP: 142.251.69.59, Location: Bayonne, New Jersey, US
+Domain: google.com.txt, IP: 142.251.69.67, Location: Edison, New Jersey, US
+Domain: google.com.txt, IP: 192.178.106.157, Location: Colonia, New Jersey, US
+Domain: google.com.txt, IP: 108.170.236.89, Location: Newark, New Jersey, US
+Domain: google.com.txt, IP: 142.251.40.234, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.66.40.196, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: notion.so.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: notion.so.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: notion.so.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.70.108.2, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.66.40.196, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: notion.so.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: notion.so.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: notion.so.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: notion.so.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: notion.so.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: notion.so.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: notion.so.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: notion.so.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: notion.so.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: notion.so.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
+Domain: notion.so.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: notion.so.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: notion.so.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: notion.so.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 198.32.160.195, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.70.112.2, Location: New York City, New York, US
+Domain: notion.so.txt, IP: 172.64.148.154, Location: San Francisco, California, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: x.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: x.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: x.com.txt, IP: 154.54.0.142, Location: New York City, New York, US
+Domain: x.com.txt, IP: 38.140.106.226, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.195.69.135, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: x.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: x.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: x.com.txt, IP: 154.54.0.142, Location: New York City, New York, US
+Domain: x.com.txt, IP: 38.140.106.226, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.195.69.135, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: x.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: x.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: x.com.txt, IP: 154.54.0.142, Location: New York City, New York, US
+Domain: x.com.txt, IP: 38.140.106.226, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.195.69.135, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: x.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: x.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: x.com.txt, IP: 154.54.0.142, Location: New York City, New York, US
+Domain: x.com.txt, IP: 38.140.106.226, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.195.69.135, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: x.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: x.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: x.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: x.com.txt, IP: 154.54.84.213, Location: Port Richmond, New York, US
+Domain: x.com.txt, IP: 154.54.0.142, Location: New York City, New York, US
+Domain: x.com.txt, IP: 38.140.106.226, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.195.69.135, Location: New York City, New York, US
+Domain: x.com.txt, IP: 152.199.24.185, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: youtube.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: youtube.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: youtube.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.65.114, Location: Bloomfield, New York, US
+Domain: youtube.com.txt, IP: 192.178.106.18, Location: Newark, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.49.87, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.49.42, Location: Bayonne, New Jersey, US
+Domain: youtube.com.txt, IP: 192.178.108.19, Location: Woodbridge, New Jersey, US
+Domain: youtube.com.txt, IP: 216.239.43.155, Location: Jersey City, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: youtube.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: youtube.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: youtube.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.65.114, Location: Bloomfield, New York, US
+Domain: youtube.com.txt, IP: 192.178.106.18, Location: Newark, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.49.87, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.49.42, Location: Bayonne, New Jersey, US
+Domain: youtube.com.txt, IP: 192.178.108.19, Location: Woodbridge, New Jersey, US
+Domain: youtube.com.txt, IP: 216.239.43.155, Location: Jersey City, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: youtube.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: youtube.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: youtube.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.65.114, Location: Bloomfield, New York, US
+Domain: youtube.com.txt, IP: 192.178.106.18, Location: Newark, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.49.87, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.49.42, Location: Bayonne, New Jersey, US
+Domain: youtube.com.txt, IP: 192.178.108.19, Location: Woodbridge, New Jersey, US
+Domain: youtube.com.txt, IP: 216.239.43.155, Location: Jersey City, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: youtube.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: youtube.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: youtube.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.65.114, Location: Bloomfield, New York, US
+Domain: youtube.com.txt, IP: 192.178.106.18, Location: Newark, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.49.87, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.49.42, Location: Bayonne, New Jersey, US
+Domain: youtube.com.txt, IP: 192.178.108.19, Location: Woodbridge, New Jersey, US
+Domain: youtube.com.txt, IP: 216.239.43.155, Location: Jersey City, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: youtube.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
+Domain: youtube.com.txt, IP: 199.109.109.57, Location: Rock Hall, Maryland, US
+Domain: youtube.com.txt, IP: 199.109.107.198, Location: Syracuse, New York, US
+Domain: youtube.com.txt, IP: 199.109.107.70, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 72.14.202.166, Location: New York City, New York, US
+Domain: youtube.com.txt, IP: 142.251.65.114, Location: Bloomfield, New York, US
+Domain: youtube.com.txt, IP: 192.178.106.18, Location: Newark, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.49.42, Location: Bayonne, New Jersey, US
+Domain: youtube.com.txt, IP: 192.178.108.19, Location: Woodbridge, New Jersey, US
+Domain: youtube.com.txt, IP: 216.239.43.155, Location: Jersey City, New Jersey, US
+Domain: youtube.com.txt, IP: 142.251.40.142, Location: New York City, New York, US

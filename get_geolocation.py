@@ -29,8 +29,14 @@ def get_geolocation(ip):
         return None
 
 def main():
-    folder_path = "TracerouteOutput"
-    output_file = "geolocations.txt"
+    # For parsing traceroute output to list of ORIGINAL domains
+    # folder_path = "TracerouteOutput"
+    # output_file = "geolocations.txt"
+    
+    # For parsing traceroute output to list of additional domains that came up from tracking network activity via dev tools
+    # Only first 5 for each original domain were sampled
+    folder_path = "TracerouteOutputDevTool"
+    output_file = "devtool_geolocations.txt"
 
     with open(output_file, 'w') as output:
         for filename in os.listdir(folder_path):
