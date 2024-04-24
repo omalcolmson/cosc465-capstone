@@ -1,3 +1,4 @@
+Domain,IPAddr,City,State,Country
 Filename: dineoncampus.com.txt, IP: 104.26.8.15, Location: San Francisco, California, US
 Filename: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
 Filename: dineoncampus.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
@@ -139,7 +140,7 @@ Filename: github.com.txt, IP: 199.109.107.206, Location: New York City, New York
 Filename: github.com.txt, IP: 199.109.107.201, Location: Bayonne, New Jersey, US
 Filename: github.com.txt, IP: 199.109.107.186, Location: New York City, New York, US
 Filename: github.com.txt, IP: 199.109.107.182, Location: New York City, New York, US
-Filename: github.com.txt, IP: 206.126.237.205, Location: Washington, Washington, D.C., US
+Filename: github.com.txt, IP: 206.126.237.205, Location: Washington, Washington D.C., US
 Filename: youtube.com.txt, IP: 142.250.81.238, Location: New York City, New York, US
 Filename: youtube.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
 Filename: youtube.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US

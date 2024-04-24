@@ -1,0 +1,181 @@
+Domain,City,State,Country,Count
+dineoncampus.com,San Francisco, California,US,8
+dineoncampus.com,Unknown, Unknown,Unknown,14
+dineoncampus.com,Hamilton, New York,US,5
+dineoncampus.com,Rock Hall, Maryland,US,5
+dineoncampus.com,New York City, New York,US,22
+dineoncampus.com,Syracuse, New York,US,1
+dineoncampus.com,Mariners Harbor, New York,US,1
+dineoncampus.com,Chelsea, New York,US,1
+dineoncampus.com,Bayonne, New Jersey,US,2
+pandas.pydata.org,San Francisco, California,US,8
+pandas.pydata.org,Unknown, Unknown,Unknown,14
+pandas.pydata.org,Hamilton, New York,US,5
+pandas.pydata.org,Rock Hall, Maryland,US,5
+pandas.pydata.org,Syracuse, New York,US,5
+pandas.pydata.org,New York City, New York,US,15
+pandas.pydata.org,Bayonne, New Jersey,US,2
+pandas.pydata.org,Jersey City, New Jersey,US,1
+pandas.pydata.org,North Arlington, New Jersey,US,1
+pandas.pydata.org,Bloomfield, New York,US,1
+pandas.pydata.org,Kearny, New Jersey,US,1
+colgate.edu,Unknown, Unknown,Unknown,14
+colgate.edu,Hamilton, New York,US,8
+netflix.com,Wilmington, Delaware,US,3
+netflix.com,Unknown, Unknown,Unknown,14
+netflix.com,Hamilton, New York,US,5
+netflix.com,Rock Hall, Maryland,US,5
+netflix.com,New York City, New York,US,14
+netflix.com,San Francisco, California,US,4
+netflix.com,Syracuse, New York,US,2
+github.com,San Francisco, California,US,5
+github.com,Unknown, Unknown,Unknown,15
+github.com,Hamilton, New York,US,5
+github.com,Rock Hall, Maryland,US,5
+github.com,Syracuse, New York,US,5
+github.com,New York City, New York,US,5
+drive.google.com,New York City, New York,US,23
+drive.google.com,Unknown, Unknown,Unknown,13
+drive.google.com,Hamilton, New York,US,5
+drive.google.com,Rock Hall, Maryland,US,5
+drive.google.com,Syracuse, New York,US,5
+drive.google.com,Linden, New Jersey,US,1
+drive.google.com,Elizabeth, New Jersey,US,1
+drive.google.com,Chelsea, New York,US,3
+drive.google.com,Newark, New Jersey,US,6
+drive.google.com,Bayonne, New Jersey,US,7
+drive.google.com,Kearny, New Jersey,US,1
+di.se,Kansas City, Missouri,US,4
+di.se,Unknown, Unknown,Unknown,12
+di.se,Hamilton, New York,US,5
+di.se,Rock Hall, Maryland,US,5
+di.se,New York City, New York,US,21
+di.se,Secaucus, New Jersey,US,4
+di.se,Rio de Janeiro, Rio de Janeiro,BR,4
+di.se,Hoboken, New Jersey,US,1
+instagram.com,Secaucus, New Jersey,US,19
+instagram.com,Unknown, Unknown,Unknown,12
+instagram.com,Hamilton, New York,US,5
+instagram.com,Rock Hall, Maryland,US,5
+instagram.com,Syracuse, New York,US,5
+instagram.com,New York City, New York,US,11
+gradescope.com,New York City, New York,US,18
+gradescope.com,Unknown, Unknown,Unknown,15
+gradescope.com,Hamilton, New York,US,5
+gradescope.com,Rock Hall, Maryland,US,5
+gradescope.com,Syracuse, New York,US,3
+gradescope.com,Bayonne, New Jersey,US,1
+gradescope.com,Jersey City, New Jersey,US,1
+gradescope.com,Mariners Harbor, New York,US,1
+gradescope.com,Newark, New Jersey,US,5
+gradescope.com,Hoboken, New Jersey,US,2
+linkedin.com,Piscataway, New Jersey,US,5
+linkedin.com,Unknown, Unknown,Unknown,13
+linkedin.com,Hamilton, New York,US,5
+linkedin.com,Rock Hall, Maryland,US,5
+linkedin.com,Syracuse, New York,US,5
+linkedin.com,New York City, New York,US,10
+open.spotify.com,New York City, New York,US,14
+open.spotify.com,Unknown, Unknown,Unknown,13
+open.spotify.com,Hamilton, New York,US,5
+open.spotify.com,Rock Hall, Maryland,US,5
+open.spotify.com,Syracuse, New York,US,3
+open.spotify.com,Bayonne, New Jersey,US,1
+open.spotify.com,Newark, New Jersey,US,1
+open.spotify.com,Piscataway, New Jersey,US,2
+chat.openai.com,San Francisco, California,US,10
+chat.openai.com,Unknown, Unknown,Unknown,12
+chat.openai.com,Hamilton, New York,US,5
+chat.openai.com,Rock Hall, Maryland,US,5
+chat.openai.com,Syracuse, New York,US,5
+chat.openai.com,New York City, New York,US,15
+gmail.com,New York City, New York,US,24
+gmail.com,Unknown, Unknown,Unknown,14
+gmail.com,Hamilton, New York,US,5
+gmail.com,Rock Hall, Maryland,US,5
+gmail.com,Jersey City, New Jersey,US,2
+gmail.com,Mariners Harbor, New York,US,2
+gmail.com,Bayonne, New Jersey,US,1
+gmail.com,Centreville, Virginia,US,2
+gmail.com,Syracuse, New York,US,3
+gmail.com,Chelsea, New York,US,2
+gmail.com,Ashburn, Virginia,US,5
+gmail.com,Elizabeth, New Jersey,US,1
+buff.163.com,Boardman, Oregon,US,4
+buff.163.com,Unknown, Unknown,Unknown,13
+buff.163.com,Hamilton, New York,US,5
+buff.163.com,North Syracuse, New York,US,1
+buff.163.com,Albany, New York,US,1
+buff.163.com,Brook Park, Ohio,US,1
+buff.163.com,Chicago, Illinois,US,4
+buff.163.com,Kansas City, Missouri,US,4
+buff.163.com,Denver, Colorado,US,4
+buff.163.com,Salt Lake City, Utah,US,4
+buff.163.com,San Francisco, California,US,4
+buff.163.com,San Jose, California,US,13
+buff.163.com,New York City, New York,US,6
+buff.163.com,Port Richmond, New York,US,3
+buff.163.com,Columbus, Ohio,US,3
+buff.163.com,Fremont, California,US,3
+buff.163.com,Piscataway, New Jersey,US,1
+buff.163.com,Rock Hall, Maryland,US,1
+amazon.com,New York City, New York,US,25
+amazon.com,Unknown, Unknown,Unknown,13
+amazon.com,Hamilton, New York,US,5
+amazon.com,Rock Hall, Maryland,US,5
+amazon.com,Hoboken, New Jersey,US,5
+amazon.com,Ashburn, Virginia,US,1
+docs.google.com,New York City, New York,US,20
+docs.google.com,Unknown, Unknown,Unknown,13
+docs.google.com,Hamilton, New York,US,5
+docs.google.com,Rock Hall, Maryland,US,5
+docs.google.com,Syracuse, New York,US,5
+docs.google.com,Linden, New Jersey,US,3
+docs.google.com,Elizabeth, New Jersey,US,5
+docs.google.com,Bayonne, New Jersey,US,1
+docs.google.com,Edison, New Jersey,US,2
+docs.google.com,Colonia, New Jersey,US,2
+docs.google.com,Newark, New Jersey,US,2
+portal.colgate.edu,Hamilton, New York,US,15
+portal.colgate.edu,Unknown, Unknown,Unknown,11
+moodle.colgate.edu,Ashburn, Virginia,US,4
+moodle.colgate.edu,Unknown, Unknown,Unknown,14
+moodle.colgate.edu,Hamilton, New York,US,5
+moodle.colgate.edu,Rock Hall, Maryland,US,5
+moodle.colgate.edu,Syracuse, New York,US,5
+moodle.colgate.edu,New York City, New York,US,12
+moodle.colgate.edu,Bloomfield, New York,US,1
+moodle.colgate.edu,Jersey City, New Jersey,US,1
+google.com,New York City, New York,US,24
+google.com,Unknown, Unknown,Unknown,14
+google.com,Hamilton, New York,US,5
+google.com,Rock Hall, Maryland,US,5
+google.com,Syracuse, New York,US,5
+google.com,Elizabeth, New Jersey,US,3
+google.com,Mariners Harbor, New York,US,2
+google.com,Bayonne, New Jersey,US,4
+google.com,Kearny, New Jersey,US,1
+google.com,Chelsea, New York,US,1
+google.com,Edison, New Jersey,US,2
+google.com,Colonia, New Jersey,US,2
+google.com,Newark, New Jersey,US,2
+notion.so,San Francisco, California,US,10
+notion.so,Unknown, Unknown,Unknown,12
+notion.so,Hamilton, New York,US,5
+notion.so,Rock Hall, Maryland,US,5
+notion.so,Syracuse, New York,US,5
+notion.so,New York City, New York,US,15
+x.com,New York City, New York,US,30
+x.com,Unknown, Unknown,Unknown,11
+x.com,Hamilton, New York,US,5
+x.com,Port Richmond, New York,US,5
+youtube.com,New York City, New York,US,24
+youtube.com,Unknown, Unknown,Unknown,11
+youtube.com,Hamilton, New York,US,5
+youtube.com,Rock Hall, Maryland,US,5
+youtube.com,Syracuse, New York,US,5
+youtube.com,Bloomfield, New York,US,5
+youtube.com,Newark, New Jersey,US,5
+youtube.com,Bayonne, New Jersey,US,5
+youtube.com,Woodbridge, New Jersey,US,5
+youtube.com,Jersey City, New Jersey,US,5
