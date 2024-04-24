@@ -1,0 +1,13 @@
+traceroute to static.licdn.com (23.44.129.46), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.892ms    0.893ms    0.894ms  
+ 3  10.9.52.10 (10.9.52.10)  0.849ms    1.570ms    1.570ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.157ms    1.815ms    1.817ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.503ms    1.507ms    1.511ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.894ms    1.899ms    1.904ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  7.032ms    7.041ms    7.049ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.734ms    7.740ms    7.746ms  
+ 9  * * *
+10  * * *
+11  * * *
+

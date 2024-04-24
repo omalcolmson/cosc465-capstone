@@ -1,0 +1,12 @@
+traceroute to abs.twimg.com (152.199.24.185), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.049ms    0.046ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.822ms    0.833ms    0.846ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.070ms    1.987ms    1.995ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.083ms    7.081ms    7.866ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.423ms    8.200ms    8.201ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.441ms    8.233ms    8.235ms  
+ 8  38.140.106.226 (38.140.106.226)  10.138ms    10.143ms    10.149ms  
+ 9  ae-68.core1.nyd.edgecastcdn.net (152.195.69.135)  7.602ms    8.356ms    8.358ms  
+10  152.199.24.185 (152.199.24.185)  7.007ms    7.010ms    7.026ms  
+

@@ -1,0 +1,17 @@
+traceroute to unagi.amazon.com (52.94.232.195), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.804ms    0.804ms    0.804ms  
+ 3  10.9.52.10 (10.9.52.10)  0.838ms    1.452ms    1.451ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.962ms    1.571ms    1.572ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.715ms    3.725ms    3.727ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.618ms    6.624ms    6.630ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.977ms    6.981ms    6.985ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.047ms    7.051ms    7.057ms  
+ 9  52.93.51.47 (52.93.51.47)  15.934ms    15.941ms    15.942ms  
+10  * * *
+11  52.93.1.187 (52.93.1.187)  11.078ms    11.082ms    11.089ms  
+12  52.93.1.42 (52.93.1.42)  7.457ms    28.868ms    28.873ms  
+13  * * *
+14  * * *
+15  * * *
+

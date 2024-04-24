@@ -1,0 +1,15 @@
+traceroute to sdk.privacy-center.org (18.164.96.127), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.078ms    0.063ms    0.048ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.909ms    0.904ms    0.908ms  
+ 3  10.9.52.10 (10.9.52.10)  0.905ms    0.908ms    0.913ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.080ms    1.876ms    1.846ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.819ms    3.821ms    3.828ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.781ms    6.781ms    6.787ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.970ms    6.971ms    6.977ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  37.511ms    37.510ms    37.517ms  
+ 9  52.93.51.41 (52.93.51.41)  12.972ms    12.973ms    12.979ms  
+10  52.93.1.24 (52.93.1.24)  7.581ms    7.578ms    26.084ms  
+11  * * *
+12  * * *
+13  * * *
+

@@ -1,0 +1,12 @@
+traceroute to dineoncampus.com (104.26.9.15), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.056ms    0.046ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.707ms    0.706ms    0.710ms  
+ 3  10.9.52.10 (10.9.52.10)  0.862ms    0.869ms    1.614ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.902ms    1.564ms    3.406ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.798ms    3.801ms    3.809ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.722ms    6.726ms    6.733ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.107ms    7.111ms    7.118ms  
+ 8  de-cix-new-york.as13335.net (206.82.104.31)  8.608ms    8.611ms    8.617ms  
+ 9  162.158.152.3 (162.158.152.3)  7.639ms    7.644ms    7.651ms  
+10  104.26.9.15 (104.26.9.15)  7.733ms    7.729ms    7.733ms  
+

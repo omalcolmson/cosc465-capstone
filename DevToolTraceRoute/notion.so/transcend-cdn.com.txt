@@ -1,0 +1,12 @@
+traceroute to transcend-cdn.com (172.66.40.196), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.071ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.799ms    0.800ms    0.804ms  
+ 3  10.9.52.10 (10.9.52.10)  0.889ms    0.887ms    0.891ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.210ms    1.220ms    2.062ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  4.456ms    4.459ms    4.464ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.086ms    2.921ms    2.919ms  
+ 7  199.109.107.70 (199.109.107.70)  8.776ms    9.702ms    9.694ms  
+ 8  nyiix.as13335.net (198.32.160.195)  10.096ms    10.100ms    10.106ms  
+ 9  172.70.108.2 (172.70.108.2)  9.629ms    9.630ms    9.634ms  
+10  172.66.40.196 (172.66.40.196)  9.440ms    9.452ms    10.357ms  
+
