@@ -1,7 +1,7 @@
 import json
 import os
 
-def extract_urls_from_har(har_file_path, output_folder):
+def getUrls(har_file_path, output_folder):
 
     os.makedirs(output_folder, exist_ok=True)
     
@@ -17,7 +17,6 @@ def extract_urls_from_har(har_file_path, output_folder):
             url = entry['request']['url']
             output_file.write(url + '\n')
 
-# Usage
 har_files = [
     'DevToolData/amazon.com.har',
     'DevToolData/buff.163.com.har',
@@ -44,4 +43,4 @@ har_files = [
 output_folder = 'DevToolData'
 
 for har_file in har_files:
-    extract_urls_from_har(har_file, output_folder)
+    getUrls(har_file, output_folder)
