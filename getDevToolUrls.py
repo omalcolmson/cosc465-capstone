@@ -5,7 +5,7 @@ def getUrls(har_file_path, output_folder):
 
     os.makedirs(output_folder, exist_ok=True)
     
-    base_name = os.path.splitext(os.path.basename(har_file_path))[0] + '_urls.txt'
+    base_name = os.path.splitext(os.path.basename(har_file_path))[0] + '.txt'
     output_file_path = os.path.join(output_folder, base_name)
     
     with open(har_file_path, 'r') as file:
@@ -40,7 +40,7 @@ har_files = [
     'DevToolData/x.com.har',
     'DevToolData/youtube.com.har',
 ]
-output_folder = 'DevToolData'
+output_folder = 'DevToolDataURLs'
 
 for har_file in har_files:
     getUrls(har_file, output_folder)
