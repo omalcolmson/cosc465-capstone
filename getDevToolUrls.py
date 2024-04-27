@@ -33,6 +33,7 @@ har_files = [
     'DevToolData/instagram.com.har',
     'DevToolData/linkedin.com.har',
     'DevToolData/moodle.colgate.edu.har',
+    'DevToolData/netflix.com.har',
     'DevToolData/notion.so.har',
     'DevToolData/open.spotify.com.har',
     'DevToolData/pandas.pydata.org.har',
