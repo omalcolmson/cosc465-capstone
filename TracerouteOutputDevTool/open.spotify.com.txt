@@ -1,0 +1,1369 @@
+traceroute to open.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.130ms    0.119ms    0.078ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.738ms    0.735ms    0.739ms  
+ 3  10.9.52.10 (10.9.52.10)  0.870ms    0.880ms    1.554ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.122ms    1.814ms    1.820ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.844ms    3.850ms    3.855ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.951ms    6.953ms    6.958ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.236ms    7.239ms    7.244ms  
+ 8  199.109.114.18 (199.109.114.18)  8.727ms    8.730ms    9.535ms  
+ 9  142.250.234.37 (142.250.234.37)  7.315ms    7.319ms    7.324ms  
+10  142.251.60.231 (142.251.60.231)  7.348ms    7.350ms    7.354ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.091ms    7.093ms    7.097ms  
+
+traceroute to encore.scdn.co (23.44.131.152), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.051ms   *
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.772ms    0.772ms    0.775ms  
+ 3  10.9.52.10 (10.9.52.10)  0.829ms    1.586ms    1.586ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.270ms    1.272ms    1.995ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.529ms    1.532ms    1.535ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.965ms    1.977ms    2.733ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  7.292ms    7.307ms    7.325ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.084ms    8.089ms    8.095ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to encore.scdn.co (23.44.131.134), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.092ms    0.067ms    0.055ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.802ms    0.802ms    0.805ms  
+ 3  10.9.52.10 (10.9.52.10)  0.893ms    1.598ms    1.597ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  0.974ms    1.667ms    1.666ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.610ms    1.618ms    1.624ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.177ms    2.173ms    2.880ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  6.902ms    6.907ms    6.915ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.014ms    8.018ms    8.025ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to encore.scdn.co (23.44.131.151), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.077ms    0.063ms    0.054ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.863ms    0.862ms    0.869ms  
+ 3  10.9.52.10 (10.9.52.10)  0.881ms    0.881ms    0.885ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.188ms    1.200ms    2.161ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.795ms    3.797ms    3.803ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.904ms    6.908ms    6.915ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.984ms    6.987ms    6.993ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.026ms    8.030ms    8.035ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to encore.scdn.co (23.44.131.151), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.037ms    0.034ms    0.031ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.775ms    0.775ms    0.777ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.082ms    1.088ms    1.864ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.688ms    3.694ms    3.700ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.792ms    6.797ms    6.803ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.819ms    6.828ms    6.835ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.644ms    7.649ms    7.655ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.078ms    0.065ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.801ms    0.800ms    0.805ms  
+ 3  10.9.52.10 (10.9.52.10)  0.907ms    0.906ms    0.911ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.189ms    1.192ms    1.198ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.967ms    4.969ms    4.974ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.767ms    6.793ms    6.799ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.101ms    7.103ms    7.109ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.062ms    0.055ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.761ms    0.761ms    0.766ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.073ms    1.079ms    1.900ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.819ms    3.825ms    3.832ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.751ms    7.755ms    7.761ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.126ms    7.130ms    7.136ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.038ms    0.034ms    0.030ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.753ms    0.757ms    0.764ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.203ms    1.201ms    6.626ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.717ms    3.721ms    3.725ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.763ms    6.764ms    6.789ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.915ms    6.922ms    8.751ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to google.com (142.250.80.78), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.780ms    0.789ms    0.802ms  
+ 3  10.9.52.10 (10.9.52.10)  0.852ms    0.862ms    1.593ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.197ms    1.885ms    1.892ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.590ms    1.597ms    1.613ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.040ms    2.044ms    2.049ms  
+ 7  199.109.107.70 (199.109.107.70)  8.934ms    8.939ms    8.945ms  
+ 8  72.14.202.166 (72.14.202.166)  28.561ms    28.560ms    46.034ms  
+ 9  * * *
+10  142.251.53.148 (142.251.53.148)  9.753ms    9.751ms    44.128ms  
+11  142.251.65.101 (142.251.65.101)  8.956ms    8.959ms    8.965ms  
+12  lga34s35-in-f14.1e100.net (142.250.80.78)  9.053ms    9.054ms    9.058ms  
+
+traceroute to googleoptimize.com (142.250.80.46), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.070ms    0.069ms    0.059ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.752ms    0.750ms    0.755ms  
+ 3  10.9.52.10 (10.9.52.10)  0.850ms    0.851ms    0.856ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.140ms    1.893ms    1.891ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  3.004ms    3.010ms    3.028ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.025ms    2.020ms    2.772ms  
+ 7  199.109.107.70 (199.109.107.70)  9.012ms    9.019ms    9.037ms  
+ 8  72.14.202.166 (72.14.202.166)  11.601ms    11.601ms    12.462ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  9.037ms    43.408ms    43.413ms  
+11  142.251.65.99 (142.251.65.99)  8.893ms    8.899ms    8.904ms  
+12  lga34s34-in-f14.1e100.net (142.250.80.46)  8.794ms    9.649ms    9.649ms  
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.072ms    0.066ms    0.057ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.792ms    0.796ms    0.802ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.828ms    1.825ms    1.832ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.798ms    3.799ms    3.804ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.854ms    6.857ms    6.863ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.827ms    6.821ms    7.623ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.062ms    0.055ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.807ms    0.780ms    0.786ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.101ms    2.045ms    2.052ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.689ms    3.692ms    3.699ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.106ms    7.110ms    7.117ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.962ms    6.993ms    6.999ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.044ms    0.029ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.737ms    0.738ms    0.727ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.015ms    1.012ms    1.838ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.673ms    3.678ms    3.685ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.757ms    6.761ms    6.767ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.809ms    6.811ms    7.641ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.061ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.720ms    0.721ms    0.725ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.185ms    1.971ms    1.972ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.740ms    3.746ms    3.752ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.717ms    6.722ms    6.728ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.943ms    7.719ms    7.721ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.070ms    0.066ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.768ms    0.764ms    0.770ms  
+ 3  10.9.52.10 (10.9.52.10)  0.968ms    0.974ms    0.980ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.162ms    1.165ms    1.898ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.702ms    3.708ms    3.714ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.754ms    6.756ms    6.761ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.085ms    7.095ms    7.961ms  
+ 8  199.109.114.18 (199.109.114.18)  7.826ms    7.831ms    7.836ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.003ms    7.005ms    7.010ms  
+11  192.178.106.20 (192.178.106.20)  7.237ms    7.239ms    7.244ms  
+12  142.251.69.170 (142.251.69.170)  8.207ms    8.206ms    41.491ms  
+13  142.251.69.166 (142.251.69.166)  8.381ms    8.393ms    42.048ms  
+14  192.178.107.43 (192.178.107.43)  7.250ms    7.253ms    7.258ms  
+15  142.251.60.181 (142.251.60.181)  7.287ms    7.290ms    7.297ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.263ms    7.265ms    7.271ms  
+
+traceroute to o22381.ingest.sentry.io (34.120.195.249), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.059ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.795ms    0.785ms    0.782ms  
+ 3  10.9.52.10 (10.9.52.10)  0.853ms    0.862ms    1.625ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.174ms    1.915ms    1.913ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.679ms    3.677ms    4.441ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.648ms    6.653ms    6.670ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.855ms    6.866ms    7.698ms  
+ 8  199.109.114.18 (199.109.114.18)  8.453ms    8.447ms    9.336ms  
+ 9  142.251.66.217 (142.251.66.217)  7.706ms    7.706ms    41.283ms  
+10  142.250.235.237 (142.250.235.237)  7.887ms    7.886ms    41.771ms  
+11  249.195.120.34.bc.googleusercontent.com (34.120.195.249)  6.910ms    6.912ms    6.913ms  
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.798ms    0.795ms    0.796ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.132ms    1.137ms    3.170ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.671ms    3.672ms    4.580ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.723ms    6.727ms    6.734ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.042ms    7.909ms    7.910ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.810ms    0.813ms    0.817ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.090ms    1.095ms    1.943ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.714ms    3.721ms    3.727ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.779ms    6.784ms    6.789ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.879ms    6.884ms    6.890ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.746ms    0.748ms    0.748ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.072ms    1.068ms    2.009ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.724ms    3.726ms    3.734ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.710ms    6.714ms    6.721ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.823ms    6.825ms    7.648ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.852ms    0.850ms    0.855ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.077ms    1.082ms    1.868ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.716ms    3.753ms    3.759ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.795ms    6.801ms    6.806ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.815ms    6.830ms    6.835ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.806ms    0.805ms    0.810ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.077ms    1.074ms    1.919ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  8.595ms    8.602ms    8.609ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.725ms    6.731ms    6.737ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.730ms    7.571ms    7.571ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.713ms    0.713ms    0.718ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.102ms    1.096ms    1.876ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.817ms    3.823ms    3.829ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.829ms    6.834ms    6.842ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.061ms    7.064ms    7.870ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.057ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.604ms    1.395ms    1.405ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.131ms    1.128ms    2.067ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  6.593ms    6.590ms    6.591ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.735ms    6.740ms    6.747ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.955ms    6.961ms    6.968ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.062ms    0.056ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.910ms    0.911ms    0.915ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.035ms    1.858ms    1.859ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.710ms    3.716ms    3.723ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.758ms    6.762ms    6.769ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.851ms    6.853ms    7.703ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.064ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.739ms    0.770ms    0.788ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.230ms    1.229ms    2.202ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.734ms    3.733ms    3.738ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.735ms    6.739ms    6.746ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.062ms    7.072ms    7.884ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.752ms    0.752ms    0.755ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.117ms    1.122ms    1.913ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.686ms    3.691ms    3.698ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.652ms    6.657ms    6.662ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.839ms    7.633ms    7.652ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to apresolve.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.033ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.759ms    0.755ms    0.754ms  
+ 3  10.9.52.10 (10.9.52.10)  0.834ms    1.469ms    1.468ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.315ms    1.319ms    1.319ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.774ms    3.778ms    3.784ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.731ms    6.738ms    6.747ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.877ms    6.881ms    6.887ms  
+ 8  199.109.114.18 (199.109.114.18)  9.052ms    9.058ms    9.065ms  
+ 9  142.250.234.37 (142.250.234.37)  7.324ms    7.328ms    44.728ms  
+10  142.251.60.231 (142.251.60.231)  7.367ms    7.359ms    7.358ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.211ms    7.211ms    7.217ms  
+
+traceroute to apresolve.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.050ms    0.068ms    0.067ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.780ms    0.781ms    0.782ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.167ms    1.164ms    2.002ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.752ms    3.758ms    3.765ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.709ms    6.713ms    6.718ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.078ms    7.081ms    7.930ms  
+ 8  199.109.114.18 (199.109.114.18)  8.692ms    8.694ms    9.575ms  
+ 9  142.250.234.37 (142.250.234.37)  7.350ms    7.372ms    8.184ms  
+10  142.251.60.231 (142.251.60.231)  7.260ms    7.266ms    7.273ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.165ms    7.170ms    7.175ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.063ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.736ms    0.733ms    0.737ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.154ms    1.159ms    1.955ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.696ms    3.700ms    4.502ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  14.926ms    14.931ms    14.938ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.900ms    6.909ms    7.725ms  
+ 8  199.109.114.18 (199.109.114.18)  8.435ms    8.437ms    9.315ms  
+ 9  142.250.234.37 (142.250.234.37)  7.317ms    8.114ms    8.115ms  
+10  142.251.60.231 (142.251.60.231)  7.375ms    7.380ms    7.396ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.205ms    7.209ms    7.213ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.027ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.736ms    0.737ms    0.738ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.115ms    1.116ms    1.122ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.719ms    3.724ms    3.732ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.730ms    6.734ms    6.741ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.884ms    6.898ms    7.710ms  
+ 8  199.109.114.18 (199.109.114.18)  8.562ms    8.563ms    9.411ms  
+ 9  142.250.234.37 (142.250.234.37)  7.361ms    8.237ms    8.237ms  
+10  142.251.60.231 (142.251.60.231)  7.330ms    7.337ms    7.351ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.184ms    7.188ms    7.195ms  
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.031ms    0.027ms    0.023ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.763ms    0.763ms    0.764ms  
+ 3  10.9.52.10 (10.9.52.10)  0.827ms    1.459ms    1.459ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.053ms    1.738ms    1.737ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.754ms    3.760ms    3.773ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.707ms    6.704ms    6.706ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.077ms    7.091ms    7.911ms  
+ 8  199.109.114.18 (199.109.114.18)  7.630ms    8.580ms    8.583ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.057ms    7.059ms    7.080ms  
+11  192.178.106.20 (192.178.106.20)  7.045ms    7.048ms    7.054ms  
+12  142.251.69.170 (142.251.69.170)  8.211ms    8.211ms    42.438ms  
+13  142.251.69.166 (142.251.69.166)  8.352ms    42.838ms    42.842ms  
+14  192.178.107.43 (192.178.107.43)  7.199ms    7.211ms    41.292ms  
+15  142.251.60.181 (142.251.60.181)  7.232ms    7.235ms    7.241ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.261ms    7.262ms    7.267ms  
+
+traceroute to cdn.cookielaw.org (104.19.178.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.042ms    0.038ms    0.033ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.722ms    0.720ms    0.724ms  
+ 3  10.9.52.10 (10.9.52.10)  0.811ms    1.569ms    1.569ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.146ms    1.150ms    1.885ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.489ms    1.494ms    1.500ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.835ms    2.606ms    2.605ms  
+ 7  199.109.107.70 (199.109.107.70)  9.070ms    9.078ms    9.098ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.758ms    11.286ms    11.290ms  
+ 9  162.158.152.3 (162.158.152.3)  10.463ms    10.467ms    10.474ms  
+10  104.19.178.52 (104.19.178.52)  9.830ms    9.831ms    9.838ms  
+
+traceroute to apresolve.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.870ms    0.871ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.783ms    0.780ms    0.785ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.111ms    1.114ms    1.899ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.671ms    3.687ms    4.449ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.698ms    6.701ms    6.707ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.749ms    6.798ms    6.815ms  
+ 8  199.109.114.18 (199.109.114.18)  8.474ms    9.272ms    9.264ms  
+ 9  142.250.234.37 (142.250.234.37)  7.455ms    7.471ms    7.477ms  
+10  142.251.60.231 (142.251.60.231)  7.322ms    7.326ms    7.321ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.188ms    7.191ms    7.186ms  
+
+traceroute to google.com (142.250.80.78), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.060ms    0.050ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.753ms    0.749ms    0.755ms  
+ 3  10.9.52.10 (10.9.52.10)  0.886ms    0.888ms    0.894ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.159ms    1.962ms    1.967ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.471ms    1.473ms    1.489ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.804ms    5.048ms    5.053ms  
+ 7  199.109.107.70 (199.109.107.70)  8.970ms    8.974ms    8.987ms  
+ 8  72.14.202.166 (72.14.202.166)  11.063ms    11.073ms    28.256ms  
+ 9  * * *
+10  142.251.53.148 (142.251.53.148)  10.006ms    10.005ms    44.171ms  
+11  142.251.65.101 (142.251.65.101)  8.928ms    8.931ms    8.936ms  
+12  lga34s35-in-f14.1e100.net (142.250.80.78)  9.023ms    9.025ms    9.030ms  
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.062ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.774ms    0.771ms    0.776ms  
+ 3  10.9.52.10 (10.9.52.10)  0.846ms    0.848ms    0.854ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.133ms    1.823ms    1.823ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.901ms    4.907ms    4.923ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.693ms    6.699ms    6.704ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.994ms    6.998ms    7.791ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.059ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.784ms    0.783ms    0.788ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.183ms    1.180ms    1.988ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.689ms    3.695ms    3.701ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.848ms    6.853ms    6.860ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.019ms    7.021ms    7.866ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.075ms    0.068ms    0.060ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.733ms    0.735ms    0.735ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.174ms    1.168ms    2.029ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.617ms    3.629ms    4.401ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.705ms    6.712ms    6.718ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.871ms    6.877ms    6.883ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.058ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.731ms    0.729ms    0.734ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.088ms    1.085ms    1.879ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.747ms    3.754ms    3.760ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.597ms    6.603ms    6.610ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.813ms    6.814ms    7.634ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.062ms    0.061ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.742ms    0.743ms    0.747ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.064ms    1.057ms    1.914ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.742ms    3.750ms    3.756ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.751ms    6.756ms    6.762ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.785ms    6.791ms    6.797ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.030ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.769ms    0.765ms    0.764ms  
+ 3  10.9.52.10 (10.9.52.10)  0.826ms    1.550ms    1.549ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.151ms    1.839ms    1.838ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.688ms    3.688ms    4.497ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  29.188ms    29.200ms    29.221ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.750ms    7.585ms    7.587ms  
+ 8  199.109.114.18 (199.109.114.18)  7.788ms    7.789ms    8.671ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.051ms    7.054ms    7.071ms  
+11  192.178.106.20 (192.178.106.20)  13.547ms    13.550ms    13.555ms  
+12  142.251.69.170 (142.251.69.170)  8.160ms    8.127ms    42.055ms  
+13  142.251.69.166 (142.251.69.166)  8.284ms    41.893ms    41.897ms  
+14  192.178.107.43 (192.178.107.43)  8.565ms    8.568ms    8.575ms  
+15  142.251.60.181 (142.251.60.181)  7.324ms    7.326ms    7.331ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.244ms    7.245ms    7.252ms  
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.070ms    0.063ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.755ms    0.760ms    0.765ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.149ms    1.146ms    2.000ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.731ms    3.738ms    3.743ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.981ms    7.983ms    7.989ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.813ms    6.810ms    7.754ms  
+ 8  199.109.114.18 (199.109.114.18)  7.658ms    7.656ms    8.575ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.050ms    7.049ms    7.055ms  
+11  192.178.106.20 (192.178.106.20)  7.053ms    7.055ms    7.048ms  
+12  142.251.69.170 (142.251.69.170)  8.356ms    8.361ms    8.367ms  
+13  142.251.69.166 (142.251.69.166)  8.607ms    8.612ms    8.618ms  
+14  192.178.107.43 (192.178.107.43)  7.264ms    7.270ms    7.276ms  
+15  142.251.60.181 (142.251.60.181)  7.280ms    7.285ms    7.290ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.270ms    7.273ms    7.280ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.086ms    0.075ms    0.065ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.735ms    0.731ms    0.736ms  
+ 3  10.9.52.10 (10.9.52.10)  0.833ms    0.831ms    0.837ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.131ms    1.136ms    1.847ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.710ms    3.716ms    3.722ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.684ms    6.688ms    6.694ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.967ms    6.972ms    6.980ms  
+ 8  199.109.114.18 (199.109.114.18)  8.700ms    8.702ms    9.507ms  
+ 9  142.250.234.37 (142.250.234.37)  7.225ms    7.231ms    7.237ms  
+10  142.251.60.231 (142.251.60.231)  7.366ms    7.369ms    7.376ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.127ms    7.129ms    7.124ms  
+
+traceroute to clienttoken.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.063ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.784ms    0.784ms    0.815ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.070ms    1.071ms    1.078ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.717ms    3.721ms    3.729ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.783ms    6.788ms    6.794ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.836ms    6.842ms    6.848ms  
+ 8  199.109.114.18 (199.109.114.18)  8.405ms    8.406ms    9.222ms  
+ 9  142.250.234.37 (142.250.234.37)  7.395ms    7.399ms    7.401ms  
+10  142.251.60.231 (142.251.60.231)  7.325ms    7.328ms    7.336ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.153ms    7.157ms    7.162ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.022ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.775ms    0.775ms    0.778ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.031ms    1.039ms    1.913ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.706ms    3.713ms    3.717ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.798ms    6.801ms    6.809ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.036ms    7.035ms    7.892ms  
+ 8  199.109.114.18 (199.109.114.18)  8.454ms    8.457ms    9.271ms  
+ 9  142.250.234.37 (142.250.234.37)  7.201ms    7.217ms    8.019ms  
+10  142.251.60.231 (142.251.60.231)  7.302ms    7.303ms    8.096ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.109ms    7.114ms    7.120ms  
+
+traceroute to clienttoken.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.774ms    0.776ms    0.779ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.015ms    1.819ms    1.838ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  19.823ms    19.829ms    19.835ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.776ms    6.780ms    6.787ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.802ms    6.811ms    7.649ms  
+ 8  199.109.114.18 (199.109.114.18)  8.568ms    8.569ms    9.444ms  
+ 9  142.250.234.37 (142.250.234.37)  9.419ms    9.423ms    9.430ms  
+10  142.251.60.231 (142.251.60.231)  7.381ms    7.385ms    7.392ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.161ms    7.164ms    7.170ms  
+
+traceroute to cdn.cookielaw.org (104.19.178.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.063ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.794ms    0.792ms    0.796ms  
+ 3  10.9.52.10 (10.9.52.10)  0.784ms    1.483ms    1.480ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.191ms    1.905ms    1.905ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.447ms    1.453ms    1.458ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.867ms    1.873ms    1.879ms  
+ 7  199.109.107.70 (199.109.107.70)  12.017ms    12.019ms    12.886ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.910ms    9.915ms    9.921ms  
+ 9  162.158.152.3 (162.158.152.3)  10.296ms    10.300ms    10.307ms  
+10  104.19.178.52 (104.19.178.52)  9.796ms    9.800ms    9.806ms  
+
+traceroute to googletagmanager.com (142.251.40.200), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.063ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.779ms    0.777ms    0.782ms  
+ 3  10.9.52.10 (10.9.52.10)  0.810ms    0.845ms    1.552ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.148ms    1.864ms    1.864ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.471ms    2.219ms    2.218ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.011ms    2.018ms    2.036ms  
+ 7  199.109.107.70 (199.109.107.70)  8.856ms    8.860ms    8.866ms  
+ 8  72.14.202.166 (72.14.202.166)  10.858ms    10.861ms    30.771ms  
+ 9  * * *
+10  142.251.64.4 (142.251.64.4)  10.230ms    10.251ms    10.271ms  
+11  192.178.108.20 (192.178.108.20)  32.365ms    32.369ms    32.375ms  
+12  108.170.226.123 (108.170.226.123)  9.814ms    9.818ms    9.825ms  
+13  209.85.255.37 (209.85.255.37)  9.474ms    9.476ms    9.483ms  
+14  192.178.106.163 (192.178.106.163)  10.187ms    48.307ms    48.312ms  
+15  216.239.40.167 (216.239.40.167)  9.410ms    9.412ms    9.418ms  
+16  lga34s38-in-f8.1e100.net (142.251.40.200)  9.375ms    9.386ms    9.400ms  
+
+traceroute to web-sdk-assets.spotifycdn.com (199.232.38.250), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.746ms    0.745ms    0.750ms  
+ 3  10.9.52.10 (10.9.52.10)  0.848ms    0.847ms    0.851ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.301ms    1.310ms    1.316ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.568ms    1.573ms    1.578ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.075ms    2.845ms    2.844ms  
+ 7  199.109.107.70 (199.109.107.70)  8.905ms    8.911ms    8.927ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.042ms    0.041ms    0.035ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.749ms    0.748ms    0.751ms  
+ 3  10.9.52.10 (10.9.52.10)  0.820ms    1.585ms    1.587ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.129ms    1.804ms    1.804ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.706ms    3.711ms    3.727ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.685ms    6.692ms    6.700ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.093ms    7.104ms    7.894ms  
+ 8  199.109.114.18 (199.109.114.18)  7.793ms    7.795ms    8.619ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.022ms    7.024ms    7.041ms  
+11  192.178.106.20 (192.178.106.20)  7.036ms    7.041ms    7.048ms  
+12  142.251.69.170 (142.251.69.170)  8.334ms    8.336ms    9.180ms  
+13  142.251.69.166 (142.251.69.166)  8.658ms    8.664ms    8.670ms  
+14  192.178.107.43 (192.178.107.43)  7.275ms    8.108ms    8.109ms  
+15  142.251.60.181 (142.251.60.181)  7.252ms    7.257ms    7.265ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.209ms    7.213ms    7.219ms  
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.774ms    0.764ms    0.762ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.049ms    1.076ms    1.879ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.672ms    3.688ms    4.513ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.582ms    6.588ms    6.594ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.840ms    6.846ms    6.852ms  
+ 8  199.109.114.18 (199.109.114.18)  7.529ms    7.542ms    8.435ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.042ms    7.044ms    7.051ms  
+11  192.178.106.20 (192.178.106.20)  6.976ms    6.982ms    6.988ms  
+12  142.251.69.170 (142.251.69.170)  8.105ms    8.105ms    8.974ms  
+13  142.251.69.166 (142.251.69.166)  8.085ms    8.890ms    8.891ms  
+14  192.178.107.43 (192.178.107.43)  10.222ms    10.226ms    10.241ms  
+15  142.251.60.181 (142.251.60.181)  7.247ms    7.251ms    7.258ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.265ms    7.269ms    7.275ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.062ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.782ms    0.783ms    0.789ms  
+ 3  10.9.52.10 (10.9.52.10)  0.847ms    0.857ms    1.618ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.135ms    1.140ms    1.897ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.628ms    3.638ms    4.380ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.677ms    6.683ms    6.700ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.882ms    6.886ms    7.722ms  
+ 8  199.109.114.18 (199.109.114.18)  8.818ms    8.820ms    9.681ms  
+ 9  142.250.234.37 (142.250.234.37)  7.242ms    8.101ms    8.101ms  
+10  142.251.60.231 (142.251.60.231)  7.340ms    7.345ms    7.351ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.277ms    7.280ms    7.286ms  
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.032ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.984ms    0.998ms    1.012ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.114ms    1.117ms    1.124ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  6.906ms    6.909ms    6.916ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.649ms    6.659ms    6.671ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.834ms    6.846ms    7.665ms  
+ 8  199.109.114.18 (199.109.114.18)  8.590ms    8.592ms    9.444ms  
+ 9  142.250.234.37 (142.250.234.37)  7.815ms    7.820ms    7.827ms  
+10  142.251.60.231 (142.251.60.231)  7.302ms    7.308ms    7.314ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.202ms    7.206ms    7.212ms  
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.043ms    0.033ms    0.028ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.735ms    0.735ms    0.737ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.167ms    2.021ms    2.022ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.910ms    3.916ms    3.922ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.800ms    6.804ms    6.808ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.014ms    7.046ms    7.053ms  
+ 8  199.109.114.18 (199.109.114.18)  8.551ms    8.556ms    8.562ms  
+ 9  142.250.234.37 (142.250.234.37)  7.333ms    8.169ms    8.170ms  
+10  142.251.60.231 (142.251.60.231)  7.332ms    7.336ms    7.352ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.228ms    7.232ms    7.238ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.799ms    0.815ms    0.829ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.132ms    1.131ms    2.181ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.719ms    3.723ms    3.729ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.837ms    6.840ms    6.846ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.713ms    7.649ms    7.652ms  
+ 8  199.109.114.18 (199.109.114.18)  8.707ms    8.706ms    9.733ms  
+ 9  142.250.234.37 (142.250.234.37)  7.310ms    8.292ms    8.297ms  
+10  142.251.60.231 (142.251.60.231)  7.343ms    7.346ms    7.360ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.270ms    7.275ms    7.279ms  
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.023ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.750ms    0.749ms    0.750ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.131ms    1.998ms    1.999ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.769ms    3.776ms    3.781ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.844ms    6.849ms    6.855ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.898ms    6.902ms    6.909ms  
+ 8  199.109.114.18 (199.109.114.18)  8.697ms    8.698ms    9.659ms  
+ 9  142.250.234.37 (142.250.234.37)  7.330ms    7.345ms    8.193ms  
+10  142.251.60.231 (142.251.60.231)  7.245ms    7.248ms    7.255ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.149ms    7.151ms    7.158ms  
+
+traceroute to spclient.wg.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.075ms    0.073ms    0.060ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.783ms    0.783ms    0.786ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.132ms    1.128ms    1.929ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.756ms    3.763ms    3.768ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.713ms    6.717ms    6.724ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.943ms    6.946ms    6.952ms  
+ 8  199.109.114.18 (199.109.114.18)  8.474ms    8.474ms    9.285ms  
+ 9  142.250.234.37 (142.250.234.37)  7.293ms    8.087ms    8.086ms  
+10  142.251.60.231 (142.251.60.231)  7.339ms    7.345ms    7.360ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.211ms    7.214ms    7.218ms  
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.062ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.758ms    0.766ms    0.777ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.333ms    2.144ms    2.145ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.732ms    3.740ms    3.745ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.699ms    6.705ms    6.712ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.894ms    6.898ms    7.716ms  
+ 8  199.109.114.18 (199.109.114.18)  8.776ms    8.787ms    9.644ms  
+ 9  142.250.234.37 (142.250.234.37)  7.364ms    7.370ms    7.376ms  
+10  142.251.60.231 (142.251.60.231)  7.287ms    7.292ms    7.299ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.174ms    7.178ms    7.185ms  
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.065ms    0.059ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.739ms    0.737ms    0.742ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.120ms    1.125ms    1.895ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.741ms    3.747ms    3.754ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.693ms    6.697ms    6.703ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.869ms    6.852ms    6.852ms  
+ 8  199.109.114.18 (199.109.114.18)  8.443ms    8.455ms    9.266ms  
+ 9  142.250.234.37 (142.250.234.37)  7.251ms    41.587ms    41.591ms  
+10  142.251.60.231 (142.251.60.231)  7.365ms    7.369ms    7.386ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.255ms    7.265ms    7.281ms  
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.795ms    0.804ms    0.816ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.123ms    1.122ms    2.078ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.730ms    3.734ms    3.740ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.865ms    6.871ms    6.877ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.755ms    6.756ms    7.542ms  
+ 8  199.109.114.18 (199.109.114.18)  8.409ms    9.370ms    9.382ms  
+ 9  142.250.234.37 (142.250.234.37)  7.241ms    7.264ms    8.059ms  
+10  142.251.60.231 (142.251.60.231)  7.321ms    7.326ms    7.330ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.134ms    7.139ms    7.145ms  
+
+traceroute to geolocation.onetrust.com (104.18.32.137), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.765ms    0.763ms    0.768ms  
+ 3  10.9.52.10 (10.9.52.10)  0.893ms    0.891ms    0.896ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.197ms    1.890ms    1.890ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.705ms    3.722ms    3.730ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.657ms    6.663ms    6.668ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.057ms    7.058ms    7.934ms  
+ 8  * * *
+ 9  199.27.132.36 (199.27.132.36)  7.506ms    7.509ms    7.515ms  
+10  104.18.32.137 (104.18.32.137)  7.344ms    8.155ms    8.144ms  
+
+traceroute to web-sdk-assets.spotifycdn.com (199.232.38.250), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.059ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.773ms    0.769ms    0.772ms  
+ 3  10.9.52.10 (10.9.52.10)  0.830ms    0.840ms    1.542ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.052ms    1.733ms    1.731ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.476ms    1.476ms    1.486ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.197ms    2.202ms    2.909ms  
+ 7  199.109.107.70 (199.109.107.70)  9.116ms    9.122ms    9.139ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to google.com (142.250.80.78), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.078ms    0.070ms    0.063ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.765ms    0.765ms    0.767ms  
+ 3  10.9.52.10 (10.9.52.10)  0.847ms    0.865ms    1.551ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.183ms    1.844ms    1.842ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.715ms    1.720ms    2.438ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.002ms    2.007ms    2.022ms  
+ 7  199.109.107.70 (199.109.107.70)  9.221ms    9.229ms    9.238ms  
+ 8  * * *
+ 9  * * *
+10  142.251.53.148 (142.251.53.148)  9.882ms    9.881ms    9.889ms  
+11  142.251.65.101 (142.251.65.101)  8.883ms    8.895ms    42.502ms  
+12  lga34s35-in-f14.1e100.net (142.250.80.78)  9.014ms    9.016ms    9.022ms  
+
+traceroute to google.com (142.250.80.78), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.769ms    0.772ms    0.775ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.157ms    1.160ms    1.166ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.722ms    2.727ms    2.731ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.896ms    1.895ms    1.902ms  
+ 7  199.109.107.70 (199.109.107.70)  9.032ms    9.036ms    9.043ms  
+ 8  72.14.202.166 (72.14.202.166)  18.986ms    18.985ms    39.003ms  
+ 9  * * *
+10  142.251.53.148 (142.251.53.148)  10.032ms    10.036ms    10.042ms  
+11  142.251.65.101 (142.251.65.101)  9.042ms    9.044ms    9.050ms  
+12  lga34s35-in-f14.1e100.net (142.250.80.78)  8.974ms    8.976ms    8.981ms  
+
+traceroute to cdn.cookielaw.org (104.19.177.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.790ms    0.789ms    0.793ms  
+ 3  10.9.52.10 (10.9.52.10)  0.837ms    0.853ms    1.541ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.073ms    1.747ms    1.745ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.391ms    1.388ms    2.105ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.148ms    2.155ms    2.161ms  
+ 7  199.109.107.70 (199.109.107.70)  8.851ms    8.856ms    8.861ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.840ms    10.635ms    10.646ms  
+ 9  199.27.132.36 (199.27.132.36)  10.058ms    10.064ms    10.070ms  
+10  104.19.177.52 (104.19.177.52)  9.350ms    9.361ms    10.187ms  
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.099ms    0.089ms    0.081ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.789ms    0.795ms    0.811ms  
+ 3  10.9.52.10 (10.9.52.10)  0.836ms    0.844ms    1.593ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.190ms    1.968ms    1.968ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.742ms    3.748ms    3.764ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.467ms    7.472ms    7.478ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.919ms    6.919ms    7.797ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.825ms    0.821ms    0.821ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.146ms    1.148ms    1.155ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.373ms    4.376ms    4.383ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.701ms    6.705ms    6.712ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.794ms    6.793ms    7.687ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to gstatic.com (142.251.32.99), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.064ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.842ms    0.846ms    0.853ms  
+ 3  10.9.52.10 (10.9.52.10)  0.902ms    0.903ms    0.910ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.210ms    1.217ms    1.224ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.767ms    3.768ms    3.774ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.708ms    6.709ms    6.715ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.740ms    6.742ms    6.748ms  
+ 8  199.109.114.18 (199.109.114.18)  7.750ms    7.750ms    8.743ms  
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  7.090ms    7.093ms    7.111ms  
+11  192.178.106.20 (192.178.106.20)  7.061ms    7.065ms    7.071ms  
+12  142.251.69.170 (142.251.69.170)  8.021ms    8.022ms    41.558ms  
+13  142.251.69.166 (142.251.69.166)  8.228ms    41.975ms    41.979ms  
+14  192.178.107.43 (192.178.107.43)  11.119ms    11.121ms    11.126ms  
+15  142.251.60.181 (142.251.60.181)  7.326ms    7.328ms    7.335ms  
+16  lga25s77-in-f3.1e100.net (142.251.32.99)  7.344ms    7.345ms    7.349ms  
+
+traceroute to spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.089ms    0.080ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.762ms    0.759ms    0.763ms  
+ 3  10.9.52.10 (10.9.52.10)  0.889ms    0.899ms    1.658ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.188ms    1.193ms    1.199ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.714ms    3.716ms    3.721ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.785ms    6.787ms    6.792ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.808ms    6.806ms    7.699ms  
+ 8  199.109.114.18 (199.109.114.18)  8.711ms    8.709ms    9.645ms  
+ 9  142.250.234.37 (142.250.234.37)  7.304ms    7.314ms    8.177ms  
+10  142.251.60.231 (142.251.60.231)  7.319ms    7.322ms    7.328ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.192ms    7.192ms    7.198ms  
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.059ms    0.057ms    0.048ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.770ms    0.771ms    0.781ms  
+ 3  10.9.52.10 (10.9.52.10)  0.834ms    0.841ms    1.627ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.170ms    1.829ms    1.829ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.439ms    2.183ms    2.193ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.883ms    2.594ms    2.594ms  
+ 7  199.109.107.70 (199.109.107.70)  8.897ms    8.903ms    8.919ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.726ms    0.724ms    0.729ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.133ms    1.137ms    1.907ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.528ms    1.535ms    1.542ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.796ms    1.802ms    1.807ms  
+ 7  199.109.107.70 (199.109.107.70)  8.920ms    8.924ms    8.930ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.037ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.806ms    0.807ms    0.810ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.092ms    1.096ms    1.102ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.544ms    1.546ms    1.552ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.181ms    2.179ms    3.090ms  
+ 7  199.109.107.70 (199.109.107.70)  8.950ms    8.950ms    9.947ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.743ms    0.750ms    0.754ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.181ms    1.188ms    1.951ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.549ms    1.554ms    1.561ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.949ms    1.948ms    1.953ms  
+ 7  199.109.107.70 (199.109.107.70)  8.842ms    8.847ms    8.855ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.778ms    0.777ms    0.782ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.191ms    1.187ms    1.926ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.543ms    2.550ms    2.587ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.193ms    2.198ms    2.204ms  
+ 7  199.109.107.70 (199.109.107.70)  8.918ms    8.922ms    8.928ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.032ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.772ms    0.772ms    0.774ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.199ms    1.196ms    1.990ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.534ms    1.538ms    1.546ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.262ms    2.267ms    2.274ms  
+ 7  199.109.107.70 (199.109.107.70)  8.908ms    8.912ms    8.918ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.058ms    0.055ms    0.047ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.750ms    0.750ms    0.754ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.080ms    1.076ms    1.860ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.467ms    1.468ms    1.473ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.964ms    1.978ms    1.985ms  
+ 7  199.109.107.70 (199.109.107.70)  8.985ms    8.990ms    9.804ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.759ms    0.757ms    0.762ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.024ms    1.029ms    1.805ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.590ms    1.591ms    1.590ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.928ms    1.925ms    1.926ms  
+ 7  199.109.107.70 (199.109.107.70)  8.867ms    8.865ms    8.865ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.776ms    0.776ms    0.780ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.191ms    1.192ms    1.199ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.665ms    1.670ms    1.676ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.966ms    1.963ms    2.879ms  
+ 7  199.109.107.70 (199.109.107.70)  9.084ms    9.088ms    9.095ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.064ms    0.055ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.839ms    0.847ms    0.852ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.149ms    1.150ms    1.155ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.596ms    1.598ms    1.603ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.995ms    1.992ms    2.717ms  
+ 7  199.109.107.70 (199.109.107.70)  12.362ms    12.368ms    12.373ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.074ms    0.067ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.783ms    0.774ms    0.773ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.120ms    1.116ms    1.964ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.474ms    1.481ms    1.487ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.090ms    2.091ms    3.039ms  
+ 7  199.109.107.70 (199.109.107.70)  8.946ms    8.951ms    8.956ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.078ms    0.082ms    0.073ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.807ms    0.811ms    0.818ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.329ms    1.327ms    2.215ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.679ms    1.683ms    1.688ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.951ms    1.956ms    1.962ms  
+ 7  199.109.107.70 (199.109.107.70)  8.805ms    8.806ms    9.605ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to seeded-session-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.060ms    0.053ms    0.047ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.745ms    0.744ms    0.748ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.273ms    1.276ms    1.283ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.400ms    2.403ms    2.410ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.022ms    2.026ms    2.033ms  
+ 7  199.109.107.70 (199.109.107.70)  8.851ms    8.855ms    8.862ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to seeded-session-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.069ms    0.064ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.766ms    0.761ms    0.766ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.026ms    1.022ms    1.822ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.415ms    1.415ms    1.419ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.061ms    2.064ms    2.884ms  
+ 7  199.109.107.70 (199.109.107.70)  8.903ms    8.906ms    8.907ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to seeded-session-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.032ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.719ms    0.716ms    0.715ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.124ms    1.130ms    1.889ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.547ms    1.554ms    1.559ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.816ms    2.570ms    2.569ms  
+ 7  199.109.107.70 (199.109.107.70)  8.995ms    9.001ms    9.006ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to charts-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.062ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.807ms    0.798ms    0.803ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.078ms    1.083ms    3.474ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.579ms    1.581ms    1.586ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.065ms    2.070ms    2.076ms  
+ 7  199.109.107.70 (199.109.107.70)  8.894ms    8.899ms    8.904ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to charts-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.082ms    0.078ms    0.068ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.768ms    0.760ms    0.759ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.051ms    1.048ms    1.846ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.259ms    2.265ms    2.271ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.248ms    2.252ms    2.259ms  
+ 7  199.109.107.70 (199.109.107.70)  8.909ms    8.914ms    8.921ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to charts-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.059ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.752ms    0.750ms    0.755ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.141ms    1.146ms    1.944ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.478ms    1.485ms    1.492ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.006ms    2.011ms    2.018ms  
+ 7  199.109.107.70 (199.109.107.70)  8.866ms    8.866ms    9.730ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.081ms    0.065ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.730ms    0.727ms    0.731ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.102ms    1.105ms    1.871ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.539ms    1.545ms    1.551ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.090ms    2.086ms    2.876ms  
+ 7  199.109.107.70 (199.109.107.70)  8.939ms    8.945ms    8.951ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.752ms    0.752ms    0.757ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.064ms    1.070ms    1.835ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.116ms    2.122ms    2.128ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.914ms    1.919ms    1.924ms  
+ 7  199.109.107.70 (199.109.107.70)  8.819ms    8.808ms    8.815ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.740ms    0.740ms    0.745ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.150ms    1.171ms    2.002ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.563ms    1.567ms    1.574ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.895ms    1.891ms    2.587ms  
+ 7  199.109.107.70 (199.109.107.70)  8.934ms    8.937ms    9.776ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.060ms    0.060ms    0.065ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.754ms    0.747ms    0.750ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.106ms    1.119ms    1.895ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.542ms    1.540ms    1.546ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.931ms    2.655ms    2.648ms  
+ 7  199.109.107.70 (199.109.107.70)  9.042ms    9.040ms    9.039ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.742ms    0.741ms    0.742ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.152ms    1.147ms    1.946ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.589ms    1.588ms    1.594ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.874ms    1.877ms    2.662ms  
+ 7  199.109.107.70 (199.109.107.70)  8.938ms    8.941ms    9.812ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.075ms    0.071ms    0.061ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.734ms    0.733ms    0.738ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.110ms    1.925ms    1.926ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.611ms    1.616ms    1.623ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.102ms    2.101ms    2.925ms  
+ 7  199.109.107.70 (199.109.107.70)  8.843ms    8.848ms    8.855ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.073ms    0.070ms    0.059ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.768ms    0.763ms    0.772ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.084ms    1.106ms    1.882ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  3.095ms    3.092ms    3.096ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.856ms    2.573ms    2.572ms  
+ 7  199.109.107.70 (199.109.107.70)  8.897ms    8.902ms    8.903ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.075ms    0.060ms    0.865ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.742ms    0.741ms    0.744ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.106ms    1.126ms    1.966ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.652ms    1.656ms    1.663ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.998ms    2.002ms    2.009ms  
+ 7  199.109.107.70 (199.109.107.70)  9.930ms    9.931ms    10.744ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.693ms    0.692ms    0.694ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.129ms    1.136ms    2.064ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.773ms    1.778ms    1.783ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.881ms    1.893ms    2.837ms  
+ 7  199.109.107.70 (199.109.107.70)  8.918ms    8.917ms    9.867ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.064ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.799ms    0.789ms    0.787ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.145ms    1.149ms    1.155ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.642ms    1.646ms    1.651ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.914ms    1.916ms    2.684ms  
+ 7  199.109.107.70 (199.109.107.70)  8.854ms    8.859ms    8.865ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.771ms    0.770ms    0.772ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.126ms    1.121ms    1.893ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.528ms    1.534ms    1.540ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.003ms    2.009ms    2.015ms  
+ 7  199.109.107.70 (199.109.107.70)  8.977ms    8.989ms    9.833ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.037ms    0.033ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.772ms    0.771ms    0.772ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.183ms    1.179ms    1.964ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.568ms    1.567ms    1.572ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.192ms    2.198ms    2.205ms  
+ 7  199.109.107.70 (199.109.107.70)  8.927ms    8.931ms    8.937ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.752ms    0.753ms    0.757ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.090ms    1.095ms    1.102ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.564ms    1.569ms    1.576ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.978ms    1.981ms    1.988ms  
+ 7  199.109.107.70 (199.109.107.70)  8.900ms    8.902ms    8.908ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.737ms    0.736ms    0.738ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.177ms    1.172ms    1.973ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.649ms    1.637ms    1.643ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.179ms    2.184ms    2.191ms  
+ 7  199.109.107.70 (199.109.107.70)  9.116ms    9.121ms    9.129ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.038ms    0.035ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.740ms    0.740ms    0.740ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.136ms    1.143ms    1.919ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.618ms    1.623ms    1.631ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.783ms    2.528ms    2.528ms  
+ 7  199.109.107.70 (199.109.107.70)  9.079ms    9.082ms    9.940ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.063ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.900ms    0.904ms    0.910ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.029ms    1.027ms    1.910ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.539ms    1.544ms    1.550ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.952ms    1.953ms    1.957ms  
+ 7  199.109.107.70 (199.109.107.70)  8.868ms    8.871ms    8.875ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.023ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.704ms    0.703ms    0.707ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.113ms    1.127ms    1.899ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.618ms    1.623ms    1.630ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.860ms    1.861ms    1.868ms  
+ 7  199.109.107.70 (199.109.107.70)  8.818ms    8.822ms    8.829ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.059ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.891ms    0.894ms    0.900ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.127ms    1.130ms    1.138ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.671ms    1.673ms    1.679ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.874ms    1.877ms    1.884ms  
+ 7  199.109.107.70 (199.109.107.70)  8.883ms    8.881ms   *
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to api-partner.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.036ms    0.032ms    0.028ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.756ms    0.756ms    0.757ms  
+ 3  10.9.52.10 (10.9.52.10)  0.844ms    1.595ms    1.576ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.067ms    1.770ms    1.768ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.867ms    3.832ms    3.852ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.797ms    6.800ms    6.807ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.057ms    7.058ms    7.065ms  
+ 8  199.109.114.18 (199.109.114.18)  8.774ms    8.777ms    8.782ms  
+ 9  142.250.234.37 (142.250.234.37)  7.839ms    7.841ms    7.847ms  
+10  142.251.60.231 (142.251.60.231)  7.266ms    7.269ms    7.275ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.236ms    7.237ms    7.241ms  
+
+traceroute to open.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.061ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.742ms    0.743ms    0.747ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.919ms    1.707ms    1.709ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.731ms    3.737ms    3.744ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.864ms    6.869ms    6.875ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.948ms    6.953ms    6.961ms  
+ 8  199.109.114.18 (199.109.114.18)  8.585ms    8.589ms    8.596ms  
+ 9  142.250.234.37 (142.250.234.37)  7.637ms    7.642ms    7.648ms  
+10  142.251.60.231 (142.251.60.231)  7.328ms    7.332ms    7.338ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.122ms    7.126ms    7.133ms  
+
+traceroute to open.spotifycdn.com (199.232.38.251), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.828ms    0.827ms    0.833ms  
+ 3  10.9.52.10 (10.9.52.10)  0.956ms    0.957ms    0.962ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.184ms    3.275ms    3.279ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.681ms    3.683ms    3.701ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.787ms    6.788ms    6.793ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.016ms    7.016ms    7.023ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

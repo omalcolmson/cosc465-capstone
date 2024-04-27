@@ -1,0 +1,347 @@
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.800ms    0.800ms    0.803ms  
+ 3  10.9.52.10 (10.9.52.10)  0.865ms    0.874ms    1.549ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.075ms    1.760ms    1.758ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.795ms    3.801ms    3.817ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.606ms    6.610ms    6.616ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.001ms    7.006ms    7.014ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  30.531ms    30.537ms    30.543ms  
+ 9  52.93.51.45 (52.93.51.45)  53.959ms    53.965ms    53.972ms  
+10  52.93.1.28 (52.93.1.28)  7.796ms    7.795ms    49.343ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.058ms    0.051ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.796ms    0.797ms    0.801ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.150ms    1.152ms    1.159ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.788ms    3.789ms    3.794ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.757ms    6.760ms    6.767ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.938ms    6.942ms    6.949ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  23.497ms    23.501ms    23.507ms  
+ 9  52.93.51.45 (52.93.51.45)  13.491ms    13.495ms    13.501ms  
+10  52.93.1.28 (52.93.1.28)  7.717ms    7.722ms    7.729ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.027ms    0.024ms    0.022ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.789ms    0.789ms    0.790ms  
+ 3  10.9.52.10 (10.9.52.10)  0.835ms    1.581ms    1.582ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.113ms    1.833ms    1.832ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.693ms    3.709ms    4.419ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.806ms    6.814ms    6.822ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.009ms    7.018ms    7.027ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.064ms    7.069ms    7.075ms  
+ 9  52.93.51.41 (52.93.51.41)  11.380ms    11.386ms    11.392ms  
+10  52.93.1.24 (52.93.1.24)  7.559ms    7.557ms    37.815ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to ajax.googleapis.com (142.250.65.234), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.725ms    0.724ms    0.725ms  
+ 3  10.9.52.10 (10.9.52.10)  0.867ms    1.553ms    1.553ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.022ms    1.701ms    1.701ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.578ms    1.582ms    1.591ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.922ms    1.927ms    2.605ms  
+ 7  199.109.107.70 (199.109.107.70)  9.144ms    9.153ms    9.171ms  
+ 8  72.14.202.166 (72.14.202.166)  10.400ms    10.404ms    28.092ms  
+ 9  * * *
+10  142.250.224.246 (142.250.224.246)  9.401ms    9.404ms    9.421ms  
+11  142.251.60.227 (142.251.60.227)  9.255ms    9.271ms    43.205ms  
+12  lga25s73-in-f10.1e100.net (142.250.65.234)  9.360ms    9.362ms    9.368ms  
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.032ms    0.032ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.783ms    0.783ms    0.784ms  
+ 3  10.9.52.10 (10.9.52.10)  0.820ms    1.506ms    1.504ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.029ms    1.704ms    1.703ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.776ms    3.782ms    3.795ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.735ms    6.735ms    6.736ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.938ms    6.942ms    6.949ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  24.653ms    24.659ms    24.667ms  
+ 9  52.93.51.45 (52.93.51.45)  15.883ms    15.889ms    15.896ms  
+10  52.93.1.28 (52.93.1.28)  7.963ms    7.965ms    8.810ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.034ms    0.030ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.772ms    0.770ms    0.772ms  
+ 3  10.9.52.10 (10.9.52.10)  0.809ms    1.455ms    1.456ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.100ms    1.732ms    1.732ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.777ms    3.782ms    3.793ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.805ms    6.813ms    6.821ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.711ms    6.723ms    7.500ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.449ms    7.454ms    7.459ms  
+ 9  52.93.51.41 (52.93.51.41)  8.446ms    8.451ms    8.458ms  
+10  52.93.1.24 (52.93.1.24)  8.622ms    8.627ms    8.633ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.022ms    0.020ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.749ms    0.751ms    0.754ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.015ms    1.022ms    1.860ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.784ms    3.791ms    3.795ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.892ms    6.896ms    6.902ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.081ms    7.085ms    7.091ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.166ms    7.169ms    7.176ms  
+ 9  52.93.51.41 (52.93.51.41)  12.702ms    12.707ms    12.713ms  
+10  52.93.1.24 (52.93.1.24)  7.673ms    7.679ms    7.685ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.795ms    0.794ms    0.799ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.050ms    1.054ms    1.855ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.738ms    3.745ms    3.751ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.721ms    6.727ms    6.731ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.882ms    6.887ms    6.894ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  28.022ms    28.025ms    28.031ms  
+ 9  52.93.51.41 (52.93.51.41)  9.380ms    9.386ms    9.393ms  
+10  52.93.1.24 (52.93.1.24)  7.661ms    7.663ms    8.455ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.074ms    0.076ms    0.074ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.837ms    0.834ms    0.839ms  
+ 3  10.9.52.10 (10.9.52.10)  0.868ms    0.869ms    0.874ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.205ms    1.210ms    1.921ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.766ms    3.773ms    3.780ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.756ms    6.762ms    6.766ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.059ms    7.065ms    7.072ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.055ms    7.060ms    7.067ms  
+ 9  52.93.51.45 (52.93.51.45)  17.701ms    17.707ms    17.713ms  
+10  52.93.1.28 (52.93.1.28)  8.469ms    8.469ms    9.262ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.027ms    0.023ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.732ms    0.733ms    0.734ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.008ms    1.016ms    1.873ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.765ms    3.771ms    3.776ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.790ms    6.794ms    6.800ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.002ms    7.006ms    7.013ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.376ms    7.380ms    7.386ms  
+ 9  52.93.51.45 (52.93.51.45)  13.328ms    13.332ms    13.339ms  
+10  52.93.1.28 (52.93.1.28)  7.535ms    7.547ms    8.335ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.802ms    0.798ms    0.803ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.019ms    1.025ms    1.808ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.777ms    3.784ms    3.789ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.770ms    6.776ms    6.781ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.952ms    6.954ms    7.739ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.102ms    7.110ms    7.115ms  
+ 9  52.93.51.45 (52.93.51.45)  7.606ms    7.612ms    7.619ms  
+10  52.93.1.28 (52.93.1.28)  7.680ms    7.686ms    7.693ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.043ms    0.038ms    0.034ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.805ms    0.806ms    0.809ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.966ms    1.800ms    1.802ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.788ms    3.794ms    3.800ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.706ms    6.711ms    6.716ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.879ms    6.884ms    6.890ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.653ms    7.657ms    7.662ms  
+ 9  52.93.51.45 (52.93.51.45)  13.487ms    13.492ms    13.498ms  
+10  52.93.1.28 (52.93.1.28)  7.859ms    7.863ms    7.869ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.045ms    0.041ms    0.035ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.768ms    0.762ms    0.762ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.069ms    1.847ms    1.847ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.785ms    3.781ms    3.782ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  9.449ms    9.453ms    9.458ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.062ms    7.066ms    7.073ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.279ms    7.284ms    7.290ms  
+ 9  52.93.51.45 (52.93.51.45)  9.487ms    9.491ms    9.497ms  
+10  52.93.1.28 (52.93.1.28)  7.597ms    7.603ms    7.608ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.022ms    0.019ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.744ms    0.744ms    0.746ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.069ms    1.074ms    1.849ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.817ms    3.821ms    3.822ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  43.231ms    43.236ms    43.236ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.193ms    7.198ms    7.204ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  6.844ms    6.850ms    6.850ms  
+ 9  52.93.51.45 (52.93.51.45)  75.262ms    75.267ms    75.273ms  
+10  52.93.1.28 (52.93.1.28)  7.710ms    7.712ms    7.713ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.028ms    0.025ms    0.022ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.743ms    0.743ms    0.744ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.036ms    1.031ms    1.851ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.734ms    3.740ms    3.746ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.282ms    7.286ms    7.290ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.034ms    7.033ms    7.895ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  28.633ms    28.635ms    28.641ms  
+ 9  52.93.51.45 (52.93.51.45)  14.333ms    14.337ms    14.344ms  
+10  52.93.1.28 (52.93.1.28)  7.585ms    7.587ms    7.595ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.027ms    0.024ms    0.021ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.787ms    0.786ms    0.789ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.051ms    1.055ms    1.835ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.799ms    3.805ms    3.810ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.775ms    6.781ms    6.786ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.842ms    6.846ms    6.853ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  13.507ms    13.512ms    13.519ms  
+ 9  52.93.51.45 (52.93.51.45)  15.757ms    15.762ms    15.768ms  
+10  52.93.1.28 (52.93.1.28)  7.804ms    7.806ms    8.625ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.030ms    0.026ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.762ms    0.761ms    0.761ms  
+ 3  10.9.52.10 (10.9.52.10)  0.876ms    1.507ms    1.505ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.984ms    1.682ms    1.683ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.785ms    3.790ms    3.801ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.752ms    6.760ms    6.769ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.956ms    6.962ms    6.970ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.347ms    7.352ms    7.359ms  
+ 9  52.93.51.41 (52.93.51.41)  14.465ms    14.469ms    14.477ms  
+10  52.93.1.24 (52.93.1.24)  9.557ms    9.564ms    9.569ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.787ms    0.787ms    0.789ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.919ms    1.921ms    1.927ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.845ms    3.845ms    3.852ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.773ms    6.777ms    6.783ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.964ms    6.968ms    6.974ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  13.651ms    13.650ms    13.657ms  
+ 9  52.93.51.45 (52.93.51.45)  27.358ms    27.361ms    27.366ms  
+10  52.93.1.28 (52.93.1.28)  7.499ms    7.495ms    8.304ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.828ms    0.827ms    0.832ms  
+ 3  10.9.52.10 (10.9.52.10)  0.894ms    0.900ms    0.907ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.159ms    1.161ms    2.025ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.766ms    3.770ms    3.775ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.688ms    6.692ms    6.698ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.864ms    6.866ms    6.873ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  6.770ms    6.773ms    6.779ms  
+ 9  52.93.51.41 (52.93.51.41)  8.221ms    8.223ms    8.230ms  
+10  52.93.1.24 (52.93.1.24)  8.220ms    8.222ms    8.227ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to moodle.colgate.edu (44.195.107.51), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.070ms    0.072ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.757ms    0.756ms    0.760ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.046ms    1.042ms    1.833ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.744ms    3.752ms    3.758ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.672ms    6.678ms    6.684ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.902ms    6.908ms    6.915ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  6.943ms    6.948ms    6.954ms  
+ 9  52.93.51.41 (52.93.51.41)  17.573ms    17.580ms    17.586ms  
+10  52.93.1.24 (52.93.1.24)  8.035ms    8.037ms    8.037ms  
+11  * * *
+12  * * *
+13  * * *
+
+traceroute to cdn.jsdelivr.net (199.232.37.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.056ms    0.047ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.817ms    0.812ms    0.815ms  
+ 3  10.9.52.10 (10.9.52.10)  0.882ms    0.898ms    1.643ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.137ms    1.905ms    1.906ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.797ms    3.801ms    3.819ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.733ms    6.736ms    6.742ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.922ms    6.924ms    6.929ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to cdn.jsdelivr.net (199.232.37.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.027ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.824ms    0.825ms    0.826ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.005ms    1.010ms    1.837ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.780ms    3.778ms    3.778ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.693ms    6.689ms    6.689ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.087ms    7.082ms    7.082ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to cdn.jsdelivr.net (199.232.37.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.061ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.859ms    0.864ms    0.870ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.006ms    1.012ms    1.916ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.770ms    3.772ms    3.778ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  13.777ms    13.781ms    13.788ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.883ms    6.889ms    6.893ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
+traceroute to cdn.jsdelivr.net (199.232.37.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.053ms    0.049ms    0.036ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.832ms    0.832ms    0.834ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.936ms    0.932ms    1.784ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  5.411ms    5.418ms    5.423ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.883ms    6.888ms    6.895ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.871ms    6.882ms    6.888ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+
