@@ -1,14 +1,224 @@
 traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.025ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.785ms    0.783ms    0.785ms  
- 3  pa3260-vlan1052.colgate.edu (10.9.52.20)  0.625ms    0.625ms    0.626ms  
- 4  ocon6410-vlan1053.colgate.edu (10.9.53.203)  0.843ms    0.846ms    0.851ms  
- 5  testportal.colgate.edu (149.43.134.29)  0.564ms    0.562ms    0.566ms  
+ 1  172.17.0.1 (172.17.0.1)  0.100ms    0.092ms    0.075ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.738ms    0.736ms    0.739ms  
+ 3  pa3260-vlan1052.colgate.edu (10.9.52.20)  0.771ms    0.771ms    0.774ms  
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.851ms    0.853ms    0.857ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.516ms    0.516ms    0.519ms  
 
 traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.034ms    0.032ms    0.026ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.743ms    0.743ms    0.745ms  
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.734ms    0.735ms    0.739ms  
  3  * * *
- 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.839ms    0.838ms    0.844ms  
- 5  testportal.colgate.edu (149.43.134.29)  0.490ms    0.488ms    0.492ms  
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.881ms    0.880ms    0.886ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.378ms    0.379ms    0.383ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.777ms    0.775ms    0.779ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.860ms    0.859ms    0.865ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.466ms    0.464ms    0.468ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.059ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.823ms    0.825ms    0.831ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.856ms    0.856ms    0.862ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.437ms    1.226ms    1.226ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.738ms    0.738ms    0.740ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.965ms    0.965ms    0.971ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.604ms    0.603ms    0.609ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.056ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.752ms    0.751ms    0.756ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.911ms    0.909ms    0.915ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.313ms    0.312ms    0.316ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.074ms    0.070ms    0.060ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.739ms    0.740ms    0.741ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.869ms    0.865ms    0.872ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.515ms    0.515ms    0.519ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.023ms    0.019ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.771ms    0.768ms    0.768ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.983ms    0.983ms    0.989ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.368ms    1.120ms    1.120ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.707ms    0.706ms    0.708ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.874ms    0.871ms    0.878ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.579ms    0.575ms    0.580ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.741ms    0.740ms    0.744ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.871ms    0.871ms    0.877ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.608ms    0.607ms    0.611ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.063ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.775ms    0.778ms    0.783ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.970ms    0.973ms    0.980ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.473ms    1.294ms    1.292ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.063ms    0.062ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.766ms    0.767ms    0.771ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.884ms    0.884ms    0.891ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.548ms    0.546ms    0.550ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.796ms    0.797ms    0.800ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.978ms    0.980ms    0.986ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.475ms    0.483ms    1.325ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.721ms    0.720ms    0.723ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.900ms    0.897ms    0.903ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.575ms    0.574ms    0.578ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.064ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.732ms    0.729ms    0.735ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.920ms    0.920ms    0.926ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.431ms    0.429ms    0.435ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.027ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.746ms    0.743ms    0.743ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.828ms    0.826ms    0.834ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.393ms    0.399ms    1.115ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.048ms    0.051ms    0.049ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.699ms    0.700ms    0.702ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.948ms    0.947ms    0.952ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.435ms    0.433ms    0.437ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.032ms    0.028ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.755ms    0.764ms    0.766ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.965ms    0.962ms    0.968ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.602ms    0.602ms    0.607ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.025ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.741ms    0.744ms    0.746ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.988ms    0.990ms    0.997ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.440ms    1.382ms    1.388ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.818ms    0.795ms    0.806ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.870ms    0.869ms    0.875ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.328ms    0.330ms    0.337ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.063ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.844ms    0.846ms    0.829ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.936ms    0.938ms    0.944ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.473ms    0.470ms    0.474ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.086ms    0.085ms    0.058ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.724ms    0.724ms    0.729ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.888ms    0.888ms    0.894ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.309ms    0.307ms    0.311ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.061ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.840ms    0.811ms    0.808ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.936ms    0.935ms    0.942ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.527ms    0.526ms    0.530ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.707ms    0.710ms    0.712ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.922ms    0.922ms    0.925ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.575ms    0.574ms    0.576ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.064ms    0.055ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.758ms    0.755ms    0.760ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.933ms    0.934ms    0.940ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.438ms    0.433ms    0.431ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.828ms    0.834ms    0.839ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.938ms    0.939ms    0.944ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.438ms    0.436ms    0.441ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.740ms    0.741ms    0.744ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.880ms    0.879ms    0.886ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.281ms    0.289ms    1.005ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.029ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.736ms    0.734ms    0.734ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.901ms    0.898ms    0.904ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.492ms    0.490ms    0.494ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.077ms    0.062ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.747ms    0.739ms    0.744ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.902ms    0.890ms    0.895ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.371ms    0.368ms    0.372ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.698ms    0.699ms    0.703ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.905ms    0.904ms    0.911ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.389ms    0.385ms    0.385ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.692ms    0.692ms    0.693ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  1.653ms    1.627ms    1.628ms  
+ 5  testportal.colgate.edu (149.43.134.29)  0.317ms    1.043ms    1.042ms  
+
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.737ms    0.737ms    0.739ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.890ms    0.889ms    0.895ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.475ms    0.474ms    0.479ms  
 

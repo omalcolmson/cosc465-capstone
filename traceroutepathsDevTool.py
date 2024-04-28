@@ -16,13 +16,25 @@ def read_domains_and_urls(file_path):
         if not line.strip() or line.strip().lower() == 'url':
             continue
 
+        '''  
         if 'https://' not in line:
             if current_domain:
                 domains[current_domain] = url_list  
             current_domain = line.strip()  
             url_list = []  
         else:
+            url_list.append(line.strip())'''
+        
+        #Need to handle http as well not only https
+
+        if 'https://' in line or 'http://' in line:
             url_list.append(line.strip())
+        else:
+            if current_domain:
+                domains[current_domain] = url_list
+            current_domain = line.strip()
+            url_list = []
+
 
     if current_domain and url_list:  
         domains[current_domain] = url_list

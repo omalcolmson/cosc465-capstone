@@ -1,387 +1,372 @@
 traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.058ms    0.046ms    0.036ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.729ms    0.724ms    0.726ms  
- 3  10.9.52.10 (10.9.52.10)  0.833ms    1.570ms    1.570ms  
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.118ms    1.776ms    1.777ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.490ms    1.493ms    1.508ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.977ms    1.984ms    2.810ms  
- 7  199.109.107.70 (199.109.107.70)  8.856ms    8.855ms    10.210ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.916ms    8.918ms    8.924ms  
+ 1  172.17.0.1 (172.17.0.1)  0.044ms    0.039ms    0.035ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.710ms    0.708ms    0.712ms  
+ 3  10.9.52.10 (10.9.52.10)  0.895ms    0.892ms    0.897ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  0.979ms    1.616ms    1.614ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.637ms    1.642ms    1.659ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.105ms    2.107ms    2.114ms  
+ 7  199.109.107.70 (199.109.107.70)  9.120ms    9.122ms    9.982ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.999ms    9.004ms    9.010ms  
  9  * * *
 10  * * *
 11  * * *
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.067ms    0.061ms    0.051ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.771ms    0.770ms    0.774ms  
- 3  10.9.52.10 (10.9.52.10)  0.828ms    0.836ms    1.599ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.030ms    1.761ms    1.735ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.737ms    3.754ms    3.761ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.772ms    6.776ms    6.782ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.829ms    6.842ms    7.668ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.534ms    7.538ms    7.554ms  
- 9  * * *
-10  * * *
-11  * * *
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.750ms    0.748ms    0.751ms  
+ 3  10.9.52.10 (10.9.52.10)  0.852ms    0.861ms    1.611ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.154ms    1.828ms    1.827ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.136ms    7.143ms    7.159ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.295ms    7.297ms    8.138ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  23.739ms    23.743ms    23.749ms  
+ 8  38.140.106.218 (38.140.106.218)  7.543ms    126.151ms    126.154ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  8.935ms    8.938ms    8.944ms  
+10  152.199.24.163 (152.199.24.163)  7.090ms    7.088ms    7.094ms  
 
-traceroute to static.licdn.com (23.44.133.39), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.039ms    0.882ms    0.881ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.867ms    0.865ms    0.870ms  
- 3  10.9.52.10 (10.9.52.10)  0.847ms    0.855ms    1.542ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.010ms    1.717ms    1.716ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.678ms    3.694ms    3.702ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.737ms    6.743ms    6.748ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.000ms    7.005ms    7.011ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.993ms    7.998ms    8.003ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to static.licdn.com (23.44.133.39), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.065ms    0.063ms    0.055ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.768ms    0.768ms    0.772ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.031ms    0.029ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.745ms    0.728ms    0.717ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.876ms    1.675ms    1.676ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.873ms    3.879ms    3.886ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.821ms    6.826ms    6.831ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.799ms    6.804ms    6.811ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  19.268ms    19.273ms    19.278ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.052ms    1.048ms    2.026ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.210ms    8.660ms    8.661ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.171ms    7.174ms    7.972ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.423ms    7.425ms    8.194ms  
+ 8  38.140.106.218 (38.140.106.218)  7.564ms    7.566ms    8.358ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.865ms    7.867ms    10.886ms  
+10  152.199.24.163 (152.199.24.163)  7.119ms    7.121ms    7.125ms  
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.071ms    0.063ms    0.075ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.792ms    0.786ms    0.786ms  
- 3  10.9.52.10 (10.9.52.10)  0.831ms    1.500ms    1.487ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.103ms    1.749ms    1.748ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.664ms    3.672ms    4.381ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.707ms    6.714ms    6.723ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.821ms    6.835ms    7.625ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.547ms    7.547ms    7.557ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to static.licdn.com (23.44.133.39), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.027ms    0.025ms    0.021ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.770ms    0.772ms    0.773ms  
- 3  10.9.52.10 (10.9.52.10)  0.851ms    1.569ms    1.571ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.142ms    1.800ms    1.800ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.653ms    3.676ms    3.684ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.847ms    6.855ms    6.863ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.950ms    6.956ms    7.802ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  11.689ms    11.695ms    11.701ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to static.licdn.com (23.44.133.39), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.051ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.761ms    0.760ms    0.765ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.719ms    0.718ms    0.723ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.107ms    1.113ms    1.886ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  6.454ms    6.461ms    6.466ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.688ms    6.691ms    6.696ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.011ms    7.010ms    7.010ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.025ms    8.039ms    8.055ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.182ms    1.193ms    2.212ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.246ms    7.245ms    8.192ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.199ms    7.198ms    8.115ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.358ms    7.358ms    8.325ms  
+ 8  38.140.106.218 (38.140.106.218)  7.439ms    8.456ms    8.463ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.930ms    8.774ms    8.774ms  
+10  152.199.24.163 (152.199.24.163)  7.091ms    7.096ms    7.113ms  
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.039ms    0.041ms    0.035ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.710ms    0.707ms    0.706ms  
- 3  10.9.52.10 (10.9.52.10)  0.838ms    1.506ms    1.504ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.073ms    1.745ms    1.741ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.703ms    3.712ms    3.714ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.675ms    6.679ms    6.683ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.970ms    6.978ms    6.986ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  14.073ms    14.073ms    14.075ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.065ms    0.061ms    0.051ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.706ms    0.706ms    0.710ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.768ms    0.771ms    0.775ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.135ms    1.138ms    1.929ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.804ms    3.811ms    3.817ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.784ms    6.788ms    6.794ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.994ms    6.999ms    7.006ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.317ms    8.323ms    8.330ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.074ms    1.073ms    2.032ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.061ms    7.062ms    7.068ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.151ms    7.163ms    7.964ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.318ms    7.331ms    8.134ms  
+ 8  38.140.106.218 (38.140.106.218)  7.464ms    8.272ms    8.273ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.846ms    8.697ms    8.698ms  
+10  152.199.24.163 (152.199.24.163)  7.188ms    7.191ms    7.208ms  
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.078ms    0.069ms    0.060ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.790ms    0.800ms    0.797ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.059ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.810ms    0.816ms    0.821ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.093ms    2.005ms    2.006ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.772ms    3.775ms    3.780ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.805ms    6.810ms    6.818ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.004ms    7.010ms    7.016ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.683ms    7.688ms    7.694ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.047ms    1.052ms    2.027ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.115ms    7.119ms    7.124ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.400ms    7.399ms    8.397ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.277ms    7.281ms    7.287ms  
+ 8  38.140.106.218 (38.140.106.218)  7.490ms    8.410ms    8.414ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  8.061ms    8.059ms    8.946ms  
+10  152.199.24.163 (152.199.24.163)  7.196ms    7.200ms    7.205ms  
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.037ms    0.034ms    0.029ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.783ms    0.786ms    0.792ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.031ms    0.028ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.802ms    0.798ms    0.810ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.940ms    1.728ms    1.729ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.772ms    3.778ms    3.785ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  8.290ms    8.295ms    8.302ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.977ms    6.988ms    7.857ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  33.849ms    33.855ms    33.859ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.115ms    1.118ms    1.125ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.031ms    7.033ms    7.040ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.252ms    8.144ms    8.146ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.474ms    7.477ms    8.399ms  
+ 8  38.140.106.218 (38.140.106.218)  7.378ms    8.267ms    8.271ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.887ms    7.887ms    8.759ms  
+10  152.199.24.163 (152.199.24.163)  7.177ms    7.180ms    7.183ms  
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.065ms    0.063ms    0.055ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.730ms    0.728ms    0.732ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.798ms    0.801ms    0.803ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.066ms    1.071ms    1.838ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.618ms    4.629ms    5.425ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.628ms    6.634ms    6.639ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.007ms    7.825ms    7.827ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.805ms    8.626ms    8.628ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.059ms    1.063ms    1.070ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.025ms    7.027ms    7.032ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.122ms    7.911ms    7.913ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.345ms    7.350ms    7.358ms  
+ 8  38.140.106.218 (38.140.106.218)  7.838ms    7.843ms    7.849ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  10.746ms    10.749ms    10.754ms  
+10  152.199.24.163 (152.199.24.163)  7.135ms    7.137ms    7.143ms  
 
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.034ms    0.031ms    0.026ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.734ms    0.735ms    0.737ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.725ms    0.725ms    0.726ms  
  3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.028ms    1.833ms    1.834ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.975ms    3.982ms    3.988ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.749ms    6.754ms    6.761ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.774ms    6.785ms    7.671ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.001ms    8.006ms    8.012ms  
- 9  * * *
-10  * * *
-11  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.003ms    1.898ms    1.900ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.175ms    7.179ms    8.075ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.259ms    8.116ms    8.117ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.295ms    7.300ms    7.305ms  
+ 8  38.140.106.218 (38.140.106.218)  21.298ms    21.303ms    21.309ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.818ms    7.820ms    8.677ms  
+10  152.199.24.163 (152.199.24.163)  7.094ms    7.099ms    7.104ms  
 
-traceroute to static.licdn.com (23.44.133.59), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.075ms    0.063ms    0.053ms  
- 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.769ms    0.767ms    0.771ms  
- 3  10.9.52.10 (10.9.52.10)  0.802ms    1.554ms    1.553ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.114ms    1.797ms    1.795ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.699ms    3.713ms    3.720ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.697ms    6.707ms    6.718ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.864ms    6.864ms    7.705ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.802ms    7.806ms    7.813ms  
- 9  * * *
-10  * * *
-11  * * *
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.027ms    0.023ms    0.021ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.729ms    0.737ms    0.755ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.097ms    1.101ms    2.059ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  6.989ms    8.616ms    8.622ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.133ms    8.041ms    8.045ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.649ms    7.643ms    8.588ms  
+ 8  38.140.106.218 (38.140.106.218)  7.747ms    8.675ms    8.679ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  17.095ms    17.096ms    17.098ms  
+10  152.199.24.163 (152.199.24.163)  7.039ms    7.907ms    7.910ms  
 
-traceroute to static.licdn.com (23.44.133.39), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.044ms    0.041ms    0.035ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.771ms    0.768ms    0.771ms  
- 3  10.9.52.10 (10.9.52.10)  0.820ms    1.532ms    1.531ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.094ms    1.826ms    1.828ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.765ms    3.780ms    3.787ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.698ms    6.704ms    6.711ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.933ms    6.936ms    6.943ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.054ms    8.058ms    8.065ms  
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.809ms    0.819ms    0.828ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.063ms    1.060ms    2.013ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.158ms    7.994ms    7.995ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.183ms    8.007ms    8.007ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.470ms    7.475ms    7.482ms  
+ 8  38.140.106.218 (38.140.106.218)  13.111ms    13.114ms    13.113ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.715ms    8.584ms    8.584ms  
+10  152.199.24.163 (152.199.24.163)  7.114ms    7.119ms    7.135ms  
+
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.022ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.775ms    0.775ms    0.780ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.059ms    1.057ms    1.902ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.153ms    7.160ms    7.166ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.322ms    7.323ms    8.259ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.162ms    7.176ms    8.026ms  
+ 8  38.140.106.218 (38.140.106.218)  7.551ms    7.555ms    8.389ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.798ms    7.804ms    7.809ms  
+10  152.199.24.163 (152.199.24.163)  7.189ms    7.193ms    7.199ms  
+
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.029ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.766ms    0.759ms    0.757ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.038ms    1.796ms    1.796ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.019ms    7.024ms    7.031ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.079ms    7.848ms    7.848ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.355ms    7.359ms    7.366ms  
+ 8  38.140.106.218 (38.140.106.218)  26.539ms    26.542ms    26.549ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.773ms    8.558ms    8.559ms  
+10  152.199.24.163 (152.199.24.163)  7.122ms    7.126ms    7.143ms  
+
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.024ms    0.022ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.720ms    0.719ms    0.721ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.104ms    1.101ms    1.883ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.039ms    7.043ms    7.843ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.460ms    8.277ms    8.279ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.275ms    8.072ms    8.074ms  
+ 8  38.140.106.218 (38.140.106.218)  7.410ms    8.215ms    8.216ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.848ms    8.617ms    8.618ms  
+10  152.199.24.163 (152.199.24.163)  7.178ms    7.183ms    7.199ms  
+
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.754ms    0.753ms    0.756ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.141ms    1.145ms    1.151ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.156ms    7.163ms    7.985ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.278ms    8.083ms    8.083ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.957ms    7.972ms    8.784ms  
+ 8  38.140.106.218 (38.140.106.218)  7.582ms    7.587ms    7.594ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  7.911ms    8.697ms    8.700ms  
+10  152.199.24.163 (152.199.24.163)  7.203ms    7.208ms    7.224ms  
+
+traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.061ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.776ms    0.775ms    0.780ms  
+ 3  10.9.52.10 (10.9.52.10)  0.848ms    0.858ms    1.566ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.190ms    1.850ms    1.849ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.498ms    1.501ms    1.512ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.853ms    2.577ms    2.576ms  
+ 7  199.109.107.70 (199.109.107.70)  9.101ms    9.115ms    9.961ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  19.136ms    19.141ms    19.147ms  
  9  * * *
 10  * * *
 11  * * *
 
 traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.026ms    0.023ms    0.019ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.763ms    0.760ms    0.764ms  
- 3  10.9.52.10 (10.9.52.10)  0.840ms    0.849ms    1.532ms  
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.091ms    1.785ms    1.784ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.471ms    1.471ms    1.481ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.916ms    1.919ms    2.710ms  
- 7  199.109.107.70 (199.109.107.70)  9.037ms    9.038ms    9.845ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  9.390ms    9.394ms    9.396ms  
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.969ms    0.970ms    0.977ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.240ms    1.243ms    1.249ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.433ms    1.435ms    1.440ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.863ms    1.864ms    1.871ms  
+ 7  199.109.107.70 (199.109.107.70)  8.923ms    8.925ms    8.931ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.769ms    8.771ms    8.778ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to platform.linkedin.com (23.44.133.55), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.064ms    0.056ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.649ms    0.644ms    1.470ms  
+ 3  10.9.52.10 (10.9.52.10)  0.916ms    0.919ms    0.926ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.302ms    1.302ms    2.224ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.785ms    3.789ms    3.794ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.775ms    6.781ms    6.786ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.903ms    6.906ms    6.913ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  7.733ms    7.734ms    7.741ms  
+ 9  * * *
+10  * * *
+11  * * *
+
+traceroute to ponf.linkedin.com (144.2.9.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.059ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.780ms    0.782ms    0.787ms  
+ 3  10.9.52.10 (10.9.52.10)  0.913ms    0.913ms    0.916ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.216ms    1.215ms    3.736ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.086ms    7.085ms    7.977ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.432ms    8.331ms    8.336ms  
+ 7  be3363.ccr31.jfk04.atlas.cogentco.com (154.54.3.126)  7.304ms    7.317ms    8.181ms  
+ 8  nyk-b7-link.ip.twelve99.net (213.248.81.248)  7.244ms    7.246ms    7.263ms  
+ 9  nyk-bb1-link.ip.twelve99.net (62.115.143.10)  7.595ms    236.192ms    236.198ms  
+10  palo-b24-link.ip.twelve99.net (62.115.118.121)  73.164ms    301.680ms    301.685ms  
+11  sjo-b23-link.ip.twelve99.net (62.115.115.217)  75.368ms    75.401ms    303.440ms  
+12  * * *
+13  * * *
+14  * * *
+
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.739ms    0.738ms    0.740ms  
+ 3  10.9.52.10 (10.9.52.10)  0.919ms    0.924ms    0.930ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.172ms    1.178ms    1.956ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.063ms    7.071ms    7.078ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.178ms    7.190ms    8.016ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.407ms    7.413ms    7.430ms  
+ 8  38.140.106.218 (38.140.106.218)  7.526ms    8.415ms    8.419ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  25.140ms    25.143ms    25.148ms  
+10  152.199.24.163 (152.199.24.163)  7.195ms    7.185ms    7.184ms  
+
+traceroute to accounts.google.com (142.251.16.84), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.074ms    0.076ms    0.066ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.742ms    0.740ms    0.745ms  
+ 3  10.9.52.10 (10.9.52.10)  0.884ms    0.893ms    1.570ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.200ms    1.884ms    1.883ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.415ms    1.415ms    1.425ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.087ms    2.093ms    2.101ms  
+ 7  199.109.107.70 (199.109.107.70)  8.917ms    8.921ms    8.928ms  
+ 8  72.14.202.166 (72.14.202.166)  10.851ms    10.852ms    28.027ms  
+ 9  * * *
+10  142.251.65.92 (142.251.65.92)  9.652ms    44.499ms    44.505ms  
+11  192.178.106.162 (192.178.106.162)  9.044ms    9.048ms    9.054ms  
+12  142.251.69.170 (142.251.69.170)  10.109ms    10.106ms    44.176ms  
+13  142.251.69.191 (142.251.69.191)  14.962ms    14.961ms    48.837ms  
+14  142.251.238.39 (142.251.238.39)  14.918ms    14.920ms    14.927ms  
+15  142.250.209.248 (142.250.209.248)  15.035ms    15.036ms    15.042ms  
+16  142.251.68.23 (142.251.68.23)  15.608ms    15.606ms    50.050ms  
+17  * * *
+18  * * *
+19  * * *
+
+traceroute to accounts.google.com (142.251.16.84), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.022ms    0.023ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.787ms    0.793ms    0.807ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.203ms    1.201ms    2.024ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.517ms    1.521ms    1.526ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.985ms    1.994ms    2.001ms  
+ 7  199.109.107.70 (199.109.107.70)  8.995ms    9.001ms    9.008ms  
+ 8  72.14.202.166 (72.14.202.166)  11.159ms    11.158ms    12.099ms  
+ 9  * * *
+10  142.251.65.92 (142.251.65.92)  9.771ms    10.701ms    10.708ms  
+11  192.178.106.162 (192.178.106.162)  9.355ms    9.359ms    9.365ms  
+12  142.251.69.170 (142.251.69.170)  10.161ms    10.976ms    10.976ms  
+13  142.251.69.191 (142.251.69.191)  15.002ms    15.006ms    15.833ms  
+14  142.251.238.39 (142.251.238.39)  16.396ms    16.403ms    16.409ms  
+15  142.250.209.248 (142.250.209.248)  14.673ms    14.679ms    14.686ms  
+16  142.251.68.23 (142.251.68.23)  15.702ms    15.705ms    16.493ms  
+17  * * *
+18  * * *
+19  * * *
+
+traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.072ms    0.069ms    0.059ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.784ms    0.775ms    0.776ms  
+ 3  10.9.52.10 (10.9.52.10)  0.893ms    0.892ms    0.889ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.224ms    1.233ms    1.236ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.764ms    2.766ms    2.766ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.158ms    2.158ms    3.056ms  
+ 7  199.109.107.70 (199.109.107.70)  9.155ms    9.152ms    9.166ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.821ms    8.825ms    8.827ms  
  9  * * *
 10  * * *
 11  * * *
 
 traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
  1  172.17.0.1 (172.17.0.1)  0.025ms    0.023ms    0.020ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.753ms    0.752ms    0.753ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.858ms    0.872ms    0.887ms  
  3  * * *
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.047ms    1.054ms    1.797ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.587ms    1.593ms    1.599ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.126ms    2.958ms    2.960ms  
- 7  199.109.107.70 (199.109.107.70)  8.910ms    8.916ms    8.921ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.846ms    8.850ms    8.857ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to platform.linkedin.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.071ms    0.064ms    0.054ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.773ms    0.763ms    0.767ms  
- 3  10.9.52.10 (10.9.52.10)  0.824ms    0.831ms    1.503ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.059ms    1.738ms    1.737ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.728ms    3.753ms    4.533ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.728ms    6.723ms    6.725ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.886ms    6.899ms    7.678ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  28.836ms    28.835ms    28.834ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to ponf.linkedin.com (144.2.9.1), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.045ms    0.040ms    0.036ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.721ms    0.720ms    0.723ms  
- 3  10.9.52.10 (10.9.52.10)  0.829ms    0.836ms    1.492ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.075ms    1.748ms    1.747ms  
- 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  6.997ms    7.005ms    7.828ms  
- 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.169ms    7.974ms    7.974ms  
- 7  be3363.ccr31.jfk04.atlas.cogentco.com (154.54.3.126)  7.512ms    7.518ms    7.533ms  
- 8  nyk-b7-link.ip.twelve99.net (213.248.81.248)  7.080ms    7.082ms    125.216ms  
- 9  nyk-bb1-link.ip.twelve99.net (62.115.143.10)  8.149ms    237.341ms    237.346ms  
-10  palo-b24-link.ip.twelve99.net (62.115.118.121)  73.290ms    73.295ms    73.315ms  
-11  sjo-b23-link.ip.twelve99.net (62.115.115.217)  74.649ms    304.124ms    304.128ms  
-12  * * *
-13  * * *
-14  * * *
-
-traceroute to static.licdn.com (23.44.133.55), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.045ms    0.042ms    0.036ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.725ms    0.725ms    0.728ms  
- 3  * * *
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.702ms    1.699ms    2.667ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.710ms    3.726ms    4.621ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.748ms    6.750ms    6.756ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.860ms    6.861ms    7.795ms  
- 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  41.020ms    41.026ms    41.030ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to accounts.google.com (142.251.16.84), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.059ms    0.056ms    0.047ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.722ms    0.721ms    0.725ms  
- 3  10.9.52.10 (10.9.52.10)  0.814ms    1.525ms    1.526ms  
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.106ms    1.798ms    1.798ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.483ms    1.489ms    1.506ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.001ms    2.006ms    2.010ms  
- 7  199.109.107.70 (199.109.107.70)  8.929ms    9.725ms    9.726ms  
- 8  72.14.202.166 (72.14.202.166)  27.161ms    27.174ms    46.781ms  
- 9  * * *
-10  142.251.65.92 (142.251.65.92)  10.047ms    10.049ms    10.067ms  
-11  192.178.106.162 (192.178.106.162)  9.110ms    9.113ms    9.119ms  
-12  142.251.69.170 (142.251.69.170)  10.059ms    10.065ms    48.532ms  
-13  142.251.69.191 (142.251.69.191)  15.154ms    15.149ms    15.150ms  
-14  142.251.238.39 (142.251.238.39)  16.504ms    16.506ms    16.511ms  
-15  142.250.209.248 (142.250.209.248)  77.137ms    77.134ms    115.971ms  
-16  142.251.68.23 (142.251.68.23)  15.322ms    15.322ms    53.861ms  
-17  * * *
-18  * * *
-19  * * *
-
-traceroute to accounts.google.com (142.251.16.84), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.052ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.815ms    0.817ms    0.824ms  
- 3  * * *
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.176ms    1.174ms    2.038ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.580ms    1.583ms    1.588ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.989ms    2.001ms    2.785ms  
- 7  199.109.107.70 (199.109.107.70)  8.813ms    8.840ms    9.619ms  
- 8  72.14.202.166 (72.14.202.166)  10.838ms    10.841ms    11.672ms  
- 9  * * *
-10  142.251.65.92 (142.251.65.92)  9.724ms    9.723ms    10.534ms  
-11  192.178.106.162 (192.178.106.162)  18.338ms    18.344ms    18.347ms  
-12  142.251.69.170 (142.251.69.170)  9.738ms    10.569ms    10.561ms  
-13  142.251.69.191 (142.251.69.191)  15.093ms    15.129ms    15.897ms  
-14  142.251.238.39 (142.251.238.39)  15.095ms    15.090ms    15.893ms  
-15  142.250.209.248 (142.250.209.248)  14.604ms    14.620ms    15.390ms  
-16  142.251.68.23 (142.251.68.23)  15.685ms    16.532ms    16.534ms  
-17  * * *
-18  * * *
-19  * * *
-
-traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.026ms    0.024ms    0.024ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.776ms    0.769ms    0.768ms  
- 3  10.9.52.10 (10.9.52.10)  0.973ms    0.975ms    0.982ms  
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.321ms    1.326ms    1.332ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.380ms    1.388ms    2.067ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.960ms    1.966ms    1.984ms  
- 7  199.109.107.70 (199.109.107.70)  9.157ms    9.162ms    9.168ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.746ms    8.748ms    8.754ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.258ms    1.252ms    3.429ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.546ms    1.545ms    1.544ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.008ms    2.013ms    2.018ms  
+ 7  199.109.107.70 (199.109.107.70)  9.026ms    9.029ms    9.037ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.824ms    8.826ms    8.832ms  
  9  * * *
 10  * * *
 11  * * *
 
 traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.031ms    0.028ms    0.023ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.750ms    0.760ms    0.772ms  
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.753ms    0.755ms    0.756ms  
  3  * * *
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.183ms    1.179ms    2.133ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.528ms    1.531ms    1.536ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.949ms    1.952ms    1.958ms  
- 7  199.109.107.70 (199.109.107.70)  8.975ms    8.976ms    8.982ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.840ms    8.843ms    8.851ms  
- 9  * * *
-10  * * *
-11  * * *
-
-traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.026ms    0.025ms    0.022ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.717ms    0.717ms    0.718ms  
- 3  * * *
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.272ms    1.274ms    1.281ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.924ms    1.924ms    1.930ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.844ms    1.850ms    1.856ms  
- 7  199.109.107.70 (199.109.107.70)  8.908ms    8.912ms    8.918ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.817ms    8.821ms    8.827ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.262ms    1.263ms    1.269ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.470ms    1.472ms    1.480ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.909ms    1.905ms    2.805ms  
+ 7  199.109.107.70 (199.109.107.70)  9.003ms    9.002ms    9.994ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  11.696ms    11.699ms    11.706ms  
  9  * * *
 10  * * *
 11  * * *
 
 traceroute to fonts.gstatic.com (142.250.80.67), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.069ms    0.063ms    0.052ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.795ms    0.792ms    0.797ms  
- 3  10.9.52.10 (10.9.52.10)  0.868ms    0.878ms    1.565ms  
- 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.105ms    1.864ms    1.862ms  
- 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.684ms    4.688ms    4.705ms  
- 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.781ms    6.785ms    6.791ms  
- 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.988ms    6.994ms    6.999ms  
- 8  199.109.114.18 (199.109.114.18)  7.804ms    7.805ms    8.642ms  
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.698ms    0.698ms    0.701ms  
+ 3  10.9.52.10 (10.9.52.10)  0.852ms    0.862ms    1.536ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.134ms    1.816ms    1.816ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.733ms    3.740ms    3.757ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.689ms    6.693ms    6.698ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.897ms    6.898ms    7.735ms  
+ 8  199.109.114.18 (199.109.114.18)  7.637ms    7.638ms    8.444ms  
  9  * * *
-10  216.239.43.154 (216.239.43.154)  8.048ms    8.044ms    27.806ms  
-11  192.178.108.18 (192.178.108.18)  8.136ms    46.771ms    46.777ms  
-12  216.239.54.207 (216.239.54.207)  8.385ms    28.226ms    28.245ms  
-13  216.239.58.110 (216.239.58.110)  8.001ms    8.001ms    27.338ms  
-14  192.178.106.157 (192.178.106.157)  8.437ms    46.895ms    46.900ms  
-15  142.251.65.101 (142.251.65.101)  7.333ms    7.335ms    7.341ms  
-16  lga34s35-in-f3.1e100.net (142.250.80.67)  7.321ms    7.320ms    7.326ms  
+10  216.239.43.154 (216.239.43.154)  8.075ms    8.104ms    8.134ms  
+11  192.178.108.18 (192.178.108.18)  8.021ms    8.017ms    42.049ms  
+12  216.239.58.121 (216.239.58.121)  10.109ms    10.106ms   *
+13  108.170.227.149 (108.170.227.149)  8.858ms    8.882ms    8.883ms  
+14  192.178.106.157 (192.178.106.157)  8.310ms    8.318ms    46.587ms  
+15  142.251.65.101 (142.251.65.101)  7.329ms    7.331ms    7.337ms  
+16  lga34s35-in-f3.1e100.net (142.250.80.67)  7.266ms    7.266ms    7.271ms  
 
 traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.077ms    0.072ms    0.054ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.773ms    0.770ms    0.769ms  
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.722ms    0.723ms    0.725ms  
  3  * * *
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.079ms    1.085ms    1.863ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.440ms    1.439ms    1.444ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.927ms    1.933ms    1.940ms  
- 7  199.109.107.70 (199.109.107.70)  8.864ms    8.866ms    9.707ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.875ms    8.880ms    8.885ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.168ms    1.164ms    1.983ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.450ms    2.214ms    2.212ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.050ms    2.056ms    2.064ms  
+ 7  199.109.107.70 (199.109.107.70)  8.981ms    8.986ms    8.992ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.783ms    8.814ms    9.641ms  
  9  * * *
 10  * * *
 11  * * *
 
 traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
- 1  172.17.0.1 (172.17.0.1)  0.075ms    0.063ms    0.053ms  
- 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.796ms    0.797ms    0.801ms  
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.726ms    0.728ms    0.731ms  
  3  * * *
- 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.165ms    3.538ms    3.540ms  
- 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.537ms    1.536ms    1.542ms  
- 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.237ms    2.292ms    2.300ms  
- 7  199.109.107.70 (199.109.107.70)  8.928ms    8.934ms    8.941ms  
- 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  8.804ms    8.810ms    8.815ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.148ms    1.155ms    1.969ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.524ms    1.531ms    2.295ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.040ms    2.041ms    2.040ms  
+ 7  199.109.107.70 (199.109.107.70)  8.845ms    8.849ms    9.721ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  11.622ms    11.628ms    11.632ms  
  9  * * *
 10  * * *
 11  * * *
