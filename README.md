@@ -2,9 +2,9 @@
 TEAM MEMBERS: Amanda Anowi, Carl Ekholm, Olivia Malcolmson, and Nyah Harrison
 
 ## Introduction
-<p>Anytime you access the internet, information travels far and wide. But do you know just how far? A semester of studying computer networks demystifies the amorphous entity that is the internet and provides us with the knowledge and tools to track just how far your data travels. The scope of our project began within 22 domains that we collecitvely decided as a group to use as a representative sample of domains frequently visited by Colgate students -- we refer to these as our <span style="color:red"><em>original</em></span> domains. However, traversing the internet is rarely ever a direct flight, typically making multiple stops along the way and receiving support from other entities to retrieve relevant information -- some of these secondary entities are CDNs and/or ASes, but we generally refer to these as <span style="color:red"><em>supporting</em></span> domains.</p>   
+Anytime you access the internet, information travels far and wide. But do you know just how far? A semester of studying computer networks demystifies the amorphous entity that is the internet and provides us with the knowledge and tools to track just how far your data travels. The scope of our project began within 22 domains that we collecitvely decided as a group to use as a representative sample of domains frequently visited by Colgate students -- we refer to these as our *original* domains. However, traversing the internet is rarely ever a direct flight, typically making multiple stops along the way and receiving support from other entities to retrieve relevant information -- some of these secondary entities are CDNs and/or ASes, but we generally refer to these as *supporting* domains.
 
-<p>The following document serves to outline our research project and process, specifically focusing on the scripts we used to gather and prepare our data. We also have some archived scripts which we will describe briefly as they were used only for organizing our data.</p>
+The following document serves to outline our research project and process, specifically focusing on the scripts we used to gather and prepare our data. We also have some archived scripts which we will describe briefly as they were used only for organizing our data.
 
 
 ### Breaking down the tasks
@@ -23,3 +23,62 @@ We wrote our scripts to achieve and support the following tasks:
 **`traceASPaths.py`**
 - iterates through each traceroute output file and parses the data to culminate information regarding the names and numbers of AS organizations found during the traversal
 - outputs this data to `DomainsAnalysis.csv` for the original domains
+
+**`traceroutepathsDevTool.py`**
+
+[ insert explanation here]
+
+
+**`geolocation.py`**
+
+[ insert explanation here]
+
+
+**`get_geolocation.py`**
+
+[ insert explanation here]
+
+
+**`getCDN.py`**
+
+[ insert explanation here]
+
+
+**`getIPS.py`**
+
+[ insert explanation here]
+
+
+**`getDevToolUrls.py`**
+
+[ insert explanation here]
+
+<details>
+<summary><strong> Archived Code Descriptions </strong></summary>
+<blockquote><strong><code>devtoolorg.py</code></strong> 
+<hr> Script for separating traceroute output of supporting domains that had originally been compiled into one txt file according to the original domain into separate txt files for each supporting domain organized by folders of the original domain they were supporting
+</blockquote>
+<br>
+<p>For instance, all of the traceroute output for all supporting domains found via the devtool for chatGPT were in one file like so:</p>
+                
+    CONTENTS OF chatopenai.com.txt:
+    traceroute to chat.openai.com (104.18.37.228), 30 hops max, 30 bytes packets
+    1  172.17.0.1 (172.17.0.1)  0.067ms    0.064ms    0.054ms  
+    ...
+
+    traceroute to cdn.oaistatic.com (104.18.41.158), 30 hops max, 30 bytes packets
+    1  172.17.0.1 (172.17.0.1)  0.045ms    0.040ms    0.035ms  
+    ...
+        
+<p>But these were then separated into files under the same folder of the original domain they supported, following a structure more similar to the following:</p>
+
+    -- /DevToolTraceRoute2k
+        | -- chat.openai.com/
+            | -- chat.openai.com.txt
+            -- cdn.oaistatic.com.txt
+
+<blockquote><strong><code>consolidate_loc_info.py</code></strong> 
+<hr> Script for consolidating all location information into pandas dataframes and outputting the information to csv files with counts and totals we could use for graphs
+</blockquote>
+
+</details>
