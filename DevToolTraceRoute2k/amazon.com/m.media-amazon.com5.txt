@@ -1,0 +1,12 @@
+traceroute to m.media-amazon.com (199.232.37.16), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.094ms    0.087ms    0.077ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.933ms    0.939ms    0.946ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.180ms    1.176ms    1.985ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.605ms    1.611ms    1.617ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.082ms    2.830ms    2.839ms  
+ 7  199.109.107.70 (199.109.107.70)  9.008ms    9.012ms    9.842ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

@@ -1,0 +1,14 @@
+traceroute to play.google.com (142.250.65.206), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.059ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.755ms    0.747ms    0.742ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.317ms    1.319ms    1.325ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.575ms    1.577ms    1.582ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.138ms    2.139ms    2.920ms  
+ 7  199.109.107.70 (199.109.107.70)  9.062ms    9.063ms    9.855ms  
+ 8  * * *
+ 9  * * *
+10  142.251.64.4 (142.251.64.4)  10.131ms    10.155ms    10.163ms  
+11  142.251.60.237 (142.251.60.237)  9.461ms    9.466ms    9.472ms  
+12  lga25s72-in-f14.1e100.net (142.250.65.206)  9.510ms    9.513ms    9.519ms  
+

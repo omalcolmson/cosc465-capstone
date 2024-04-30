@@ -1,0 +1,12 @@
+traceroute to i.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.082ms    0.074ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.769ms    0.769ms    0.772ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.164ms    1.160ms    1.998ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.898ms    1.904ms    1.912ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.935ms    1.935ms    2.725ms  
+ 7  199.109.107.70 (199.109.107.70)  8.979ms    8.983ms    8.990ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

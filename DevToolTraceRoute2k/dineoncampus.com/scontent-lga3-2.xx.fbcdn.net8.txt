@@ -1,0 +1,16 @@
+traceroute to scontent-lga3-2.xx.fbcdn.net (157.240.241.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.026ms    0.022ms    0.019ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.724ms    0.723ms    0.723ms  
+ 3  10.9.52.10 (10.9.52.10)  0.881ms    1.513ms    1.513ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.002ms    1.642ms    1.642ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.739ms    3.743ms    3.752ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.824ms    6.830ms    6.836ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.028ms    7.031ms    7.035ms  
+ 8  de-cix.nyc1.fb.com (206.82.104.164)  8.921ms    8.925ms    8.932ms  
+ 9  po202.asw04.lga1.tfbnw.net (157.240.103.114)  6.675ms    6.680ms    6.685ms  
+10  psw01.lga3.tfbnw.net (204.15.21.96)  7.089ms    7.094ms    7.099ms  
+11  msw1ae.02.lga3.tfbnw.net (129.134.89.110)  6.949ms    6.953ms    6.959ms  
+12  * * *
+13  * * *
+14  * * *
+

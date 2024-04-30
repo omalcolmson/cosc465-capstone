@@ -1,0 +1,16 @@
+traceroute to static.xx.fbcdn.net (31.13.71.7), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.054ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.858ms    0.864ms    0.869ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.070ms    1.073ms    1.081ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  11.609ms    11.612ms    11.619ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.699ms    6.702ms    6.707ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.057ms    7.059ms    7.064ms  
+ 8  de-cix.nyc1.fb.com (206.82.104.164)  7.808ms    7.809ms    7.816ms  
+ 9  po202.asw01.lga1.tfbnw.net (157.240.103.108)  6.760ms    6.767ms    7.579ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  7.002ms    7.014ms    7.839ms  
+11  msw1al.01.lga3.tfbnw.net (129.134.89.115)  6.940ms    6.953ms    6.982ms  
+12  * * *
+13  * * *
+14  * * *
+

@@ -1,0 +1,14 @@
+traceroute to addons-pa.clients6.google.com (142.250.65.234), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.751ms    0.751ms    0.755ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.177ms    1.182ms    1.997ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.445ms    1.444ms    1.449ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.914ms    2.696ms    2.714ms  
+ 7  199.109.107.70 (199.109.107.70)  8.958ms    8.960ms    9.753ms  
+ 8  72.14.202.166 (72.14.202.166)  26.052ms    26.053ms    26.875ms  
+ 9  * * *
+10  142.250.224.246 (142.250.224.246)  9.335ms    9.337ms    9.343ms  
+11  142.251.60.227 (142.251.60.227)  9.210ms    9.214ms    9.221ms  
+12  lga25s73-in-f10.1e100.net (142.250.65.234)  9.381ms    9.384ms    9.388ms  
+

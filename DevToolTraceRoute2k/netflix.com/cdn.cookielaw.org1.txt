@@ -1,0 +1,12 @@
+traceroute to cdn.cookielaw.org (104.19.178.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.033ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.839ms    0.839ms    0.839ms  
+ 3  10.9.52.10 (10.9.52.10)  0.826ms    1.954ms    1.953ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.225ms    1.227ms    1.922ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.473ms    2.197ms    2.196ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.998ms    1.999ms    2.723ms  
+ 7  199.109.107.70 (199.109.107.70)  8.796ms    8.810ms    9.680ms  
+ 8  nyiix.as13335.net (198.32.160.195)  21.779ms    21.786ms    21.792ms  
+ 9  162.158.152.3 (162.158.152.3)  65.029ms    65.033ms    65.040ms  
+10  104.19.178.52 (104.19.178.52)  9.816ms    9.819ms    9.825ms  
+

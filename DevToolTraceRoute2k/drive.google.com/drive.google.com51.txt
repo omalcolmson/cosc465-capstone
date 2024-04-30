@@ -1,0 +1,14 @@
+traceroute to drive.google.com (142.250.80.46), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.076ms    0.072ms    0.057ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.777ms    0.776ms    0.781ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.059ms    1.847ms    1.849ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.496ms    1.501ms    1.506ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.778ms    1.778ms    2.482ms  
+ 7  199.109.107.70 (199.109.107.70)  9.042ms    9.037ms    9.837ms  
+ 8  * * *
+ 9  * * *
+10  142.251.65.94 (142.251.65.94)  9.067ms    9.081ms    9.931ms  
+11  142.251.65.99 (142.251.65.99)  8.956ms    8.962ms    8.966ms  
+12  lga34s34-in-f14.1e100.net (142.250.80.46)  8.962ms    8.963ms    8.969ms  
+

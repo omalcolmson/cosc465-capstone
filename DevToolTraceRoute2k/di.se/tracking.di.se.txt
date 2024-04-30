@@ -1,0 +1,13 @@
+traceroute to tracking.di.se (34.117.133.19), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.060ms    0.056ms    0.046ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.773ms    0.773ms    0.778ms  
+ 3  10.9.52.10 (10.9.52.10)  0.825ms    0.840ms    1.497ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.090ms    1.094ms    1.781ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.710ms    3.729ms    4.453ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.642ms    6.648ms    6.663ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.940ms    7.723ms    7.722ms  
+ 8  199.109.114.18 (199.109.114.18)  8.165ms    8.169ms    8.175ms  
+ 9  142.251.67.163 (142.251.67.163)  6.813ms    40.280ms    40.286ms  
+10  142.250.46.197 (142.250.46.197)  7.566ms    7.568ms    41.620ms  
+11  19.133.117.34.bc.googleusercontent.com (34.117.133.19)  6.873ms    6.875ms    6.861ms  
+

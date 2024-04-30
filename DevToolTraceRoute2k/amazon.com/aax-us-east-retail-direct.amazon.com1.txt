@@ -1,0 +1,17 @@
+traceroute to aax-us-east-retail-direct.amazon.com (54.239.17.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.048ms    0.043ms    0.037ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.769ms    0.770ms    0.773ms  
+ 3  10.9.52.10 (10.9.52.10)  0.944ms    0.946ms    0.953ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.208ms    1.999ms    2.003ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.605ms    1.609ms    1.624ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.854ms    1.853ms    2.698ms  
+ 7  199.109.107.70 (199.109.107.70)  9.161ms    9.166ms    9.181ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  9.427ms    9.428ms    9.435ms  
+ 9  150.222.68.88 (150.222.68.88)  13.195ms    13.196ms    13.202ms  
+10  150.222.68.91 (150.222.68.91)  22.220ms    22.220ms    22.227ms  
+11  * * *
+12  150.222.68.78 (150.222.68.78)  46.522ms    46.524ms    46.531ms  
+13  * * *
+14  * * *
+15  * * *
+

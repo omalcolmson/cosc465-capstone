@@ -1,0 +1,12 @@
+traceroute to web-sdk-assets.spotifycdn.com (199.232.38.250), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.090ms    0.088ms    0.075ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.741ms    0.748ms    0.747ms  
+ 3  10.9.52.10 (10.9.52.10)  0.904ms    0.896ms    0.895ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.112ms    1.930ms    1.934ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.279ms    2.280ms    2.295ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.057ms    2.057ms    2.733ms  
+ 7  199.109.107.70 (199.109.107.70)  9.046ms    10.019ms    10.040ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

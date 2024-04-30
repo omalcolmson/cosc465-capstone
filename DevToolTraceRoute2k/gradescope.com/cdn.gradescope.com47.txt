@@ -1,0 +1,15 @@
+traceroute to cdn.gradescope.com (18.238.49.67), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.029ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.723ms    0.724ms    0.725ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.017ms    1.024ms    1.888ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.800ms    3.806ms    3.811ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.789ms    6.774ms    6.781ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.208ms    7.210ms    7.217ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.279ms    7.283ms    7.290ms  
+ 9  52.93.51.39 (52.93.51.39)  11.125ms    11.129ms    11.135ms  
+10  52.93.1.6 (52.93.1.6)  8.249ms    9.021ms    9.022ms  
+11  * * *
+12  * * *
+13  * * *
+

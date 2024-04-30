@@ -1,0 +1,13 @@
+traceroute to images.ctfassets.net (108.138.106.48), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.092ms    0.079ms    0.047ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.727ms    0.726ms    0.730ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.113ms    1.097ms    1.871ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.531ms    1.531ms    1.536ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.965ms    2.704ms    2.703ms  
+ 7  199.109.107.70 (199.109.107.70)  8.876ms    9.709ms    9.712ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  8.956ms    8.960ms    8.966ms  
+ 9  * * *
+10  * * *
+11  * * *
+

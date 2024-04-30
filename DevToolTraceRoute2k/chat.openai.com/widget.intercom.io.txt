@@ -1,0 +1,15 @@
+traceroute to widget.intercom.io (13.226.34.3), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.074ms    0.061ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.799ms    0.803ms    0.810ms  
+ 3  10.9.52.10 (10.9.52.10)  0.926ms    0.928ms    0.934ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.127ms    1.128ms    2.066ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.736ms    3.737ms    3.731ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.753ms    6.754ms    6.761ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.968ms    6.969ms    6.975ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.186ms    7.187ms    7.192ms  
+ 9  52.93.51.45 (52.93.51.45)  22.680ms    22.681ms    22.688ms  
+10  52.93.1.60 (52.93.1.60)  7.846ms    7.844ms    45.176ms  
+11  * * *
+12  * * *
+13  * * *
+

@@ -1,0 +1,15 @@
+traceroute to m.media-amazon.com (108.138.110.85), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.073ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.855ms    0.859ms    0.864ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.028ms    1.032ms    1.037ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.854ms    3.855ms    3.862ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.761ms    6.762ms    6.769ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.919ms    6.922ms    6.929ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.223ms    7.226ms    7.232ms  
+ 9  52.93.51.37 (52.93.51.37)  14.694ms    14.697ms    14.703ms  
+10  52.93.1.36 (52.93.1.36)  7.931ms    7.928ms    8.830ms  
+11  * * *
+12  * * *
+13  * * *
+

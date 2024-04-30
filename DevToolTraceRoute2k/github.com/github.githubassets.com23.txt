@@ -1,0 +1,12 @@
+traceroute to github.githubassets.com (185.199.108.154), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.092ms    0.077ms    0.074ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.716ms    0.716ms    0.721ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.090ms    1.855ms    1.855ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.542ms    1.543ms    1.548ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.058ms    2.926ms    2.927ms  
+ 7  199.109.107.70 (199.109.107.70)  9.022ms    9.025ms    9.812ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

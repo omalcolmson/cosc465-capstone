@@ -1,0 +1,13 @@
+traceroute to assets.nflxext.com (45.57.90.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.800ms    0.800ms    0.805ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.995ms    1.869ms    1.869ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  7.683ms    7.689ms    7.695ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.979ms    7.984ms    7.990ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.787ms    6.797ms    6.802ms  
+ 8  de-cix.nyc.netflix.com (206.82.104.81)  6.761ms    6.764ms    6.769ms  
+ 9  * * *
+10  * * *
+11  * * *
+

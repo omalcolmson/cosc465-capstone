@@ -1,0 +1,15 @@
+traceroute to js.intercomcdn.com (108.139.47.21), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.027ms    0.020ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.886ms    0.899ms    0.911ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.893ms    1.754ms    1.760ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.779ms    3.784ms    3.789ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.926ms    6.928ms    6.934ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.036ms    7.040ms    7.046ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.380ms    7.384ms    7.388ms  
+ 9  52.93.51.33 (52.93.51.33)  16.826ms    16.829ms    16.836ms  
+10  52.93.1.16 (52.93.1.16)  7.657ms    7.656ms    8.495ms  
+11  * * *
+12  * * *
+13  * * *
+

@@ -1,0 +1,13 @@
+traceroute to views.scientific-python.org (51.81.254.11), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.063ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.836ms    0.840ms    0.844ms  
+ 3  10.9.52.10 (10.9.52.10)  0.845ms    0.844ms    0.846ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.176ms    1.174ms    2.014ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.779ms    3.782ms    3.787ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.772ms    6.774ms    6.780ms  
+ 7  nyc111-57c3-nyc-9208-cdn.nysernet.net (199.109.107.166)  7.204ms    7.205ms    7.210ms  
+ 8  nyiix.nyc.ny.us (198.32.160.77)  9.799ms    9.803ms    9.807ms  
+ 9  * * *
+10  * * *
+11  * * *
+

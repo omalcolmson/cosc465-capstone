@@ -1,0 +1,17 @@
+traceroute to urswebzj.nosdn.127.net (128.1.157.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.073ms    0.063ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.768ms    0.765ms    0.769ms  
+ 3  10.9.52.10 (10.9.52.10)  0.894ms    0.902ms    1.648ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  3.224ms    3.230ms    3.236ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.144ms    7.149ms    7.156ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.459ms    7.459ms    8.278ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.567ms    7.569ms    39.180ms  
+ 8  ae-13.a03.nycmny17.us.bb.gin.ntt.net (129.250.8.145)  12.437ms    12.448ms    147.391ms  
+ 9  ae-2.r20.nwrknj03.us.bb.gin.ntt.net (129.250.3.50)  8.067ms    8.068ms    8.075ms  
+10  * * *
+11  * * *
+12  ae-0.a00.tokyjp09.jp.bb.gin.ntt.net (129.250.7.14)  170.468ms    170.469ms    170.476ms  
+13  * * *
+14  * * *
+15  * * *
+

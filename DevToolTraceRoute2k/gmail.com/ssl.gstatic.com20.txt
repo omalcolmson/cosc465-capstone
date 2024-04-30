@@ -1,0 +1,14 @@
+traceroute to ssl.gstatic.com (142.250.81.227), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.059ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.818ms    0.824ms    0.830ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.152ms    1.155ms    1.161ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.507ms    4.510ms    4.515ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.727ms    6.730ms    6.735ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.886ms    6.891ms    6.896ms  
+ 8  199.109.114.18 (199.109.114.18)  8.742ms    8.744ms    8.749ms  
+ 9  * * *
+10  142.251.60.236 (142.251.60.236)  8.217ms    8.219ms    8.226ms  
+11  142.251.60.233 (142.251.60.233)  7.228ms    7.233ms    7.241ms  
+12  lga25s74-in-f3.1e100.net (142.250.81.227)  7.235ms    7.237ms    7.242ms  
+

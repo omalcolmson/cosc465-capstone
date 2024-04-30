@@ -1,0 +1,12 @@
+traceroute to cdn.oaistatic.com (172.64.146.98), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.032ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.770ms    0.773ms    0.776ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.121ms    1.907ms    1.909ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.492ms    1.491ms    1.496ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.805ms    2.537ms    2.535ms  
+ 7  199.109.107.70 (199.109.107.70)  9.060ms    9.925ms    9.927ms  
+ 8  nyiix.as13335.net (198.32.160.195)  14.641ms    14.644ms    14.648ms  
+ 9  172.70.112.2 (172.70.112.2)  10.292ms    11.025ms    11.026ms  
+10  172.64.146.98 (172.64.146.98)  9.799ms    9.804ms    9.819ms  
+

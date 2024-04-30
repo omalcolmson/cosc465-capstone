@@ -1,0 +1,14 @@
+traceroute to lh3.googleusercontent.com (142.251.32.97), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.032ms    0.030ms    0.025ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.720ms    0.719ms    0.720ms  
+ 3  10.9.52.10 (10.9.52.10)  0.868ms    1.505ms    1.503ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.218ms    1.914ms    1.914ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.847ms    3.851ms    3.860ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.604ms    6.612ms    6.620ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.018ms    7.022ms    7.858ms  
+ 8  199.109.114.18 (199.109.114.18)  8.454ms    8.456ms    9.293ms  
+ 9  * * *
+10  142.251.60.234 (142.251.60.234)  7.340ms    7.343ms    7.359ms  
+11  142.251.60.181 (142.251.60.181)  7.280ms    7.282ms    7.288ms  
+12  lga25s77-in-f1.1e100.net (142.251.32.97)  7.208ms    7.212ms    7.218ms  
+

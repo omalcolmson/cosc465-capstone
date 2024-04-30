@@ -1,0 +1,21 @@
+traceroute to gradescope-static-assets.s3.amazonaws.com (52.92.163.89), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.031ms    0.025ms    0.022ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.725ms    0.724ms    0.726ms  
+ 3  10.9.52.10 (10.9.52.10)  0.829ms    1.457ms    1.455ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.130ms    3.495ms    3.497ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.110ms    7.112ms    8.409ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.185ms    7.954ms    7.957ms  
+ 7  154.54.162.169 (154.54.162.169)  16.279ms    16.299ms    16.309ms  
+ 8  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  22.357ms    22.362ms    22.407ms  
+ 9  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  34.379ms    34.380ms    34.387ms  
+10  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  45.576ms    45.578ms    46.427ms  
+11  be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  55.993ms    56.004ms    56.842ms  
+12  be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  70.232ms    70.233ms    71.142ms  
+13  be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  71.539ms    71.545ms    71.551ms  
+14  38.142.246.122 (38.142.246.122)  71.096ms    71.100ms    71.105ms  
+15  15.230.28.11 (15.230.28.11)  71.502ms    71.505ms    71.512ms  
+16  54.240.242.41 (54.240.242.41)  79.374ms    79.374ms    79.380ms  
+17  * * *
+18  * * *
+19  * * *
+

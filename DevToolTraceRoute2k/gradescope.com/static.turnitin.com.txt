@@ -1,0 +1,13 @@
+traceroute to static.turnitin.com (13.35.93.68), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.049ms    0.042ms    0.034ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.767ms    0.767ms    0.768ms  
+ 3  10.9.52.10 (10.9.52.10)  0.883ms    1.535ms    1.534ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.114ms    1.739ms    1.738ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.387ms    1.399ms    1.404ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.037ms    2.046ms    2.054ms  
+ 7  199.109.107.70 (199.109.107.70)  9.005ms    9.011ms    9.016ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  9.421ms    9.425ms    9.430ms  
+ 9  * * *
+10  * * *
+11  * * *
+

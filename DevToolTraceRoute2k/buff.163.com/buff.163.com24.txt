@@ -1,0 +1,22 @@
+traceroute to buff.163.com (52.10.244.182), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.874ms    0.880ms    0.886ms  
+ 3  10.9.52.10 (10.9.52.10)  0.932ms    0.935ms    0.939ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.265ms    1.269ms    2.121ms  
+ 5  * * *
+ 6  be2091.rcr71.syr01.atlas.cogentco.com (154.24.3.165)  2.216ms    2.215ms    3.182ms  
+ 7  be2933.ccr22.alb02.atlas.cogentco.com (154.54.87.237)  7.587ms    7.619ms    8.445ms  
+ 8  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  25.128ms    25.129ms    25.959ms  
+ 9  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  22.117ms    22.123ms    22.129ms  
+10  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  33.853ms    33.821ms    34.637ms  
+11  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  45.123ms    45.128ms    45.134ms  
+12  be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  55.427ms    55.466ms    56.251ms  
+13  be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  69.847ms    69.852ms    69.858ms  
+14  be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  71.437ms    71.434ms    72.269ms  
+15  38.88.224.186 (38.88.224.186)  70.962ms    70.966ms    70.971ms  
+16  52.93.47.135 (52.93.47.135)  71.145ms    71.148ms    71.155ms  
+17  54.240.242.75 (54.240.242.75)  74.189ms    74.194ms    74.199ms  
+18  * * *
+19  * * *
+20  * * *
+

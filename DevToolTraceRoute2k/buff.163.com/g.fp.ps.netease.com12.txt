@@ -1,0 +1,13 @@
+traceroute to g.fp.ps.netease.com (23.205.20.151), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.046ms    0.047ms    0.047ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.723ms    0.718ms    0.721ms  
+ 3  10.9.52.10 (10.9.52.10)  0.849ms    1.521ms    1.522ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.085ms    1.760ms    1.769ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.783ms    3.788ms    3.803ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.939ms    6.944ms    6.952ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.148ms    7.152ms    7.157ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  33.677ms    33.675ms    33.672ms  
+ 9  * * *
+10  * * *
+11  * * *
+

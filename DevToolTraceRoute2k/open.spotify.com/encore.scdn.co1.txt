@@ -1,0 +1,13 @@
+traceroute to encore.scdn.co (23.44.131.136), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.054ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.780ms    0.782ms    0.789ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.273ms    1.276ms    1.281ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.480ms    1.481ms    1.487ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.943ms    1.948ms    1.955ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  7.006ms    7.008ms    7.013ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  16.317ms    16.318ms    16.324ms  
+ 9  * * *
+10  * * *
+11  * * *
+

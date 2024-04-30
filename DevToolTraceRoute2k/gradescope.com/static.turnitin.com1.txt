@@ -1,0 +1,15 @@
+traceroute to static.turnitin.com (13.35.93.95), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.037ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.737ms    0.738ms    0.739ms  
+ 3  10.9.52.10 (10.9.52.10)  0.814ms    1.461ms    1.460ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.139ms    1.825ms    1.825ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.627ms    4.348ms    4.349ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.679ms    6.684ms    6.696ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.834ms    6.839ms    6.844ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  11.209ms    11.216ms    11.223ms  
+ 9  52.93.51.39 (52.93.51.39)  14.029ms    14.035ms    14.042ms  
+10  52.93.1.6 (52.93.1.6)  7.349ms    7.351ms    8.128ms  
+11  * * *
+12  * * *
+13  * * *
+

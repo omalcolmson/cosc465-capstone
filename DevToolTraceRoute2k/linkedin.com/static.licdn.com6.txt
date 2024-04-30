@@ -1,0 +1,12 @@
+traceroute to static.licdn.com (152.199.24.163), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.798ms    0.801ms    0.803ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.059ms    1.063ms    1.070ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.025ms    7.027ms    7.032ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.122ms    7.911ms    7.913ms  
+ 7  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  7.345ms    7.350ms    7.358ms  
+ 8  38.140.106.218 (38.140.106.218)  7.838ms    7.843ms    7.849ms  
+ 9  ae-65.core1.nyd.edgecastcdn.net (152.195.68.133)  10.746ms    10.749ms    10.754ms  
+10  152.199.24.163 (152.199.24.163)  7.135ms    7.137ms    7.143ms  
+

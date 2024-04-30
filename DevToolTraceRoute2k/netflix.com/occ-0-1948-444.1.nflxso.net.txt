@@ -1,0 +1,11 @@
+traceroute to occ-0-1948-444.1.nflxso.net (199.109.99.18), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.101ms    0.090ms    0.072ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.790ms    0.783ms    0.780ms  
+ 3  10.9.52.10 (10.9.52.10)  0.838ms    0.850ms    1.662ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.216ms    1.226ms    2.125ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.527ms    1.524ms    1.521ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.813ms    1.815ms    2.722ms  
+ 7  * * *
+ 8  * * *
+ 9  * * *
+

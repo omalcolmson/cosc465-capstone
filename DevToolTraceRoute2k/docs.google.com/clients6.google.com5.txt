@@ -1,0 +1,14 @@
+traceroute to clients6.google.com (142.251.40.238), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.063ms    0.053ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.765ms    0.762ms    0.767ms  
+ 3  10.9.52.10 (10.9.52.10)  0.862ms    0.869ms    1.547ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.151ms    1.841ms    1.843ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.506ms    1.505ms    1.516ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.806ms    2.501ms    2.501ms  
+ 7  * * *
+ 8  72.14.202.166 (72.14.202.166)  10.979ms    10.984ms    10.990ms  
+ 9  * * *
+10  142.251.53.148 (142.251.53.148)  9.750ms    9.750ms    48.872ms  
+11  108.170.236.89 (108.170.236.89)  8.971ms    8.974ms    8.980ms  
+12  lga34s39-in-f14.1e100.net (142.251.40.238)  8.984ms    8.989ms    8.996ms  
+

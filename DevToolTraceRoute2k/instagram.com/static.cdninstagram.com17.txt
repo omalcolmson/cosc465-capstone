@@ -1,0 +1,16 @@
+traceroute to static.cdninstagram.com (31.13.71.52), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.061ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.788ms    0.788ms    0.794ms  
+ 3  10.9.52.10 (10.9.52.10)  0.969ms    0.974ms    0.979ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.106ms    1.110ms    1.116ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.651ms    1.654ms    1.660ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.093ms    2.098ms    2.103ms  
+ 7  199.109.107.70 (199.109.107.70)  9.175ms    9.179ms    9.184ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  9.695ms    9.700ms    9.705ms  
+ 9  po203.asw03.lga1.tfbnw.net (157.240.103.120)  8.617ms    8.619ms    8.625ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.854ms    8.858ms    8.865ms  
+11  msw1ap.01.lga3.tfbnw.net (129.134.95.210)  8.903ms    8.905ms    8.911ms  
+12  * * *
+13  * * *
+14  * * *
+

@@ -1,0 +1,13 @@
+traceroute to netflix.com (54.160.93.182), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.037ms    0.031ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.763ms    0.798ms    0.802ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.201ms    1.198ms    1.956ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.512ms    1.514ms    1.518ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.006ms    2.005ms    2.825ms  
+ 7  199.109.107.70 (199.109.107.70)  8.944ms    8.947ms    9.886ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  9.430ms    9.436ms    9.442ms  
+ 9  * * *
+10  * * *
+11  * * *
+

@@ -1,0 +1,9 @@
+traceroute to colgate.edu (149.43.129.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.035ms    0.030ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.708ms    0.706ms    0.708ms  
+ 3  pa3260-vlan1052.colgate.edu (10.9.52.20)  0.631ms    0.630ms    0.632ms  
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.816ms    0.815ms    0.817ms  
+ 5  * * *
+ 6  * * *
+ 7  * * *
+

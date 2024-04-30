@@ -1,0 +1,12 @@
+traceroute to hello.myfonts.net (104.18.208.173), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.081ms    0.077ms    0.057ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.796ms    0.787ms    0.789ms  
+ 3  10.9.52.10 (10.9.52.10)  0.903ms    0.897ms    0.897ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.107ms    1.744ms    1.744ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.861ms    3.872ms    3.875ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.790ms    6.793ms    6.799ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.070ms    7.075ms    7.079ms  
+ 8  * * *
+ 9  199.27.132.36 (199.27.132.36)  8.245ms    8.256ms    9.043ms  
+10  104.18.208.173 (104.18.208.173)  7.394ms    7.396ms    7.404ms  
+

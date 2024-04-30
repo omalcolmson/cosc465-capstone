@@ -1,0 +1,14 @@
+traceroute to drivefrontend-pa.clients6.google.com (142.250.80.106), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.800ms    0.789ms    0.792ms  
+ 3  10.9.52.10 (10.9.52.10)  0.808ms    1.530ms    1.530ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.089ms    1.825ms    1.828ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.613ms    1.611ms    1.621ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.822ms    1.825ms    2.633ms  
+ 7  199.109.107.70 (199.109.107.70)  8.771ms    8.783ms    9.574ms  
+ 8  72.14.202.166 (72.14.202.166)  11.257ms    12.024ms    12.026ms  
+ 9  * * *
+10  142.250.235.238 (142.250.235.238)  9.004ms    9.006ms    9.024ms  
+11  142.251.65.115 (142.251.65.115)  8.803ms    42.840ms    42.845ms  
+12  lga34s36-in-f10.1e100.net (142.250.80.106)  8.875ms    8.885ms    8.898ms  
+

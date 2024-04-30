@@ -1,0 +1,13 @@
+traceroute to cached-images.bonnier.news (23.60.1.142), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.741ms    0.741ms    0.745ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.170ms    1.945ms    1.946ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.574ms    1.580ms    1.585ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.069ms    2.065ms    2.788ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  7.227ms    7.233ms    7.240ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  8.585ms    8.589ms    8.595ms  
+ 9  * * *
+10  * * *
+11  * * *
+

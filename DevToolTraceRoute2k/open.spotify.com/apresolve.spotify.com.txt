@@ -1,0 +1,13 @@
+traceroute to apresolve.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.062ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.732ms    0.731ms    0.734ms  
+ 3  10.9.52.10 (10.9.52.10)  0.873ms    0.883ms    1.604ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.979ms    1.705ms    1.704ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.814ms    3.819ms    3.837ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  8.068ms    8.072ms    8.079ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.061ms    7.067ms    7.073ms  
+ 8  199.109.114.18 (199.109.114.18)  8.480ms    8.485ms    8.491ms  
+ 9  142.250.234.37 (142.250.234.37)  7.326ms    7.342ms    41.292ms  
+10  142.251.60.231 (142.251.60.231)  7.387ms    7.390ms    7.397ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.128ms    7.130ms    7.135ms  
+

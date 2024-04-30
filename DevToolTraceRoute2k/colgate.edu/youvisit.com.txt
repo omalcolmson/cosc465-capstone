@@ -1,0 +1,13 @@
+traceroute to youvisit.com (13.226.34.4), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.049ms    0.041ms    0.037ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.756ms    0.755ms    0.758ms  
+ 3  10.9.52.10 (10.9.52.10)  0.860ms    1.539ms    1.538ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.158ms    1.823ms    1.826ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.584ms    1.595ms    1.595ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.022ms    2.026ms    2.026ms  
+ 7  199.109.107.70 (199.109.107.70)  8.970ms    8.966ms    8.972ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  9.007ms    9.003ms    9.007ms  
+ 9  * * *
+10  * * *
+11  * * *
+

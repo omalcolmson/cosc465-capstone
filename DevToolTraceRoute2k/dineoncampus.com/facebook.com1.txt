@@ -1,0 +1,16 @@
+traceroute to facebook.com (31.13.71.36), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.036ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.732ms    0.731ms    0.733ms  
+ 3  10.9.52.10 (10.9.52.10)  0.804ms    1.443ms    1.443ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.349ms    1.352ms    1.357ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.522ms    1.521ms    1.524ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.189ms    2.192ms    2.196ms  
+ 7  199.109.107.70 (199.109.107.70)  8.880ms    8.895ms    9.674ms  
+ 8  ae24.pr07.lga1.tfbnw.net (157.240.69.222)  27.488ms    27.492ms    27.500ms  
+ 9  po203.asw01.lga1.tfbnw.net (157.240.103.116)  8.624ms    8.626ms    8.633ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  8.860ms    8.864ms    8.870ms  
+11  msw1ah.01.lga3.tfbnw.net (129.134.89.122)  8.955ms    8.958ms    8.963ms  
+12  * * *
+13  * * *
+14  * * *
+

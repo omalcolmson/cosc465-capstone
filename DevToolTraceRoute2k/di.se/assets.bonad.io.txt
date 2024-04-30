@@ -1,0 +1,13 @@
+traceroute to assets.bonad.io (23.60.1.142), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.069ms    0.063ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.732ms    0.732ms    0.737ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.124ms    1.867ms    1.868ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  2.412ms    2.420ms    2.427ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.896ms    1.892ms    2.558ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  7.074ms    7.080ms    7.088ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  16.975ms    16.980ms    16.987ms  
+ 9  * * *
+10  * * *
+11  * * *
+

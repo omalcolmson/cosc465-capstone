@@ -1,0 +1,15 @@
+traceroute to moodle.colgate.edu (54.87.198.165), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.053ms    0.049ms    0.037ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.862ms    0.871ms    0.880ms  
+ 3  10.9.52.10 (10.9.52.10)  0.851ms    0.850ms    0.854ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.082ms    1.077ms    1.875ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.745ms    3.752ms    3.758ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.757ms    6.763ms    6.768ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  9.610ms    10.506ms    10.509ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.487ms    7.489ms    7.494ms  
+ 9  52.93.51.39 (52.93.51.39)  26.438ms    26.440ms    26.445ms  
+10  52.93.1.22 (52.93.1.22)  7.572ms    8.458ms    8.463ms  
+11  * * *
+12  * * *
+13  * * *
+

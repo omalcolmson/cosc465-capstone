@@ -1,0 +1,7 @@
+traceroute to portal.colgate.edu (149.43.134.29), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.061ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.740ms    0.741ms    0.744ms  
+ 3  * * *
+ 4  case6410-vlan1053.colgate.edu (10.9.53.103)  0.880ms    0.879ms    0.886ms  
+ 5  uportalvm02.colgate.edu (149.43.134.29)  0.281ms    0.289ms    1.005ms  
+

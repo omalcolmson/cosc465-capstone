@@ -1,0 +1,13 @@
+traceroute to linkedin.com (13.107.42.14), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.067ms    0.060ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.726ms    0.728ms    0.731ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.148ms    1.155ms    1.969ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.524ms    1.531ms    2.295ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.040ms    2.041ms    2.040ms  
+ 7  199.109.107.70 (199.109.107.70)  8.845ms    8.849ms    9.721ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  11.622ms    11.628ms    11.632ms  
+ 9  * * *
+10  * * *
+11  * * *
+

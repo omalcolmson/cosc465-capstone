@@ -1,0 +1,16 @@
+traceroute to ponf.linkedin.com (144.2.9.1), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.059ms    0.051ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.780ms    0.782ms    0.787ms  
+ 3  10.9.52.10 (10.9.52.10)  0.913ms    0.913ms    0.916ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.216ms    1.215ms    3.736ms  
+ 5  te0-6-0-32.rcr24.jfk01.atlas.cogentco.com (38.140.35.201)  7.086ms    7.085ms    7.977ms  
+ 6  be2897.ccr42.jfk02.atlas.cogentco.com (154.54.84.213)  7.432ms    8.331ms    8.336ms  
+ 7  be3363.ccr31.jfk04.atlas.cogentco.com (154.54.3.126)  7.304ms    7.317ms    8.181ms  
+ 8  nyk-b7-link.ip.twelve99.net (213.248.81.248)  7.244ms    7.246ms    7.263ms  
+ 9  nyk-bb1-link.ip.twelve99.net (62.115.143.10)  7.595ms    236.192ms    236.198ms  
+10  palo-b24-link.ip.twelve99.net (62.115.118.121)  73.164ms    301.680ms    301.685ms  
+11  sjo-b23-link.ip.twelve99.net (62.115.115.217)  75.368ms    75.401ms    303.440ms  
+12  * * *
+13  * * *
+14  * * *
+

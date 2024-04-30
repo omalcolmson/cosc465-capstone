@@ -1,0 +1,12 @@
+traceroute to chat.openai.com (172.64.150.28), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.024ms    0.023ms    0.019ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.832ms    0.831ms    0.833ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.130ms    1.898ms    1.898ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.519ms    1.520ms    1.524ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.013ms    2.016ms    2.862ms  
+ 7  199.109.107.70 (199.109.107.70)  8.848ms    8.850ms   *
+ 8  nyiix.as13335.net (198.32.160.195)  9.902ms    9.906ms    9.913ms  
+ 9  172.70.108.2 (172.70.108.2)  9.782ms    9.789ms    9.797ms  
+10  172.64.150.28 (172.64.150.28)  9.661ms    9.666ms    9.671ms  
+

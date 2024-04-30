@@ -1,0 +1,12 @@
+traceroute to geolocation.onetrust.com (172.64.155.119), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.034ms    0.032ms    0.026ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.788ms    0.788ms    0.789ms  
+ 3  10.9.52.10 (10.9.52.10)  0.830ms    1.537ms    1.537ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.112ms    1.815ms    1.810ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.746ms    3.756ms    3.760ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.583ms    6.592ms    6.601ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.757ms    6.770ms    7.575ms  
+ 8  * * *
+ 9  172.70.108.2 (172.70.108.2)  8.056ms    8.057ms    8.063ms  
+10  172.64.155.119 (172.64.155.119)  7.587ms    7.592ms    7.597ms  
+

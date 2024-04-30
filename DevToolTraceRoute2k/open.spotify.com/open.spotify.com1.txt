@@ -1,0 +1,13 @@
+traceroute to open.spotify.com (35.186.224.25), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.044ms    0.039ms    0.035ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.749ms    0.748ms    0.751ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  0.930ms    1.757ms    1.759ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  4.294ms    4.302ms    4.309ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.793ms    6.798ms    6.804ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.169ms    7.173ms    7.180ms  
+ 8  199.109.114.18 (199.109.114.18)  8.529ms    8.533ms    8.539ms  
+ 9  142.250.234.37 (142.250.234.37)  7.299ms    7.304ms    7.311ms  
+10  142.251.60.231 (142.251.60.231)  7.372ms    7.377ms    7.384ms  
+11  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  7.190ms    7.193ms    7.201ms  
+

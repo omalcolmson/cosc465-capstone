@@ -1,0 +1,12 @@
+traceroute to avatars.githubusercontent.com (185.199.110.133), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.030ms    0.025ms    0.022ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.811ms    0.825ms    0.839ms  
+ 3  10.9.52.10 (10.9.52.10)  0.834ms    1.587ms    1.591ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.004ms    1.850ms    1.851ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.792ms    3.799ms    3.804ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.806ms    6.811ms    6.817ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.122ms    7.130ms    7.135ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

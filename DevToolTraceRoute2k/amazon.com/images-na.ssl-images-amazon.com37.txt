@@ -1,0 +1,15 @@
+traceroute to images-na.ssl-images-amazon.com (108.139.54.203), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.085ms    0.070ms    0.049ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.780ms    0.770ms    0.769ms  
+ 3  10.9.52.10 (10.9.52.10)  0.815ms    0.815ms    1.565ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.020ms    1.753ms    1.752ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.823ms    3.837ms    3.840ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.778ms    6.777ms    6.778ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.157ms    7.163ms    7.168ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  7.526ms    7.531ms    7.532ms  
+ 9  52.93.51.41 (52.93.51.41)  13.856ms    13.862ms    13.863ms  
+10  52.93.1.40 (52.93.1.40)  8.431ms    8.433ms    9.263ms  
+11  * * *
+12  * * *
+13  * * *
+

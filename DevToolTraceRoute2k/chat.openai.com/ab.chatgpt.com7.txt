@@ -1,0 +1,12 @@
+traceroute to ab.chatgpt.com (172.64.155.141), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.075ms    0.070ms    0.059ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.804ms    0.807ms    0.812ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.217ms    1.996ms    1.999ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.786ms    3.792ms    3.798ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.938ms    6.942ms    6.949ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.895ms    6.901ms    6.908ms  
+ 8  de-cix-new-york.as13335.net (206.82.104.31)  7.902ms   * *
+ 9  162.158.156.3 (162.158.156.3)  7.813ms    7.822ms    7.831ms  
+10  172.64.155.141 (172.64.155.141)  7.510ms    7.491ms    7.490ms  
+

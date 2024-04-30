@@ -1,0 +1,12 @@
+traceroute to exp.notion.so (172.64.148.154), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.024ms    0.023ms    0.020ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.738ms    0.739ms    0.740ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.135ms    1.894ms    1.896ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.468ms    1.470ms    1.476ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.992ms    1.995ms    2.775ms  
+ 7  199.109.107.70 (199.109.107.70)  8.734ms    9.522ms    9.523ms  
+ 8  nyiix.as13335.net (198.32.160.195)  9.956ms    11.035ms    11.035ms  
+ 9  172.70.112.2 (172.70.112.2)  10.500ms    10.513ms    10.521ms  
+10  172.64.148.154 (172.64.148.154)  10.171ms    10.175ms    10.180ms  
+

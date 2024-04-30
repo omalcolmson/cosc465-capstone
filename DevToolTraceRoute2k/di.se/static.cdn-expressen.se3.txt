@@ -1,0 +1,13 @@
+traceroute to static.cdn-expressen.se (23.60.1.142), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.065ms    0.059ms    0.056ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.770ms    0.767ms    0.771ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.175ms    1.171ms    2.103ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.571ms    1.567ms    1.566ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  2.065ms    2.066ms    2.067ms  
+ 7  nyc32-55a1-syr-57c3-cdn.nysernet.net (199.109.107.206)  7.169ms    7.172ms    7.177ms  
+ 8  de-cix-qts.nyc.akamai.com (206.82.104.62)  13.540ms    13.578ms    13.586ms  
+ 9  * * *
+10  * * *
+11  * * *
+

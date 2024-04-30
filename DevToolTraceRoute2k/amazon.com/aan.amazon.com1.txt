@@ -1,0 +1,17 @@
+traceroute to aan.amazon.com (176.32.98.109), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.060ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.776ms    0.775ms    0.780ms  
+ 3  10.9.52.10 (10.9.52.10)  0.919ms    0.927ms    1.607ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.127ms    1.831ms    1.830ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.746ms    3.747ms    3.758ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.770ms    6.776ms    6.783ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.091ms    7.096ms    7.102ms  
+ 8  de-cix.nyc.amazon.com (206.82.104.99)  22.450ms    22.456ms    22.461ms  
+ 9  52.93.51.45 (52.93.51.45)  11.112ms    11.117ms    11.123ms  
+10  * * *
+11  52.93.1.205 (52.93.1.205)  9.885ms    9.887ms    9.893ms  
+12  52.93.1.44 (52.93.1.44)  7.000ms    7.001ms    7.008ms  
+13  * * *
+14  * * *
+15  * * *
+

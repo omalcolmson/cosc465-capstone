@@ -1,0 +1,13 @@
+traceroute to sessions.bugsnag.com (35.190.88.7), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.068ms    0.064ms    0.053ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.780ms    0.782ms    0.789ms  
+ 3  10.9.52.10 (10.9.52.10)  0.847ms    0.845ms    0.851ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.198ms    1.200ms    2.095ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.804ms    3.808ms    3.814ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.844ms    6.848ms    6.854ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.764ms    6.768ms    6.774ms  
+ 8  199.109.114.18 (199.109.114.18)  8.727ms    8.729ms    8.735ms  
+ 9  142.251.66.217 (142.251.66.217)  7.562ms    41.179ms    41.182ms  
+10  142.250.235.237 (142.250.235.237)  7.650ms    7.653ms    7.660ms  
+11  7.88.190.35.bc.googleusercontent.com (35.190.88.7)  6.820ms    6.821ms    6.826ms  
+

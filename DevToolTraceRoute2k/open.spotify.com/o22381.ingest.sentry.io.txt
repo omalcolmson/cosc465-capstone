@@ -1,0 +1,13 @@
+traceroute to o22381.ingest.sentry.io (34.120.195.249), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.085ms    0.075ms    0.054ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.757ms    0.753ms    0.757ms  
+ 3  10.9.52.10 (10.9.52.10)  0.853ms    0.862ms    1.552ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.034ms    1.706ms    1.705ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.815ms    3.821ms    3.838ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.684ms    6.687ms    6.695ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.948ms    6.953ms    6.958ms  
+ 8  199.109.114.18 (199.109.114.18)  8.552ms    8.556ms    8.562ms  
+ 9  142.251.66.217 (142.251.66.217)  7.674ms    7.675ms    46.742ms  
+10  142.250.235.237 (142.250.235.237)  7.883ms    7.887ms    7.894ms  
+11  249.195.120.34.bc.googleusercontent.com (34.120.195.249)  6.762ms    64.083ms    64.086ms  
+

@@ -1,0 +1,13 @@
+traceroute to fls-na.amazon.com (3.217.255.244), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.038ms    0.033ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.728ms    0.727ms    0.729ms  
+ 3  10.9.52.10 (10.9.52.10)  0.864ms    1.501ms    1.502ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  0.950ms    1.593ms    1.593ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.448ms    1.448ms    1.450ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.994ms    1.998ms    2.723ms  
+ 7  199.109.107.70 (199.109.107.70)  9.131ms    9.141ms    9.150ms  
+ 8  nyiix-peering.amazon.com (198.32.160.64)  8.996ms    9.002ms    9.010ms  
+ 9  * * *
+10  * * *
+11  * * *
+

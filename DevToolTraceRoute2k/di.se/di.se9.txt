@@ -1,0 +1,13 @@
+traceroute to di.se (34.117.105.189), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.031ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.776ms    0.767ms    0.761ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.781ms    1.780ms    1.786ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.803ms    3.809ms    3.815ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.651ms    6.665ms    7.392ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.933ms    6.952ms    7.688ms  
+ 8  199.109.114.18 (199.109.114.18)  8.049ms    8.052ms    8.839ms  
+ 9  142.250.63.91 (142.250.63.91)  8.220ms    8.974ms    8.975ms  
+10  142.250.224.245 (142.250.224.245)  8.140ms    8.146ms    8.160ms  
+11  189.105.117.34.bc.googleusercontent.com (34.117.105.189)  7.231ms    7.233ms    7.239ms  
+

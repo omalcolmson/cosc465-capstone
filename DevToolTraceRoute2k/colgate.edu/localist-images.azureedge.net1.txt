@@ -1,0 +1,13 @@
+traceroute to localist-images.azureedge.net (13.107.213.35), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.025ms    0.024ms    0.020ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.714ms    0.712ms    0.712ms  
+ 3  10.9.52.10 (10.9.52.10)  0.821ms    1.427ms    1.426ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.147ms    1.736ms    1.735ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.782ms    3.792ms    3.800ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.638ms    6.644ms    6.650ms  
+ 7  nyc111-57c3-nyc-9208-cdn.nysernet.net (199.109.107.166)  6.864ms    6.872ms    7.564ms  
+ 8  ae65-0.nyc-96cbe-1a.ntwk.msn.net (104.44.14.141)  6.828ms    6.830ms    6.843ms  
+ 9  * * *
+10  * * *
+11  * * *
+

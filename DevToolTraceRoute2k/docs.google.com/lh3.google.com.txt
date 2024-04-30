@@ -1,0 +1,12 @@
+traceroute to lh3.google.com (172.217.165.142), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.070ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.791ms    0.788ms    0.792ms  
+ 3  10.9.52.10 (10.9.52.10)  0.855ms    0.862ms    1.618ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.160ms    1.824ms    1.824ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  1.568ms    1.574ms    1.590ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.936ms    2.629ms    2.627ms  
+ 7  199.109.107.70 (199.109.107.70)  9.066ms    9.071ms    9.089ms  
+ 8  72.14.202.166 (72.14.202.166)  11.093ms    11.099ms    11.106ms  
+ 9  * * *
+10  lax30s03-in-f14.1e100.net (172.217.165.142)  9.229ms    9.229ms    9.248ms  
+

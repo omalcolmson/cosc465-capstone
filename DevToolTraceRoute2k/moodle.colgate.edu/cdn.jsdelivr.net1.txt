@@ -1,0 +1,12 @@
+traceroute to cdn.jsdelivr.net (199.232.37.229), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.061ms    0.057ms    0.049ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.791ms    0.788ms    0.792ms  
+ 3  * * *
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.054ms    1.056ms    1.907ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.853ms    3.858ms    3.864ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.508ms    7.512ms    7.518ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  6.992ms    6.995ms    7.001ms  
+ 8  * * *
+ 9  * * *
+10  * * *
+

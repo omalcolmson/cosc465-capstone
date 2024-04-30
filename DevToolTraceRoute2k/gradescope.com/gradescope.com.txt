@@ -1,0 +1,22 @@
+traceroute to gradescope.com (54.214.141.92), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.071ms    0.062ms    0.052ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.805ms    0.808ms    0.812ms  
+ 3  10.9.52.10 (10.9.52.10)  0.883ms    0.883ms    0.888ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.248ms    1.248ms    2.021ms  
+ 5  * * *
+ 6  be2091.rcr71.syr01.atlas.cogentco.com (154.24.3.165)  2.253ms    2.257ms    2.263ms  
+ 7  be2926.ccr21.alb02.atlas.cogentco.com (154.54.87.233)  7.797ms    7.798ms    7.804ms  
+ 8  be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  15.518ms    15.522ms    15.529ms  
+ 9  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  89.183ms    89.188ms    89.194ms  
+10  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  33.882ms    33.887ms    33.893ms  
+11  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  45.394ms    45.392ms    61.407ms  
+12  be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  55.409ms    55.414ms    55.419ms  
+13  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  70.157ms    70.155ms    70.994ms  
+14  be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  71.138ms    71.143ms    71.148ms  
+15  38.88.224.186 (38.88.224.186)  88.287ms    88.293ms    88.301ms  
+16  52.93.47.129 (52.93.47.129)  71.290ms    71.294ms    71.301ms  
+17  54.240.242.19 (54.240.242.19)  71.427ms    71.430ms    71.435ms  
+18  * * *
+19  * * *
+20  * * *
+

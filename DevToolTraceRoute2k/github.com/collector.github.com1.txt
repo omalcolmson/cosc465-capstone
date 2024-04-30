@@ -1,0 +1,14 @@
+traceroute to collector.github.com (140.82.114.21), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.085ms    0.084ms    0.077ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.925ms    0.918ms    0.919ms  
+ 3  10.9.52.10 (10.9.52.10)  0.945ms    0.945ms    0.950ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.221ms    2.031ms    2.029ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.865ms    3.872ms    3.887ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  7.302ms    7.306ms    7.313ms  
+ 7  phil-9204-nyc-9208-cdn.nysernet.net (199.109.107.186)  8.579ms    8.580ms    8.587ms  
+ 8  ash-9204-phil-9204-cdn.nysernet.net (199.109.107.182)  56.441ms    56.433ms    56.438ms  
+ 9  eqix-dc5.github-2.com (206.126.237.205)  12.244ms    12.237ms    12.242ms  
+10  * * *
+11  * * *
+12  * * *
+

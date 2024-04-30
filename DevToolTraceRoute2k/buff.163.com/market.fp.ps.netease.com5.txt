@@ -1,0 +1,17 @@
+traceroute to market.fp.ps.netease.com (47.246.23.238), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.039ms    0.031ms    0.027ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.702ms    0.704ms    1.350ms  
+ 3  10.9.52.10 (10.9.52.10)  0.849ms    1.496ms    1.495ms  
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.267ms    1.984ms    1.986ms  
+ 5  * * *
+ 6  be2091.rcr71.syr01.atlas.cogentco.com (154.24.3.165)  1.931ms    1.927ms    2.765ms  
+ 7  be2926.ccr21.alb02.atlas.cogentco.com (154.54.87.233)  7.678ms    7.680ms    8.541ms  
+ 8  be3599.ccr31.bos01.atlas.cogentco.com (66.28.4.238)  10.551ms    11.453ms    11.453ms  
+ 9  * * *
+10  nyk-bb1-link.ip.twelve99.net (62.115.122.202)  10.938ms    11.782ms    11.785ms  
+11  chi-bb2-link.ip.twelve99.net (80.91.246.162)  26.949ms    27.757ms   *
+12  kanc-b2-link.ip.twelve99.net (213.155.130.177)  38.917ms    38.925ms    38.933ms  
+13  * * *
+14  * * *
+15  * * *
+

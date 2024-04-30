@@ -1,0 +1,16 @@
+traceroute to connect.facebook.net (31.13.71.7), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.066ms    0.063ms    0.052ms  
+ 2  vlan0080-hsrp-1.colgate.edu (149.43.80.2)  0.816ms    0.814ms    1.526ms  
+ 3  10.9.52.10 (10.9.52.10)  0.909ms    0.920ms    1.676ms  
+ 4  edge-router-case-bgp.colgate.edu (172.16.1.11)  1.006ms    1.699ms    1.699ms  
+ 5  alb-9204-colgate-cdn.nysernet.net (199.109.108.41)  3.755ms    3.761ms    3.777ms  
+ 6  nyc-9208-alb-9204-cdn.nysernet.net (199.109.107.101)  6.795ms    6.802ms    6.808ms  
+ 7  nyc32-55a1-nyc32-9208-cdn.nysernet.net (199.109.107.202)  7.012ms    7.017ms    7.023ms  
+ 8  de-cix.nyc1.fb.com (206.82.104.164)  6.945ms    6.950ms    6.957ms  
+ 9  po202.asw01.lga1.tfbnw.net (157.240.103.108)  6.754ms    6.758ms    6.765ms  
+10  psw02.lga3.tfbnw.net (129.134.62.112)  6.940ms    6.950ms    29.449ms  
+11  msw1al.01.lga3.tfbnw.net (129.134.89.115)  6.918ms    6.921ms    6.927ms  
+12  * * *
+13  * * *
+14  * * *
+

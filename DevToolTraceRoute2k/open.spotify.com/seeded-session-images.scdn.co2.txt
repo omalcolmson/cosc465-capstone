@@ -1,0 +1,12 @@
+traceroute to seeded-session-images.scdn.co (199.232.38.248), 30 hops max, 30 bytes packets
+ 1  172.17.0.1 (172.17.0.1)  0.096ms    0.087ms    0.078ms  
+ 2  vlan0080-hsrp-2.colgate.edu (149.43.80.3)  0.748ms    0.748ms    0.753ms  
+ 3  * * *
+ 4  edge-router-ocon-bgp.colgate.edu (172.16.1.12)  1.045ms    1.008ms    1.784ms  
+ 5  syr-9208-colgate-cdn.nysernet.net (199.109.109.57)  23.779ms    23.785ms    23.792ms  
+ 6  syr-57c3-syr-9208-cdn.nysernet.net (199.109.107.198)  1.883ms    2.689ms    2.689ms  
+ 7  199.109.107.70 (199.109.107.70)  8.926ms    8.936ms   *
+ 8  * * *
+ 9  * * *
+10  * * *
+
