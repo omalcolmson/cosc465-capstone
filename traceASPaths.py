@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# script for running paris-traceroute and analyzing the output
+# script for analyzing traceroute output on a given domain
 # (copied from COSC465-L, lab 6)
 
 import socket

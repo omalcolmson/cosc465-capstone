@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-# script for running paris-traceroute and analyzing the output
-# (copied from COSC465-L, lab 6)
+'''
+Script for running paris-traceroute on list of domains in topdomains.csv
+(code based on COSC465-L, lab 6)
+'''
 from argparse import ArgumentParser
 
 import pandas as pd
