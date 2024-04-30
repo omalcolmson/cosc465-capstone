@@ -26,7 +26,7 @@ We wrote our scripts to achieve and support the following tasks:
 
 **`traceroutepathsDevTool.py`**
 
-[ insert explanation here]
+This script iterates through topdomainsDev.txt and runs `traceroute-paris`, writing the output for each to a separate file. The outputs are stored in a different folder called TracerouteOutputDevTool and in this folder the name of each .txt file represents the domain that was passed into traceroute.
 
 
 **`geolocation.py`**
@@ -51,7 +51,7 @@ We wrote our scripts to achieve and support the following tasks:
 
 **`getDevToolUrls.py`**
 
-[ insert explanation here]
+When using the Developer Tool on Google Chrome you can download files from the Networks tab that contains all possible information of the domains that your orginal website queries. This script runs on those downloadable files in order to create .txt files of the urls that are in those files. 
 
 <details>
 <summary><strong> Archived Code Descriptions </strong></summary>
