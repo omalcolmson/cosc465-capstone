@@ -31,7 +31,7 @@ This script iterates through topdomainsDev.txt and runs `traceroute-paris`, writ
 
 **`geolocation.py`**
 
-[ insert explanation here]
+This script fetches the current IP address by making a request to the 'https://api64.ipify.org' API and extracting the IP from the returned JSON. After the IP is fetched it gets geolocation data for the fetched IP address by querying the 'https://ipapi.co/{ip_address}/json/' API, and the results are returned in a dictionary. The script then reads a file named 'geolocations.txt' with all of the formatted location information and processes each line to count occurences of each location using a dictionary. After analyzing the script sorts the locations by their frequency in descending order, writes the top 10 most common locations along with their ocunts to a file called 'top_locations.txt' and writes all unique locations and their counts to another file called 'unique_locations.txt'. 
 
 
 **`get_geolocation.py`**
