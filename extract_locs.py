@@ -47,6 +47,12 @@ def find_end_servers(indicator: int) -> list:
     return servers
 
 def main():
+    # list of end servers for the original 22 domains
+    og_endservers = find_end_servers(0)
+    # list of end servers for the supporting domains
+    supporting_endservers = find_end_servers(1)
+    
+
     # for some preliminary testing
     # og = find_end_servers(0)
     # print(og)
