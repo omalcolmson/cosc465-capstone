@@ -36,17 +36,16 @@ This script fetches the current IP address by making a request to the 'https://a
 
 **`get_geolocation.py`**
 
-[ insert explanation here]
+This script is designed to extract IP addresses from traceroute files and then query their geolocations. First the script defines a regex pattern to identify the IP addresses in the traceroute files then reads through the traceroute file searching for the IP addresses using this pattern, adding them to a list if they are found. Once the IP addreses are found they are used to retrieve geolocation information and all of the information is outputted to a file.
 
 
 **`getCDN.py`**
 
-[ insert explanation here]
-
+This script interates through each traceroute output file and extracts the domain name from the filename, retrieves the assoicated AS names for each IP found and writes detailed AS information to an output file. If the AS is identified as part of a CDN, it writes this information to a separate CDN-specific output file.
 
 **`getIPS.py`**
 
-[ insert explanation here]
+This script interates through each traceroute output file and extracts all the domain names and their corresponding IP addresses from each. If both an IP address and a domain name are found in the line, they are added to the dictionary with the domain name as the key and the IP address as the value.
 
 
 **`getDevToolUrls.py`**
