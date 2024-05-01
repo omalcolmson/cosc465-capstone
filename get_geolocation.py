@@ -8,7 +8,7 @@ ip_pattern = re.compile(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b')
 # extract IP addresses from a traceroute file
 def extract_ips(filename) -> list:
     '''
-    Returns a list of IP addresses
+    Returns a list of IP addresses from an entire file
     '''
     ips = []
     with open(filename, 'r') as file:
