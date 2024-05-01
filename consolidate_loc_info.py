@@ -28,7 +28,7 @@ def simplify_devtools(fname: str):
     locCount = pd.merge(df, temp, on=['Domain', 'City'], how='left')
     locCount = locCount.drop_duplicates()
 
-    locCount.to_csv('DevToolLocCount.csv', index=False)
+    locCount.to_csv('DevToolLocCount2k.csv', index=False)
     # print(locCount.head(10))
     
     # print(df.head(10))
@@ -54,21 +54,21 @@ def simplify_geolocs(fname: str):
     locCount.to_csv('DomainLocCount.csv', index=False)
 
 def main():
-    # simplify_devtools('devtool_geolocations.csv')
+    simplify_devtools('devtool_geolocations2k.csv')
     # simplify_geolocs('geolocations.csv')
-    fname1 = 'DevToolLocCount.csv'
-    fname2 = 'DomainLocCount.csv'
-    output = 'LocationAnalysis.txt'
-    df1 = pd.read_csv(fname1)
-    # print(df1.head(10))
-    df1.drop(columns=['Domain'], inplace=True)
-    df1Count = df1.groupby(['City', 'State', 'Country']).sum().reset_index()
-    df1Count.to_csv('DevToolLocTotals.csv')
+    # fname1 = 'DevToolLocCount2k.csv'
+    # # fname2 = 'DomainLocCount.csv'
+    # df1 = pd.read_csv(fname1)
+    # # print(df1.head(10))
+    # df1.drop(columns=['Domain'], inplace=True)
+    # df1Count = df1.groupby(['City', 'State', 'Country']).sum().reset_index()
+    # df1Count.to_csv('DevToolLocTotals2k.csv')
 
-    df2 = pd.read_csv(fname2)
-    df2.drop(columns=['Domain'], inplace=True)
-    df2Count = df2.groupby(['City', 'State', 'Country']).sum().reset_index()
-    df2Count.to_csv('OGDomainsLocTotals.csv')
+    # commenting og domain stuff as we are only rerunning on updated devtool output
+    # df2 = pd.read_csv(fname2)
+    # df2.drop(columns=['Domain'], inplace=True)
+    # df2Count = df2.groupby(['City', 'State', 'Country']).sum().reset_index()
+    # df2Count.to_csv('OGDomainsLocTotals.csv')
     # df1Count = pd.merge(df1, temp, on=['City', 'State', 'Country'], how='left')
     # print(temp.head(10))
     # with open(output, 'w') as file:

@@ -33,8 +33,7 @@ def main():
     # folder_path = "TracerouteOutput"
     # output_file = "geolocations.txt"
     
-    # For parsing traceroute output to list of additional domains that came up from tracking network activity via dev tools
-    # Only first 5 for each original domain were sampled
+    # rerunning this on the newly updated devtool traceroute stuff
     folder_path = "TracerouteOutputDevTool"
     output_file = "devtool_geolocations.txt"
 

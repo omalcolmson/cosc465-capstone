@@ -1,0 +1,307 @@
+Domain,City,State,Country,Count
+dineoncampus.com,San Francisco,California,US,58
+dineoncampus.com,Unknown,Unknown,Unknown,216
+dineoncampus.com,Hamilton,New York,US,93
+dineoncampus.com,Rock Hall,Maryland,US,93
+dineoncampus.com,New York City,New York,US,281
+dineoncampus.com,Syracuse,New York,US,11
+dineoncampus.com,Jersey City,New Jersey,US,5
+dineoncampus.com,Bayonne,New Jersey,US,9
+dineoncampus.com,Linden,New Jersey,US,1
+dineoncampus.com,Newark,New Jersey,US,2
+dineoncampus.com,Woodbridge,New Jersey,US,1
+dineoncampus.com,Bloomfield,New York,US,1
+dineoncampus.com,Edison,New Jersey,US,2
+dineoncampus.com,Kansas City,Missouri,US,2
+dineoncampus.com,Singapore,Singapore,SG,2
+dineoncampus.com,Secaucus,New Jersey,US,202
+dineoncampus.com,Hoboken,New Jersey,US,3
+dineoncampus.com,Weehawken,New Jersey,US,40
+dineoncampus.com,Union City,New Jersey,US,12
+pandas.pydata.org,San Francisco,California,US,32
+pandas.pydata.org,Unknown,Unknown,Unknown,54
+pandas.pydata.org,Hamilton,New York,US,22
+pandas.pydata.org,Rock Hall,Maryland,US,22
+pandas.pydata.org,Syracuse,New York,US,16
+pandas.pydata.org,New York City,New York,US,62
+pandas.pydata.org,Hillsboro,Oregon,US,2
+pandas.pydata.org,Newark,New Jersey,US,4
+colgate.edu,Hamilton,New York,US,121
+colgate.edu,Unknown,Unknown,Unknown,200
+colgate.edu,Newark,New Jersey,US,2
+colgate.edu,Rock Hall,Maryland,US,8
+colgate.edu,Syracuse,New York,US,2
+colgate.edu,New York City,New York,US,21
+colgate.edu,Hoboken,New Jersey,US,1
+colgate.edu,Secaucus,New Jersey,US,8
+colgate.edu,Weehawken,New Jersey,US,2
+colgate.edu,Redmond,Washington,US,2
+colgate.edu,Bayonne,New Jersey,US,1
+colgate.edu,Edison,New Jersey,US,1
+colgate.edu,San Francisco,California,US,2
+netflix.com,Ashburn,Virginia,US,3
+netflix.com,Unknown,Unknown,Unknown,98
+netflix.com,Hamilton,New York,US,36
+netflix.com,Rock Hall,Maryland,US,36
+netflix.com,Syracuse,New York,US,13
+netflix.com,New York City,New York,US,101
+netflix.com,Hoboken,New Jersey,US,12
+netflix.com,Wilmington,Delaware,US,16
+netflix.com,Columbus,Ohio,US,20
+netflix.com,San Francisco,California,US,8
+netflix.com,North Syracuse,New York,US,1
+netflix.com,Piscataway,New Jersey,US,2
+netflix.com,Bayonne,New Jersey,US,1
+netflix.com,Jersey City,New Jersey,US,1
+netflix.com,Port Reading,New Jersey,US,1
+netflix.com,Newark,New Jersey,US,1
+netflix.com,Secaucus,New Jersey,US,4
+github.com,South Riding,Virginia,US,24
+github.com,Unknown,Unknown,Unknown,356
+github.com,Hamilton,New York,US,134
+github.com,Rock Hall,Maryland,US,134
+github.com,Syracuse,New York,US,103
+github.com,New York City,New York,US,183
+github.com,San Francisco,California,US,122
+drive.google.com,New York City,New York,US,904
+drive.google.com,Unknown,Unknown,Unknown,485
+drive.google.com,Hamilton,New York,US,206
+drive.google.com,Rock Hall,Maryland,US,206
+drive.google.com,Syracuse,New York,US,168
+drive.google.com,Linden,New Jersey,US,125
+drive.google.com,Bayonne,New Jersey,US,153
+drive.google.com,Mariners Harbor,New York,US,14
+drive.google.com,Jersey City,New Jersey,US,134
+drive.google.com,Chelsea,New York,US,25
+drive.google.com,Bloomfield,New York,US,14
+drive.google.com,Secaucus,New Jersey,US,5
+drive.google.com,Orange,New Jersey,US,7
+drive.google.com,Newark,New Jersey,US,32
+drive.google.com,Edison,New Jersey,US,9
+drive.google.com,Woodbridge,New Jersey,US,12
+drive.google.com,Reston,Virginia,US,1
+drive.google.com,Washington,Washington D.C.,US,1
+drive.google.com,Ashburn,Virginia,US,2
+drive.google.com,Oak Grove,Virginia,US,1
+drive.google.com,Carteret,New Jersey,US,1
+drive.google.com,Harrison,New Jersey,US,1
+di.se,Kansas City,Missouri,US,15
+di.se,Unknown,Unknown,Unknown,127
+di.se,Hamilton,New York,US,57
+di.se,Rock Hall,Maryland,US,57
+di.se,New York City,New York,US,149
+di.se,Newark,New Jersey,US,14
+di.se,Rio de Janeiro,Rio de Janeiro,BR,14
+di.se,Syracuse,New York,US,40
+di.se,Hoboken,New Jersey,US,6
+di.se,Piscataway,New Jersey,US,36
+di.se,East Orange,New Jersey,US,1
+di.se,Jersey City,New Jersey,US,1
+di.se,Dearborn,Michigan,US,1
+instagram.com,Secaucus,New Jersey,US,125
+instagram.com,Unknown,Unknown,Unknown,96
+instagram.com,Hamilton,New York,US,42
+instagram.com,Rock Hall,Maryland,US,42
+instagram.com,Syracuse,New York,US,42
+instagram.com,New York City,New York,US,101
+instagram.com,Weehawken,New Jersey,US,25
+instagram.com,Hoboken,New Jersey,US,1
+gradescope.com,Boardman,Oregon,US,12
+gradescope.com,Unknown,Unknown,Unknown,226
+gradescope.com,Hamilton,New York,US,81
+gradescope.com,North Syracuse,New York,US,1
+gradescope.com,Albany,New York,US,1
+gradescope.com,Brook Park,Ohio,US,1
+gradescope.com,Chicago,Illinois,US,12
+gradescope.com,Kansas City,Missouri,US,14
+gradescope.com,Denver,Colorado,US,12
+gradescope.com,Salt Lake City,Utah,US,12
+gradescope.com,East Palo Alto,California,US,1
+gradescope.com,San Jose,California,US,44
+gradescope.com,South Ozone Park,New York,US,65
+gradescope.com,Rock Hall,Maryland,US,69
+gradescope.com,Syracuse,New York,US,5
+gradescope.com,New York City,New York,US,269
+gradescope.com,Hoboken,New Jersey,US,65
+gradescope.com,Secaucus,New Jersey,US,13
+gradescope.com,Bloomfield,New York,US,1
+gradescope.com,Edison,New Jersey,US,3
+gradescope.com,Jersey City,New Jersey,US,3
+gradescope.com,East Orange,New Jersey,US,1
+gradescope.com,Hatsudai,Tokyo,JP,1
+gradescope.com,Columbus,Ohio,US,12
+gradescope.com,Bayonne,New Jersey,US,1
+gradescope.com,Newark,New Jersey,US,1
+gradescope.com,Chelsea,New York,US,11
+gradescope.com,Foster City,California,US,11
+gradescope.com,Santa Clara,California,US,4
+linkedin.com,Redmond,Washington,US,8
+linkedin.com,Unknown,Unknown,Unknown,65
+linkedin.com,Hamilton,New York,US,28
+linkedin.com,Rock Hall,Maryland,US,12
+linkedin.com,Syracuse,New York,US,10
+linkedin.com,New York City,New York,US,91
+linkedin.com,Culver City,California,US,30
+linkedin.com,Chelsea,New York,US,17
+linkedin.com,Piscataway,New Jersey,US,1
+linkedin.com,San Jose,California,US,2
+linkedin.com,Secaucus,New Jersey,US,3
+linkedin.com,Santa Clara,California,US,1
+linkedin.com,Reston,Virginia,US,2
+linkedin.com,Bloomfield,New York,US,3
+linkedin.com,Bayonne,New Jersey,US,2
+linkedin.com,Jersey City,New Jersey,US,3
+linkedin.com,Ashburn,Virginia,US,8
+linkedin.com,Orange,New Jersey,US,1
+open.spotify.com,Kansas City,Missouri,US,23
+open.spotify.com,Unknown,Unknown,Unknown,244
+open.spotify.com,Hamilton,New York,US,107
+open.spotify.com,Rock Hall,Maryland,US,107
+open.spotify.com,New York City,New York,US,308
+open.spotify.com,Bloomfield,New York,US,22
+open.spotify.com,Newark,New Jersey,US,30
+open.spotify.com,London,England,GB,22
+open.spotify.com,Piscataway,New Jersey,US,4
+open.spotify.com,Syracuse,New York,US,51
+open.spotify.com,Jersey City,New Jersey,US,24
+open.spotify.com,Linden,New Jersey,US,8
+open.spotify.com,Bayonne,New Jersey,US,2
+open.spotify.com,Woodbridge,New Jersey,US,7
+open.spotify.com,Edison,New Jersey,US,1
+open.spotify.com,San Francisco,California,US,8
+open.spotify.com,Port Reading,New Jersey,US,1
+chat.openai.com,San Francisco,California,US,80
+chat.openai.com,Unknown,Unknown,Unknown,103
+chat.openai.com,Hamilton,New York,US,43
+chat.openai.com,Rock Hall,Maryland,US,43
+chat.openai.com,Syracuse,New York,US,32
+chat.openai.com,New York City,New York,US,129
+chat.openai.com,Newark,New Jersey,US,1
+chat.openai.com,Hoboken,New Jersey,US,11
+gmail.com,New York City,New York,US,1067
+gmail.com,Unknown,Unknown,Unknown,432
+gmail.com,Hamilton,New York,US,187
+gmail.com,Rock Hall,Maryland,US,187
+gmail.com,Mariners Harbor,New York,US,86
+gmail.com,Edison,New Jersey,US,77
+gmail.com,Bloomfield,New York,US,91
+gmail.com,Newark,New Jersey,US,105
+gmail.com,Jersey City,New Jersey,US,196
+gmail.com,Secaucus,New Jersey,US,5
+gmail.com,Orange,New Jersey,US,7
+gmail.com,Chelsea,New York,US,17
+gmail.com,Linden,New Jersey,US,27
+gmail.com,Woodbridge,New Jersey,US,32
+gmail.com,Syracuse,New York,US,28
+gmail.com,Bayonne,New Jersey,US,23
+gmail.com,Elizabeth,New Jersey,US,1
+gmail.com,Reston,Virginia,US,1
+gmail.com,Ashburn,Virginia,US,2
+gmail.com,Carteret,New Jersey,US,1
+gmail.com,Harrison,New Jersey,US,1
+buff.163.com,Boardman,Oregon,US,27
+buff.163.com,Unknown,Unknown,Unknown,155
+buff.163.com,Hamilton,New York,US,60
+buff.163.com,North Syracuse,New York,US,16
+buff.163.com,Albany,New York,US,16
+buff.163.com,Brook Park,Ohio,US,11
+buff.163.com,Chicago,Illinois,US,29
+buff.163.com,Kansas City,Missouri,US,30
+buff.163.com,Denver,Colorado,US,27
+buff.163.com,Salt Lake City,Utah,US,27
+buff.163.com,Foster City,California,US,27
+buff.163.com,San Jose,California,US,125
+buff.163.com,New York City,New York,US,96
+buff.163.com,Chelsea,New York,US,25
+buff.163.com,Columbus,Ohio,US,16
+buff.163.com,Boston,Massachusetts,US,6
+buff.163.com,Jersey City,New Jersey,US,4
+buff.163.com,Piscataway,New Jersey,US,19
+buff.163.com,Rock Hall,Maryland,US,19
+buff.163.com,Secaucus,New Jersey,US,4
+buff.163.com,Port Reading,New Jersey,US,2
+buff.163.com,Shaoxing,Zhejiang,CN,1
+buff.163.com,London,England,GB,3
+buff.163.com,Shanghai,Shanghai,CN,3
+buff.163.com,Zhenjiang,Jiangsu,CN,1
+buff.163.com,Hangzhou,Zhejiang,CN,1
+buff.163.com,Sijiqing,Zhejiang,CN,1
+buff.163.com,Tokyo,Tokyo,JP,2
+buff.163.com,Santa Clara,California,US,1
+amazon.com,Ashburn,Virginia,US,44
+amazon.com,Unknown,Unknown,Unknown,780
+amazon.com,Hamilton,New York,US,324
+amazon.com,Rock Hall,Maryland,US,326
+amazon.com,New York City,New York,US,906
+amazon.com,Hoboken,New Jersey,US,206
+amazon.com,Syracuse,New York,US,183
+amazon.com,Secaucus,New Jersey,US,11
+amazon.com,Piscataway,New Jersey,US,98
+amazon.com,South Ozone Park,New York,US,42
+docs.google.com,New York City,New York,US,524
+docs.google.com,Unknown,Unknown,Unknown,254
+docs.google.com,Hamilton,New York,US,111
+docs.google.com,Rock Hall,Maryland,US,111
+docs.google.com,Syracuse,New York,US,40
+docs.google.com,Mariners Harbor,New York,US,19
+docs.google.com,Jersey City,New Jersey,US,179
+docs.google.com,Bayonne,New Jersey,US,15
+docs.google.com,Bloomfield,New York,US,8
+docs.google.com,Orange,New Jersey,US,6
+docs.google.com,Chelsea,New York,US,9
+docs.google.com,Secaucus,New Jersey,US,3
+docs.google.com,Linden,New Jersey,US,4
+docs.google.com,Newark,New Jersey,US,12
+docs.google.com,Woodbridge,New Jersey,US,4
+docs.google.com,Reston,Virginia,US,1
+docs.google.com,Washington,Washington D.C.,US,1
+docs.google.com,Ashburn,Virginia,US,2
+docs.google.com,Oak Grove,Virginia,US,1
+docs.google.com,Harrison,New Jersey,US,1
+docs.google.com,Edison,New Jersey,US,1
+portal.colgate.edu,Hamilton,New York,US,96
+portal.colgate.edu,Unknown,Unknown,Unknown,65
+moodle.colgate.edu,Ashburn,Virginia,US,19
+moodle.colgate.edu,Unknown,Unknown,Unknown,56
+moodle.colgate.edu,Hamilton,New York,US,24
+moodle.colgate.edu,Rock Hall,Maryland,US,24
+moodle.colgate.edu,New York City,New York,US,79
+moodle.colgate.edu,Hoboken,New Jersey,US,19
+moodle.colgate.edu,Secaucus,New Jersey,US,12
+moodle.colgate.edu,Syracuse,New York,US,1
+moodle.colgate.edu,Jersey City,New Jersey,US,2
+moodle.colgate.edu,Edison,New Jersey,US,1
+moodle.colgate.edu,Newark,New Jersey,US,4
+google.com,New York City,New York,US,257
+google.com,Unknown,Unknown,Unknown,143
+google.com,Hamilton,New York,US,60
+google.com,Rock Hall,Maryland,US,60
+google.com,Syracuse,New York,US,50
+google.com,Jersey City,New Jersey,US,94
+google.com,Newark,New Jersey,US,8
+google.com,Bayonne,New Jersey,US,17
+google.com,Bloomfield,New York,US,10
+google.com,Linden,New Jersey,US,3
+google.com,Woodbridge,New Jersey,US,7
+google.com,Orange,New Jersey,US,7
+google.com,Chelsea,New York,US,8
+google.com,Mariners Harbor,New York,US,3
+google.com,Reston,Virginia,US,1
+google.com,Ashburn,Virginia,US,2
+google.com,Edison,New Jersey,US,2
+google.com,Secaucus,New Jersey,US,2
+notion.so,San Francisco,California,US,178
+notion.so,Unknown,Unknown,Unknown,245
+notion.so,Hamilton,New York,US,110
+notion.so,Rock Hall,Maryland,US,110
+notion.so,Syracuse,New York,US,105
+notion.so,New York City,New York,US,276
+notion.so,Hoboken,New Jersey,US,57
+notion.so,South Ozone Park,New York,US,1
+notion.so,Kansas City,Missouri,US,1
+notion.so,Edison,New Jersey,US,1
+notion.so,Jersey City,New Jersey,US,6
+notion.so,Reston,Virginia,US,5
+notion.so,Bloomfield,New York,US,5
+notion.so,Bayonne,New Jersey,US,5
+notion.so,Ashburn,Virginia,US,20
