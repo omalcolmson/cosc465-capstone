@@ -6,7 +6,10 @@ import requests
 ip_pattern = re.compile(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b')
 
 # extract IP addresses from a traceroute file
-def extract_ips(filename):
+def extract_ips(filename) -> list:
+    '''
+    Returns a list of IP addresses
+    '''
     ips = []
     with open(filename, 'r') as file:
         for line in file:
@@ -16,7 +19,10 @@ def extract_ips(filename):
     return ips
 
 # get geolocation of an IP using ipinfo.io
-def get_geolocation(ip):
+def get_geolocation(ip) -> str:
+    '''
+    Queries for the geolocation of a given IP address and returns the location in a string formatted by {city}, {region}, {country}
+    '''
     try:
         response = requests.get(f"http://ipinfo.io/{ip}/json?token=c9c103e4f334e4")
         data = response.json()

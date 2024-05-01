@@ -51,25 +51,24 @@ def separate_output():
     for filename in os.listdir(parentFolder):
         print(f"Working on {filename}...")
         ogdomain = filename[:filename.find(".txt")]
-        oldFile = open(f"{parentFolder}{filename}", "r")
+        with open(f"{parentFolder}{filename}", "r") as oldFile:
         # outputFile = open(f"{outputFolder}{ogdomain}", "w")
-        aline = oldFile.readline()
-        while aline: #while there are lines in the file
-            if "traceroute to" in aline: #then we know it's the beginning of a separate traceroute run
-                extra = 0
-                domain = find_domain(aline)
-                outputFilePath = f"{outputFolder}{ogdomain}/{domain}.txt"
-                while os.path.exists(outputFilePath):
-                    outputFilePath = f"{outputFolder}{ogdomain}/{domain}{extra+1}.txt"
-                    extra += 1
-                print(f"Writing for {domain} which was tracked when querying for {ogdomain}...")
-                outputFile = open(outputFilePath, "w")
-                outputFile.write(aline)
-                aline = oldFile.readline()
-                while aline != '' and "traceroute to" not in aline:
+            aline = oldFile.readline()
+            while aline: #while there are lines in the file
+                if "traceroute to" in aline: #then we know it's the beginning of a separate traceroute run
+                    extra = 0
+                    domain = find_domain(aline)
+                    outputFilePath = f"{outputFolder}{ogdomain}/{domain}.txt"
+                    while os.path.exists(outputFilePath):
+                        outputFilePath = f"{outputFolder}{ogdomain}/{domain}{extra+1}.txt"
+                        extra += 1
+                    print(f"Writing for {domain} which was tracked when querying for {ogdomain}...")
+                    outputFile = open(outputFilePath, "w")
                     outputFile.write(aline)
                     aline = oldFile.readline()
-
+                    while aline != '' and "traceroute to" not in aline:
+                        outputFile.write(aline)
+                        aline = oldFile.readline()
 
 def main():
     # createFolders()
