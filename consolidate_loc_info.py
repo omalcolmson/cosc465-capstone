@@ -54,15 +54,15 @@ def simplify_geolocs(fname: str):
     locCount.to_csv('DomainLocCount.csv', index=False)
 
 def main():
-    simplify_devtools('devtool_geolocations2k.csv')
+    # simplify_devtools('devtool_geolocations2k.csv')
     # simplify_geolocs('geolocations.csv')
-    # fname1 = 'DevToolLocCount2k.csv'
-    # # fname2 = 'DomainLocCount.csv'
-    # df1 = pd.read_csv(fname1)
-    # # print(df1.head(10))
-    # df1.drop(columns=['Domain'], inplace=True)
-    # df1Count = df1.groupby(['City', 'State', 'Country']).sum().reset_index()
-    # df1Count.to_csv('DevToolLocTotals2k.csv')
+    fname1 = 'DevToolLocCount2k.csv'
+    # fname2 = 'DomainLocCount.csv'
+    df1 = pd.read_csv(fname1)
+    # print(df1.head(10))
+    df1.drop(columns=['Domain'], inplace=True)
+    df1Count = df1.groupby(['City', 'State', 'Country']).sum().reset_index()
+    df1Count.to_csv('DevToolLocTotals2k.csv')
 
     # commenting og domain stuff as we are only rerunning on updated devtool output
     # df2 = pd.read_csv(fname2)
