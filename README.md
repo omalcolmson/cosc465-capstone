@@ -10,11 +10,11 @@ The following document serves to outline our research project and process, speci
 ### Breaking down the tasks
 We wrote our scripts to achieve and support the following tasks:
 - run `traceroute` on each of our original domains to examine intermediate nodes and end servers (supporting domains)
-- use the internet browser developer tool to track the network activity when directly visiting the original domains to get a list of all supporting domains  
+- use the internet browser (we used Google Chrome) developer tool to track the network activity when directly visiting the original domains to get a list of all supporting domains  
 - determine the geographic location of these intermediate nodes and end servers via IP address lookups
 - determine what, if any, AS organizations oversaw the routers and/or end servers that were part of the path taken to get to the origial domain
 
-### Matching the Tasks and the Supporting Scripts
+## Matching the Tasks and the Supporting Scripts
 **`traceroutePaths.py`**
 - iterates through the list of original domains and runs `traceroute-paris`, writing the output for each to a separate file
 - output for each original domain is stored in the `TracerouteOutput` folder where the title of the file is the domain that was passed in to traceroute
@@ -52,6 +52,8 @@ This script interates through each traceroute output file and extracts all the d
 
 When using the Developer Tool on Google Chrome you can download files from the Networks tab that contains all possible information of the domains that your orginal website queries. This script runs on those downloadable files in order to create .txt files of the urls that are in those files. 
 
+**`extract_locs.py`**
+
 <details>
 <summary><strong> Archived Code Descriptions </strong></summary>
 <blockquote><strong><code>devtoolorg.py</code></strong> 
@@ -81,3 +83,11 @@ When using the Developer Tool on Google Chrome you can download files from the N
 </blockquote>
 
 </details>
+
+## Our Data and How it's Organized
+
+
+## Links to our artifacts
+### See our [final poster](https://docs.google.com/presentation/d/1s7KjgZjiOWT0BBllw7Mlzerl64zBnTOY/edit#slide=id.g2d17fba3423_1_34).
+
+### See our [graphed data](https://docs.google.com/spreadsheets/d/1jWDt9uKFmqKqRPY1z8sq_pW4y45KRiSemPMj5bk3cjY/edit?usp=sharing)

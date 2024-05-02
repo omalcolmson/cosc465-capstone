@@ -139,7 +139,7 @@ def main():
     # with open(output, 'w') as file:
     #     df = pd.read_csv(fname1)
     #     file.write("Location Data from DevTool Domains")
-        
+    pass        
 
 if __name__ == '__main__':
     main()
