@@ -1,24 +1,56 @@
-,City,State,Count
-0,Ashburn,Virginia,69
-1,Boardman,Oregon,40
-2,Columbus,Ohio,7
-3,Culver City,California,15
-4,Hamilton,New York,85
-5,Hillsboro,Oregon,2
-6,Kansas City,Missouri,44
-7,Lansing,Michigan,1
-8,New York City,New York,816
-9,Newark,New Jersey,14
-10,North Syracuse,New York,1
-11,Piscataway,New Jersey,159
-12,Redmond,Washington,11
-13,Reston,Virginia,11
-14,San Francisco,California,311
-15,San Jose,California,13
-16,Secaucus,New Jersey,102
-17,Shaoxing,Zhejiang,1
-18,South Ozone Park,New York,108
-19,South Riding,Virginia,13
-20,Tokyo,Tokyo,1
-21,Unknown,Unknown,11
-22,Wilmington,Delaware,16
+,City,State,Country,Count
+0,Albany,New York,US,19
+1,Ashburn,Virginia,US,41
+2,Bayonne,New Jersey,US,232
+3,Bloomfield,New York,US,157
+4,Boston,Massachusetts,US,6
+5,Brook Park,Ohio,US,13
+6,Carteret,New Jersey,US,2
+7,Chelsea,New York,US,114
+8,Chicago,Illinois,US,42
+9,Columbus,Ohio,US,41
+10,Dearborn,Michigan,US,1
+11,Denver,Colorado,US,40
+12,East Orange,New Jersey,US,2
+13,East Palo Alto,California,US,1
+14,Edison,New Jersey,US,98
+15,Elizabeth,New Jersey,US,2
+16,Foster City,California,US,39
+17,Hamilton,New York,US,1849
+18,Hangzhou,Zhejiang,CN,1
+19,Harrison,New Jersey,US,4
+20,Hatsudai,Tokyo,JP,1
+21,Hoboken,New Jersey,US,385
+22,Jersey City,New Jersey,US,654
+23,Kansas City,Missouri,US,43
+24,Lansing,Michigan,US,2
+25,Linden,New Jersey,US,168
+26,London,England,GB,25
+27,Mariners Harbor,New York,US,122
+28,New York City,New York,US,4464
+29,Newark,New Jersey,US,201
+30,North Syracuse,New York,US,19
+31,Oak Grove,Virginia,US,2
+32,Orange,New Jersey,US,28
+33,Piscataway,New Jersey,US,2
+34,Port Reading,New Jersey,US,4
+35,Rahway,New Jersey,US,1
+36,Rio de Janeiro,Rio de Janeiro,BR,15
+37,Rock Hall,Maryland,US,1683
+38,Salt Lake City,Utah,US,40
+39,San Jose,California,US,162
+40,Santa Clara,California,US,6
+41,Secaucus,New Jersey,US,299
+42,Shanghai,Shanghai,CN,3
+43,Sijiqing,Zhejiang,CN,1
+44,Singapore,Singapore,SG,2
+45,South Riding,Virginia,US,13
+46,Sterling,Virginia,US,1
+47,Syracuse,New York,US,912
+48,Tokyo,Tokyo,JP,1
+49,Union City,New Jersey,US,12
+50,Unknown,Unknown,Unknown,4455
+51,Washington,Washington D.C.,US,2
+52,Weehawken,New Jersey,US,67
+53,Woodbridge,New Jersey,US,63
+54,Zhenjiang,Jiangsu,CN,1

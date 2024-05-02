@@ -92,8 +92,9 @@ def get_totals(fname: str):
     '''
     df = pd.read_csv(fname)
     df.drop(columns=['OGDomain', 'IPAddr'], inplace=True)
-    cities = df.groupby(['City', 'State']).size().reset_index(name='Count')
-    cities.to_csv(f"citycount.csv")
+    cities = df.groupby(['City', 'State', 'Country']).size().reset_index(name='Count')
+    # cities.to_csv(f"intermediate_citycount.csv")
+    cities.to_csv(f"endserver_citycount.csv")
 
 
 def main():
