@@ -88,7 +88,7 @@ def clean_format(fname: str):
 
 def get_totals(fname: str):
     '''
-    Writes to a new CSV file with the total counts of all unique locations by state. 
+    Writes to a new CSV file with the total counts of all unique locations by city/state. 
     '''
     df = pd.read_csv(fname)
     df.drop(columns=['OGDomain', 'IPAddr'], inplace=True)
@@ -96,11 +96,16 @@ def get_totals(fname: str):
     # cities.to_csv(f"intermediate_citycount.csv")
     cities.to_csv(f"endserver_citycount.csv")
 
+def totals_country(fname: str):
+    df = pd.read_csv(fname)
+    df.drop(columns=['City', 'State', 'Count'], inplace=True)
+    countries = df.groupby(['Country']).size().reset_index(name='Count')
+    countries.to_csv()
 
 def main():
 
-    # get_totals('EndServersLocations.csv')
-    get_totals('IntermediateServerLocations.csv')
+    get_totals('EndServersLocations.csv')
+    # get_totals('IntermediateServerLocations.csv')
 
     # created a merged CSV with end server data
     # og_endservers = pd.read_csv('OriginalDomainEndServerLocs.csv')
