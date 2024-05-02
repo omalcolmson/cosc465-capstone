@@ -1,5 +1,6 @@
 import os
 import re
+import csv
 
 def extract_intermediary_hops(filepath):
     intermediary_hops = []
@@ -18,17 +19,19 @@ def extract_intermediary_hops(filepath):
 
 def main():
     input_directory = 'TracerouteOutput'
-    output_file = 'intermediary_hops_output.txt'
+    output_file = 'intermediary_ogdomains.csv'
 
-    with open(output_file, 'w') as output:
+    with open(output_file, 'w', newline='') as csvfile:
+        fieldnames = ['Filename', 'Intermediary_Hops']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        
         for filename in os.listdir(input_directory):
             if filename.endswith('.txt'):
                 filepath = os.path.join(input_directory, filename)
                 intermediary_hops = extract_intermediary_hops(filepath)
-                output.write(f'{filename}:\n')
-                for hop in intermediary_hops:
-                    output.write(f'{hop}\n')
-                output.write('\n')
+                hops_string = ', '.join(intermediary_hops)
+                writer.writerow({'Filename': filename, 'Intermediary_Hops': hops_string})
 
 if __name__ == "__main__":
     main()
