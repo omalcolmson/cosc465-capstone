@@ -44,18 +44,21 @@ def get_geolocation(ip) -> str:
 
 def main():
     # For parsing traceroute output to list of ORIGINAL domains
-    folder_path = "TracerouteOutput"
-    output_file = "geolocations.csv"
+    # folder_path = "TracerouteOutput"
+    # output_file = "geolocations.csv"
     
     # rerunning this on the newly updated devtool traceroute stuff
-    # folder_path = "TracerouteOutputDevTool"
-    # output_file = "devtool_geolocations.txt"
-
+    parentFolder = 'DevToolTraceRoute2k/'
+    output_file = 'devtool_geolocations2k.csv'
     with open(output_file, 'w') as output:
-        for filename in os.listdir(folder_path):
-            if filename.endswith(".txt"):
-                file_path = os.path.join(folder_path, filename)
-                ips = extract_ips(file_path)
+        for childFolder in os.listdir(parentFolder):
+            originalDomain = childFolder
+            for fileName in os.listdir(f"{parentFolder}{childFolder}/"):
+                subDomain = fileName
+                subDomain = subDomain[:subDomain.find('txt')-1]
+                filePath = f"{parentFolder}{childFolder}/{fileName}"
+                # print(filePath)
+                ips = extract_ips(filePath)
                 # print(filename)
                 # print(ips)
                 if ips:
@@ -63,9 +66,24 @@ def main():
                         geolocation = get_geolocation(ip)
                         # print(geolocation)
                         if geolocation:
-                            output.write(f"Domain: {filename}, IP: {ip}, Location: {geolocation}\n")
+                            output.write(f"Original Domain: {originalDomain}, Querying Domain: {subDomain}, IP: {ip}, Location: {geolocation}\n")
                         else:
-                            output.write(f"Domain: {filename}, IP: {ip}, Location: Not found\n")
+                            output.write(f"Original Domain: {originalDomain}, Querying Domain: {subDomain}, IP: {ip}, Location: Not found\n")
+    # with open(output_file, 'w') as output:
+    #     for filename in os.listdir(folder_path):
+    #         if filename.endswith(".txt"):
+    #             file_path = os.path.join(folder_path, filename)
+    #             ips = extract_ips(file_path)
+    #             # print(filename)
+    #             # print(ips)
+    #             if ips:
+    #                 for ip in ips:
+    #                     geolocation = get_geolocation(ip)
+    #                     # print(geolocation)
+    #                     if geolocation:
+    #                         output.write(f"Domain: {filename}, IP: {ip}, Location: {geolocation}\n")
+    #                     else:
+    #                         output.write(f"Domain: {filename}, IP: {ip}, Location: Not found\n")
 
 if __name__ == "__main__":
     main()
