@@ -5,15 +5,20 @@ def extract_intermediary_hops(filepath):
     intermediary_hops = []
     with open(filepath, 'r') as file:
         lines = file.readlines()
-        for line in lines[1:-1]:  # Exclude the first and last line
-            ip_match = re.search(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b', line)
-            if ip_match:
-                intermediary_hops.append(ip_match.group())
+        first_ip = re.search(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b', lines[1])
+        if first_ip:
+            first_ip = first_ip.group()
+            for line in lines[2:]:  # Exclude the first line and everything after the last hop IP
+                ip_match = re.search(r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b', line)
+                if ip_match:
+                    ip = ip_match.group()
+                    if ip != first_ip:  # Exclude the first IP if it appears again
+                        intermediary_hops.append(ip)
     return intermediary_hops
 
 def main():
     input_directory = 'TracerouteOutput'
-    output_file = 'intermediary_ogdomains.txt'
+    output_file = 'intermediary_hops_output.txt'
 
     with open(output_file, 'w') as output:
         for filename in os.listdir(input_directory):
