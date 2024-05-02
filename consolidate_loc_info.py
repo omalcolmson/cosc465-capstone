@@ -34,6 +34,9 @@ def simplify_devtools(fname: str):
     # print(df.head(10))
 
 def simplify_geolocs(fname: str):
+    '''
+    For simplifying the original locations for the original domains
+    '''
     df = pd.read_csv(fname)
     df.drop(columns="IPAddr", inplace=True)
     for index, row in df.iterrows(): #clean up the data
@@ -54,15 +57,21 @@ def simplify_geolocs(fname: str):
     locCount.to_csv('DomainLocCount.csv', index=False)
 
 def main():
+    og_endservers = pd.read_csv('OriginalDomainEndServerLocs.csv')
+    support_endservers = pd.read_csv('DevToolDomainEndServerLocs.csv')
+    support_endservers.drop(columns='SupportingDomain', inplace=True)
+    merged_endservers = pd.concat([og_endservers, support_endservers], axis=0)
+    merged_endservers.to_csv('EndServersLocations.csv', index=False)
+
     # simplify_devtools('devtool_geolocations2k.csv')
     # simplify_geolocs('geolocations.csv')
-    fname1 = 'DevToolLocCount2k.csv'
-    # fname2 = 'DomainLocCount.csv'
-    df1 = pd.read_csv(fname1)
-    # print(df1.head(10))
-    df1.drop(columns=['Domain'], inplace=True)
-    df1Count = df1.groupby(['City', 'State', 'Country']).sum().reset_index()
-    df1Count.to_csv('DevToolLocTotals2k.csv')
+    # fname1 = 'DevToolLocCount2k.csv'
+    # # fname2 = 'DomainLocCount.csv'
+    # df1 = pd.read_csv(fname1)
+    # # print(df1.head(10))
+    # df1.drop(columns=['Domain'], inplace=True)
+    # df1Count = df1.groupby(['City', 'State', 'Country']).sum().reset_index()
+    # df1Count.to_csv('DevToolLocTotals2k.csv')
 
     # commenting og domain stuff as we are only rerunning on updated devtool output
     # df2 = pd.read_csv(fname2)

@@ -1,4 +1,4 @@
-Domain, IPAddr, City, State, Country
+OGDomain,IPAddr,City,State,Country
 Domain: buff163.com.txt, IP: 69.16.230.226, Location: Lansing, Michigan, US
 Domain: dineoncampus.com.txt, IP: 104.26.8.15, Location: San Francisco, California, US
 Domain: pandas.pydata.org.txt, IP: 104.26.0.204, Location: San Francisco, California, US
