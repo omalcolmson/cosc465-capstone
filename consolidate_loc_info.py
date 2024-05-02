@@ -57,11 +57,19 @@ def simplify_geolocs(fname: str):
     locCount.to_csv('DomainLocCount.csv', index=False)
 
 def main():
-    og_endservers = pd.read_csv('OriginalDomainEndServerLocs.csv')
-    support_endservers = pd.read_csv('DevToolDomainEndServerLocs.csv')
-    support_endservers.drop(columns='SupportingDomain', inplace=True)
-    merged_endservers = pd.concat([og_endservers, support_endservers], axis=0)
-    merged_endservers.to_csv('EndServersLocations.csv', index=False)
+    # created a merged CSV with end server data
+    # og_endservers = pd.read_csv('OriginalDomainEndServerLocs.csv')
+    # support_endservers = pd.read_csv('DevToolDomainEndServerLocs.csv')
+    # support_endservers.drop(columns='SupportingDomain', inplace=True)
+    # merged_endservers = pd.concat([og_endservers, support_endservers], axis=0)
+    # merged_endservers.to_csv('EndServersLocations.csv', index=False)
+
+    #creating a merged CSV with intermediate server data
+    og_inter = pd.read_csv('OriginalDomainNONEndServerLocs.csv')
+    support_inter = pd.read_csv('DevToolDomainNONEndServerLocs.csv')
+    support_inter.drop(columns='SupportingDomain', inplace=True)
+    merged_inter = pd.concat([og_inter, support_inter], axis=0)
+    merged_inter.to_csv('IntermediateServerLocations.csv', index=False)
 
     # simplify_devtools('devtool_geolocations2k.csv')
     # simplify_geolocs('geolocations.csv')
