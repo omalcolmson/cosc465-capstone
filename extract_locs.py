@@ -68,19 +68,19 @@ def main():
     '''
     non_endservers = []
     # for original domains csv
-    # with open('OriginalDomainEndServerLocs.csv', 'w') as writeFile:
-    #     with open('geolocations.csv', 'r') as readFile: #will read 
+    with open('OriginalDomainEndServerLocs.csv', 'w') as writeFile:
+        with open('geolocations.csv', 'r') as readFile: #will read 
 
     # for supporting domains csv
-    with open('DevToolDomainEndServerLocs.csv', 'w') as writeFile:
-        with open('devtool_geolocations2k.csv', 'r') as readFile: #will read 
+    # with open('DevToolDomainEndServerLocs.csv', 'w') as writeFile:
+    #     with open('devtool_geolocations2k.csv', 'r') as readFile: #will read 
             line = readFile.readline() #read the first line which is just the headers
             non_endservers.append(line)
             writeFile.write(line)
             line = readFile.readline() #now should read first line of actual data
             while line:
                 # for server in og_endservers: #for every end server
-                if containsServer(line, supporting_endservers): # NEED TO CHANGE SERVER LIST DEPENDING ON WHICH CSV
+                if containsServer(line, og_endservers): # NEED TO CHANGE SERVER LIST DEPENDING ON WHICH CSV
                     writeFile.write(line) #write end server locations to new file
                 else:
                     non_endservers.append(line) #append to a list we'll write to new file
@@ -93,8 +93,8 @@ def main():
                 line = readFile.readline() #read next line after every server has been checked
             
     # when all lines have been read
-    # with open('OriginalDomainNONEndServerLocs.csv', 'w') as writeFile1:
-    with open('DevToolDomainNONEndServerLocs.csv', 'w') as writeFile1:
+    with open('OriginalDomainNONEndServerLocs.csv', 'w') as writeFile1:
+    # with open('DevToolDomainNONEndServerLocs.csv', 'w') as writeFile1:
         writeFile1.writelines(non_endservers) #will write all the non-end servers back to this csv
 
     # for some preliminary testing
