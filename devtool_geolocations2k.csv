@@ -1,3 +1,4 @@
+OGDomain,SupportingDomain,IPAddr,City,State,Country
 Original Domain: docs.google.com, Querying Domain: docs.google.com8, IP: 142.250.72.110, Location: New York City, New York, US
 Original Domain: docs.google.com, Querying Domain: docs.google.com8, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
 Original Domain: docs.google.com, Querying Domain: docs.google.com8, IP: 149.43.80.3, Location: Hamilton, New York, US
@@ -75,7 +76,7 @@ Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 72.1
 Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 142.251.65.92, Location: Bloomfield, New York, US
 Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 192.178.106.162, Location: Bayonne, New Jersey, US
 Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 209.85.255.27, Location: Bayonne, New Jersey, US
-Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 142.251.66.34, Location: Washington, Washington, D.C., US
+Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 142.251.66.34, Location: Washington, Washington D.C., US
 Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 142.250.215.191, Location: Ashburn, Virginia, US
 Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 216.239.43.232, Location: Oak Grove, Virginia, US
 Original Domain: docs.google.com, Querying Domain: accounts.google.com, IP: 142.251.67.255, Location: Ashburn, Virginia, US
@@ -9161,7 +9162,7 @@ Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 72.
 Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 142.251.65.92, Location: Bloomfield, New York, US
 Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 192.178.106.162, Location: Bayonne, New Jersey, US
 Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 209.85.255.27, Location: Bayonne, New Jersey, US
-Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 142.251.66.34, Location: Washington, Washington, D.C., US
+Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 142.251.66.34, Location: Washington, Washington D.C., US
 Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 142.250.215.191, Location: Ashburn, Virginia, US
 Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 216.239.43.232, Location: Oak Grove, Virginia, US
 Original Domain: drive.google.com, Querying Domain: accounts.google.com, IP: 142.251.67.255, Location: Ashburn, Virginia, US
