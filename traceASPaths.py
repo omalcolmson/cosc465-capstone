@@ -8,6 +8,7 @@ import requests
 import ipaddress
 import dns.resolver as ds
 import pandas as pd
+import GetDevToolCDNs as retriever #importing Amanda's functions to rerun AS retrieval on original domain names
 
 def parse_file(filepath):
     """Parses a file containing output from paris-traceroute and returns a 
@@ -151,18 +152,18 @@ def main():
 
     df = pd.read_csv("RawData/topdomains.csv")
     df.drop(columns="Count", inplace=True)
-    df['#ASOrgs'] = 0 #new column for number of AS orgs
-    df['ASOrgNames'] = ''# new column for list of ASes traversed
+    df['IP'] = 0 #new column for number of AS orgs
+    df['ASName'] = ''# new column for list of ASes traversed
     for index, row in df.iterrows():
         url = row['URL']
         fname = f'{url}.txt'
-        urlPath = parse_file(f'TracerouteOutput/{fname}')
-        pathASes = get_ASes(urlPath)
-        numASOrgs = len(pathASes)
-        listofASes = getASNames(pathASes)
-        df.at[index, '#ASOrgs'] = numASOrgs
-        df.at[index, 'ASOrgNames'] = listofASes
-
+        # urlPath = parse_file(f'TracerouteOutput/{fname}')
+        ip, as_names = retriever.extract_and_get_as_names(f'TracerouteOutput/{fname}')
+        if ip and as_names:
+            df.at[index, 'Domain'] = url
+            df.at[index, 'IP'] = ip
+            df.at[index, 'ASName'] = as_names
+        
     df.to_csv("DomainsAnalysis.csv")
 
 
