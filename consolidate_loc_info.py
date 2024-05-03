@@ -93,14 +93,15 @@ def get_totals(fname: str):
     df = pd.read_csv(fname)
     df.drop(columns=['OGDomain', 'IPAddr'], inplace=True)
     cities = df.groupby(['City', 'State', 'Country']).size().reset_index(name='Count')
-    # cities.to_csv(f"intermediate_citycount.csv")
-    cities.to_csv(f"endserver_citycount.csv")
+    cities.to_csv(f"intermediate_citycount.csv")
+    # cities.to_csv(f"endserver_citycount.csv")
 
 def totals_country(fname: str):
     df = pd.read_csv(fname)
     df.drop(columns=['City', 'State'], inplace=True)
     countries = df.groupby(['Country']).size().reset_index(name='Count')
     countries.to_csv('intermediate_countrycount.csv')
+    # countries.to_csv('endserver_countrycount.csv')
 
 def main():
 
@@ -108,7 +109,7 @@ def main():
     # get_totals('IntermediateServerLocations.csv')
 
     # totals_country('EndServersLocations.csv')
-    # totals_country('IntermediateServerLocations.csv')
+    totals_country('IntermediateServerLocations.csv')
 
     # created a merged CSV with end server data
     # og_endservers = pd.read_csv('OriginalDomainEndServerLocs.csv')
