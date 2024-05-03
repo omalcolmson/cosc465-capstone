@@ -103,9 +103,20 @@ After `get_geolocation.py` was run on traceroute output for our original domains
 </details>
 
 ## Our Data and How it's Organized
+Our data in the repo is organized for viewing convenience. The following is an explaination of our folder system
 
+- **DevToolData:** folder for housing all of the raw `.har` files which contain the logs for web activity tracked using the DevTool feature in Google Chrome
+- **DevToolURLs:** folder of text files for each original domain. Each file contains a list of supporting domains extracted from the `.har` files.
+- **DevToolTraceRoute2k:** parent folder with child folders (labeled by original domain) organizing traceroute output ran on each supporting domain for an original domain. 
+- **PosterVisuals:** folder containing all chart and map images used on our poster
+- **ProcessedSortedData:** parent folder for housing all of our processed and sorted data
+    - **AS-CDN:** folder of CSV files containing compiled AS and CDN data for the original and supporting (gathered from devtools) domains as well as counts of AS organizations and CDNs used
+    - **LocationData:** folder of CSV files containing compiled location data for original domains, supporting (devtool) domains, and consolidated counts for intermediate and end server locations
+- **RawData:** folder with raw data like or original domains list, and raw geolocations list
+- **Scripts:** folder of all of our scripts used to gather, compile, and organize our data
+- **TracerouteOutput:** folder of text files with traceroute output ran on the original domains
+- **TracerouteOutputDevTool** folder of traceroute ran on all supporting domains. These files were later processed to separate the multiple traceroute outputs that were compiled in each file. 
 
 ## Links to our artifacts
-### See our [final poster](https://docs.google.com/presentation/d/1s7KjgZjiOWT0BBllw7Mlzerl64zBnTOY/edit#slide=id.g2d17fba3423_1_34)
-
-### See our [graphed data](https://docs.google.com/spreadsheets/d/1jWDt9uKFmqKqRPY1z8sq_pW4y45KRiSemPMj5bk3cjY/edit?usp=sharing)
+### See our [final poster on Google Slides](https://docs.google.com/presentation/d/1s7KjgZjiOWT0BBllw7Mlzerl64zBnTOY/edit#slide=id.g2d17fba3423_1_34)
+### See our [graphed data in Google Sheets](https://docs.google.com/spreadsheets/d/1jWDt9uKFmqKqRPY1z8sq_pW4y45KRiSemPMj5bk3cjY/edit?usp=sharing)
