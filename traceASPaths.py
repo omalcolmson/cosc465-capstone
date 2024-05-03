@@ -150,24 +150,41 @@ def main():
     # # summarize_path(amazonPath)
     # print(get_ASes(amazonPath))
 
-    df = pd.read_csv("RawData/topdomains.csv")
-    df.drop(columns="Count", inplace=True)
-    df['IP'] = 0 #new column for number of AS orgs
-    df['ASName'] = ''# new column for list of ASes traversed
-    for index, row in df.iterrows():
-        url = row['URL']
-        fname = f'{url}.txt'
-        # urlPath = parse_file(f'TracerouteOutput/{fname}')
-        ip, as_names = retriever.extract_and_get_as_names(f'TracerouteOutput/{fname}')
-        if ip and as_names:
-            df.at[index, 'Domain'] = url
-            df.at[index, 'IP'] = ip
-            if len(as_names) == 1:
-                df.at[index, 'ASName'] = as_names[0]
-            else:
-                as_names
+    # df = pd.read_csv("RawData/topdomains.csv")
+    # df.drop(columns="Count", inplace=True)
+    # df['IP'] = 0 #new column for number of AS orgs
+    # df['ASName'] = ''# new column for list of ASes traversed
+    # for index, row in df.iterrows():
+    #     url = row['URL']
+    #     fname = f'{url}.txt'
+    #     # urlPath = parse_file(f'TracerouteOutput/{fname}')
+    #     ip, as_names = retriever.extract_and_get_as_names(f'TracerouteOutput/{fname}')
+    #     if ip and as_names:
+    #         df.at[index, 'Domain'] = url
+    #         df.at[index, 'IP'] = ip
+    #         if len(as_names) == 1:
+    #             df.at[index, 'ASName'] = as_names[0]
+    #         else:
+    #             as_names
         
-    df.to_csv("DomainsAnalysis.csv")
+    # df.to_csv("DomainsAnalysis.csv")
+    # df = pd.read_csv('OGDomainsASes.csv')
+    # df.drop(columns='Domain', inplace=True)
+    # df.to_csv('OGDomainsASes.csv', index=False)
+
+    # created merged CSV with all AS info
+    # df1 = pd.read_csv('OGDomainsASes.csv')
+    # df1.drop(columns='Index', inplace=True)
+    # df2 = pd.read_csv('DevToolAses.csv')
+    # merged = pd.concat([df1, df2], axis=0)
+    # merged.to_csv('ASInfo.csv')
+
+    ases = pd.read_csv('ASInfo.csv')
+    ases.drop(columns=['Domain', 'IP'], inplace=True)
+    counts = ases.groupby(['ASName']).size().reset_index(name='Count')
+    counts.to_csv('AS_Counts.csv')
+
+    # pass
 
 
 if __name__ == '__main__':
