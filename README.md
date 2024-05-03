@@ -1,6 +1,8 @@
 # COSC465 Capstone | Do You Know How Far Your Data Goes? – Following Network Traffic of Sites Commonly Used by Colgate Students
 TEAM MEMBERS: Amanda Anowi, Carl Ekholm, Olivia Malcolmson, and Nyah Harrison
 
+> **Note**: As of 5.3.2024, all of our scripts and data have been moved into folders for better organization of the repo. The scripts are NOT updated with the correct paths for the current repo's organization.
+
 ## Introduction
 Anytime you access the internet, information travels far and wide. But do you know just how far? A semester of studying computer networks demystifies the amorphous entity that is the internet and provides us with the knowledge and tools to track just how far your data travels. The scope of our project began within 22 domains that we collectively decided as a group to use as a representative sample of domains frequently visited by Colgate students -- we refer to these as our *original* domains. However, traversing the internet is rarely ever a direct flight, typically making multiple stops along the way and receiving support from other entities to retrieve relevant information -- some of these secondary entities are CDNs and/or ASes, but we generally refer to these as *supporting* domains.
 
@@ -104,6 +106,6 @@ After `get_geolocation.py` was run on traceroute output for our original domains
 
 
 ## Links to our artifacts
-### See our [final poster](https://docs.google.com/presentation/d/1s7KjgZjiOWT0BBllw7Mlzerl64zBnTOY/edit#slide=id.g2d17fba3423_1_34).
+### See our [final poster](https://docs.google.com/presentation/d/1s7KjgZjiOWT0BBllw7Mlzerl64zBnTOY/edit#slide=id.g2d17fba3423_1_34)
 
 ### See our [graphed data](https://docs.google.com/spreadsheets/d/1jWDt9uKFmqKqRPY1z8sq_pW4y45KRiSemPMj5bk3cjY/edit?usp=sharing)
