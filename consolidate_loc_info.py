@@ -59,23 +59,23 @@ def simplify_geolocs(fname: str):
 def clean_format(fname: str):
     df = pd.read_csv(fname)
     for index, row in df.iterrows():
-        # # clean Domain column
-        # domaintxt = df.at[index, 'OGDomain'].strip()
-        # domaintxt = domaintxt[(domaintxt.find(':')+2):] #isolate only the domain
-        # txt = domaintxt.find("txt") #check if its a filename and remove the txt part
-        # if txt != -1:
-        #     domaintxt = domaintxt[:txt-1]
-        # df.at[index, 'OGDomain'] = domaintxt
+        # clean Domain column
+        domaintxt = df.at[index, 'OGDomain'].strip()
+        domaintxt = domaintxt[(domaintxt.find(':')+2):] #isolate only the domain
+        txt = domaintxt.find("txt") #check if its a filename and remove the txt part
+        if txt != -1:
+            domaintxt = domaintxt[:txt-1]
+        df.at[index, 'OGDomain'] = domaintxt
 
-        # #clean the IPAddr column
-        # ip = df.at[index, 'IPAddr'].strip()
-        # ip = ip[ip.find(':')+2:] #isolate just the addr and get rid of the 'IP: ' part
-        # df.at[index, 'IPAddr'] = ip
+        #clean the IPAddr column
+        ip = df.at[index, 'IPAddr'].strip()
+        ip = ip[ip.find(':')+2:] #isolate just the addr and get rid of the 'IP: ' part
+        df.at[index, 'IPAddr'] = ip
 
-        # #clean the City column
-        # citytxt = df.at[index, 'City'].strip()
-        # citytxt = citytxt[citytxt.find(':')+2:]
-        # df.at[index, 'City'] = citytxt
+        #clean the City column
+        citytxt = df.at[index, 'City'].strip()
+        citytxt = citytxt[citytxt.find(':')+2:]
+        df.at[index, 'City'] = citytxt
 
         #clean the state column
         df.at[index, 'State'] = df.at[index, 'State'].strip()
@@ -108,21 +108,21 @@ def main():
     # get_totals('IntermediateServerLocations.csv')
 
     # totals_country('EndServersLocations.csv')
-    totals_country('IntermediateServerLocations.csv')
+    # totals_country('IntermediateServerLocations.csv')
 
     # created a merged CSV with end server data
     # og_endservers = pd.read_csv('OriginalDomainEndServerLocs.csv')
     # support_endservers = pd.read_csv('DevToolDomainEndServerLocs.csv')
     # support_endservers.drop(columns='SupportingDomain', inplace=True)
     # merged_endservers = pd.concat([og_endservers, support_endservers], axis=0)
-    # merged_endservers.to_csv('EndServersLocations.csv', index=False)
+    # merged_endservers.to_csv('EndServersLocations.csv', index=True)
 
     #creating a merged CSV with intermediate server data
     # og_inter = pd.read_csv('OriginalDomainNONEndServerLocs.csv')
     # support_inter = pd.read_csv('DevToolDomainNONEndServerLocs.csv')
     # support_inter.drop(columns='SupportingDomain', inplace=True)
     # merged_inter = pd.concat([og_inter, support_inter], axis=0)
-    # merged_inter.to_csv('IntermediateServerLocations.csv', index=False)
+    # merged_inter.to_csv('IntermediateServerLocations.csv', index=True)
 
     # cleaning up the formatting of the information in the csv files
     # clean_format('EndServersLocations.csv')
