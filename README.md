@@ -16,13 +16,14 @@ We wrote our scripts to achieve and support the following tasks:
 
 ## Matching the Tasks and the Supporting Scripts
 **`traceroutePaths.py`**
-- iterates through the list of original domains and runs `traceroute-paris`, writing the output for each to a separate file
-- output for each original domain is stored in the `TracerouteOutput` folder where the title of the file is the domain that was passed in to traceroute
-- this was also used on all supporting domains gathered from the devtool tracking and the output for each of those supporting domains is stored in the `TracerouteOutputDevTool` folder where the title of the file is the *original* domain and the contents contain multiple traceroute outputs for the supporting domains (this was done on the initial 5 sampled)
+
+This script iterates through the list of original domains and runs `traceroute-paris`, writing the output for each to a separate file. The output for each original domain is stored in the `TracerouteOutput` folder where the title of the file is the domain that was passed in to traceroute. This script was also used on all supporting domains gathered from the devtool tracking and the output for each of those supporting domains is stored in the `TracerouteOutputDevTool` folder where the title of the file is the *original* domain and the contents contain multiple traceroute outputs for the supporting domains (this was done on the initial 5 sampled)
+
 
 **`traceASPaths.py`**
-- iterates through each traceroute output file and parses the data to culminate information regarding the names and numbers of AS organizations found during the traversal
-- outputs this data to `DomainsAnalysis.csv` for the original domains
+
+This script iterates through each traceroute output file and parses the data to consolidate information regarding the names and numbers of AS organizations found during the traversal, outputting the data to `DomainsAnalysis.csv` for the original domains.
+
 
 **`traceroutepathsDevTool.py`**
 
@@ -54,6 +55,9 @@ When using the Developer Tool on Google Chrome you can download files from the N
 
 **`extract_locs.py`**
 
+After `get_geolocation.py` was run on traceroute output for our original domains, the output was written to the `geolocations.csv` file stored in the `RawData` folder. For the devtool traceroute output, the output was stored in the `devtool_geolocations2k.csv` file stored in the same folder. `extract_locs.py` was then used to separate the data of end server from intermediate router locations. This was run on both the geolocation files, producing 4 files in total: a file containing the geolocations of the original domains' end servers and a separate file for the intermediate routers. The same two files were produced for the supporting domains gathered from the devtools.
+
+
 <details>
 <summary><strong> Archived Code Descriptions </strong></summary>
 <blockquote><strong><code>devtoolorg.py</code></strong> 
@@ -79,7 +83,7 @@ When using the Developer Tool on Google Chrome you can download files from the N
             -- cdn.oaistatic.com.txt
 
 <blockquote><strong><code>consolidate_loc_info.py</code></strong> 
-<hr> Script for consolidating all location information into pandas dataframes and outputting the information to csv files with counts and totals we could use for graphs
+<hr> Script for consolidating all location information into pandas dataframes and outputting the information to csv files with counts and totals we could use for graphs. The data stored in the resulting 4 csv files from running the `extract_locs.py` script were a bit disorganized and contained a lot of unnecessary text (e.g., the every IP address was formatted as 'IP: X.X.X.X'). `consolidate_loc.py` was written to clean the data in these csv files (remove any unnecessary text in the cells such as the 'IP: ' part). After the data was reformatted, this script also read the end server and intermediate server location csv files and merged them by reading them into a pandas DataFrame and concatenating them together. The resulting files were then able to be exported to a <a href='https://docs.google.com/spreadsheets/d/1jWDt9uKFmqKqRPY1z8sq_pW4y45KRiSemPMj5bk3cjY/edit#gid=424344175'>Google Sheet</a> where the data could be graphed. 
 </blockquote>
 
 </details>
