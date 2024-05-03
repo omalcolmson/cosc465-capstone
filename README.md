@@ -44,6 +44,18 @@ This script is designed to extract IP addresses from traceroute files and then q
 
 This script interates through each traceroute output file and extracts the domain name from the filename, retrieves the assoicated AS names for each IP found and writes detailed AS information to an output file. If the AS is identified as part of a CDN, it writes this information to a separate CDN-specific output file.
 
+
+**`GetDevToolCDNs.py`**
+
+This script reads through the DevToolTraceroute2k folder containing additional domains, extracts IP addresses and Autonomous System (AS) names for each domain queried, and stores them in a file named DevToolASes.csv. It then checks if each AS name in DevToolASes.csv is in our CDN dataset. If found, it writes the domain, IP address, and CDN name to DevToolCDNs.csv. This provides a list of additional domains from the DevTool that utilize CDNs to load their information.
+
+**`DevToolCDNCount.py`**
+
+This script reads through DevToolCDNs.csv containing all the Dev Tool domains using CDNs and the CDN names. It counts the occurrences of each CDN, and writes the counts to cdn_counts.csv. This allows for the grouping of CDNs based on most common occurence which is later graphed. 
+
+**`graphCDNs.py`**
+This script read sthe output data in cdn-counts.csv and creates a bar chart showcasing each CDN's and their associated count.
+
 **`getIPS.py`**
 
 This script interates through each traceroute output file and extracts all the domain names and their corresponding IP addresses from each. If both an IP address and a domain name are found in the line, they are added to the dictionary with the domain name as the key and the IP address as the value.
