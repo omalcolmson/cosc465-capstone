@@ -1,5 +1,4 @@
 OGDomain,IPAddr,City,State,Country
-Domain: buff163.com.txt, IP: 69.16.230.226, Location: Lansing, Michigan, US
 Domain: dineoncampus.com.txt, IP: 104.26.8.15, Location: San Francisco, California, US
 Domain: pandas.pydata.org.txt, IP: 104.26.0.204, Location: San Francisco, California, US
 Domain: colgate.edu.txt, IP: 149.43.129.1, Location: Hamilton, New York, US
@@ -13,6 +12,7 @@ Domain: linkedin.com.txt, IP: 13.107.42.14, Location: Redmond, Washington, US
 Domain: open.spotify.com.txt, IP: 23.44.133.185, Location: Piscataway, New Jersey, US
 Domain: chat.openai.com.txt, IP: 104.18.37.228, Location: San Francisco, California, US
 Domain: gmail.com.txt, IP: 142.251.40.229, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 44.238.241.81, Location: Boardman, Oregon, US
 Domain: amazon.com.txt, IP: 54.239.28.85, Location: Ashburn, Virginia, US
 Domain: docs.google.com.txt, IP: 142.251.40.110, Location: New York City, New York, US
 Domain: portal.colgate.edu.txt, IP: 149.43.134.29, Location: Hamilton, New York, US

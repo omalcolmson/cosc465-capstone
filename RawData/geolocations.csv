@@ -1,17 +1,3 @@
-Domain, IPAddr, City, State, Country
-Domain: buff163.com.txt, IP: 69.16.230.226, Location: Lansing, Michigan, US
-Domain: buff163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
-Domain: buff163.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
-Domain: buff163.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
-Domain: buff163.com.txt, IP: 172.16.1.12, Location: Unknown, Unknown, Unknown
-Domain: buff163.com.txt, IP: 154.24.3.165, Location: North Syracuse, New York, US
-Domain: buff163.com.txt, IP: 154.54.87.237, Location: Albany, New York, US
-Domain: buff163.com.txt, IP: 154.54.90.101, Location: Secaucus, New Jersey, US
-Domain: buff163.com.txt, IP: 154.54.40.110, Location: Ashburn, Virginia, US
-Domain: buff163.com.txt, IP: 154.54.30.66, Location: Ashburn, Virginia, US
-Domain: buff163.com.txt, IP: 38.88.214.15, Location: Ashburn, Virginia, US
-Domain: buff163.com.txt, IP: 209.59.157.16, Location: Lansing, Michigan, US
-Domain: buff163.com.txt, IP: 209.59.157.243, Location: Lansing, Michigan, US
 Domain: dineoncampus.com.txt, IP: 104.26.8.15, Location: San Francisco, California, US
 Domain: dineoncampus.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
 Domain: dineoncampus.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
@@ -149,6 +135,23 @@ Domain: gmail.com.txt, IP: 199.109.107.202, Location: New York City, New York, U
 Domain: gmail.com.txt, IP: 199.109.114.18, Location: New York City, New York, US
 Domain: gmail.com.txt, IP: 142.251.65.92, Location: Bloomfield, New York, US
 Domain: gmail.com.txt, IP: 108.170.236.89, Location: Newark, New Jersey, US
+Domain: buff.163.com.txt, IP: 44.238.241.81, Location: Boardman, Oregon, US
+Domain: buff.163.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 149.43.80.3, Location: Hamilton, New York, US
+Domain: buff.163.com.txt, IP: 10.9.52.10, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 172.16.1.11, Location: Unknown, Unknown, Unknown
+Domain: buff.163.com.txt, IP: 38.140.35.201, Location: New York City, New York, US
+Domain: buff.163.com.txt, IP: 154.54.84.213, Location: Chelsea, New York, US
+Domain: buff.163.com.txt, IP: 154.54.162.169, Location: Columbus, Ohio, US
+Domain: buff.163.com.txt, IP: 154.54.7.129, Location: Chicago, Illinois, US
+Domain: buff.163.com.txt, IP: 154.54.44.169, Location: Kansas City, Missouri, US
+Domain: buff.163.com.txt, IP: 154.54.31.89, Location: Denver, Colorado, US
+Domain: buff.163.com.txt, IP: 154.54.42.97, Location: Salt Lake City, Utah, US
+Domain: buff.163.com.txt, IP: 154.54.44.141, Location: Foster City, California, US
+Domain: buff.163.com.txt, IP: 154.54.43.14, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 38.142.246.130, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 15.230.28.25, Location: San Jose, California, US
+Domain: buff.163.com.txt, IP: 150.222.97.1, Location: San Jose, California, US
 Domain: amazon.com.txt, IP: 54.239.28.85, Location: Ashburn, Virginia, US
 Domain: amazon.com.txt, IP: 172.17.0.1, Location: Unknown, Unknown, Unknown
 Domain: amazon.com.txt, IP: 149.43.80.2, Location: Hamilton, New York, US
