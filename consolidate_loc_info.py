@@ -140,6 +140,11 @@ def main():
     # merged_endservers.to_csv('EndServersLocations.csv', index=False)
     # merged_inter.to_csv('IntermediateServerLocations.csv', index=False)
 
+    intermediate_state = pd.read_csv('intermediate_citycount.csv')
+    intermediate_state.drop(columns='City', inplace=True)
+    counts = intermediate_state.groupby(['State'])['Count'].sum().reset_index()
+    counts.to_csv('test.csv')
+    
     # simplify_devtools('devtool_geolocations2k.csv')
     # simplify_geolocs('geolocations.csv')
     # fname1 = 'DevToolLocCount2k.csv'
