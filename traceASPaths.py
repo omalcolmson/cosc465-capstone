@@ -162,7 +162,10 @@ def main():
         if ip and as_names:
             df.at[index, 'Domain'] = url
             df.at[index, 'IP'] = ip
-            df.at[index, 'ASName'] = as_names
+            if len(as_names) == 1:
+                df.at[index, 'ASName'] = as_names[0]
+            else:
+                as_names
         
     df.to_csv("DomainsAnalysis.csv")
 

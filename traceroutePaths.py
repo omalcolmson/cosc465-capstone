@@ -14,20 +14,20 @@ def main():
     df = pd.read_csv('RawData/topdomains.csv')
     urls = df['URL'].to_list()
     output_dir = 'TracerouteOutput'
-    print(urls)
+    # print(urls)
     # Create the output directory if it doesn't exist
-    # if not os.path.exists(output_dir):
-    #     os.makedirs(output_dir)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    # for url in urls:
-    #     # commandList = f"./docker_traceroute.sh {url} > /TracerouteOutput/{url}.txt".split()
-    #     output_file = os.path.join(output_dir, f'{url}.txt')
-    #     commandList = ['./docker_traceroute.sh', url]
-    #     try: 
-    #         with open(output_file, 'w') as outfile:
-    #             subprocess.run(commandList, stdout=outfile, check=True)
-    #     except subprocess.CalledProcessError as e:
-    #         print(f"Error running traceroute for domain {url}: {e}")
+    for url in urls:
+        # commandList = f"./docker_traceroute.sh {url} > /TracerouteOutput/{url}.txt".split()
+        output_file = os.path.join(output_dir, f'{url}.txt')
+        commandList = ['./docker_traceroute.sh', url]
+        try: 
+            with open(output_file, 'w') as outfile:
+                subprocess.run(commandList, stdout=outfile, check=True)
+        except subprocess.CalledProcessError as e:
+            print(f"Error running traceroute for domain {url}: {e}")
     
     # print(get_ASes(path))
 
